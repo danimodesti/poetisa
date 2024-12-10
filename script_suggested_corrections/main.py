@@ -1,11 +1,12 @@
 import re # Procurar padrões com expressões regulares
 from bs4 import BeautifulSoup # Limpar HTML e deixar apenas texto visível
 import os # Processar os arquivos e diretórios
+from utils.utils import carregar_lexico # Utilitários
 
 ### Variáveis globais para controlar caminhos de arquivos e constantes ###
 
 # Léxico de suporte (lista possibilidades para substituição das palavras)
-caminho_lexico = 'portilexicon-ud.tsv'  
+caminho_lexico = 'assets/portifirstcol.tsv'  
 
 # Caracteres possíveis para correções
 caracteres_especiais = "áàâãäçéèêëíìîïóòôõöúùûüñ"
@@ -14,24 +15,6 @@ caracteres_especiais = "áàâãäçéèêëíìîïóòôõöúùûüñ"
 diretorio_arqs_originais = 'Verbo-Brasil_html/'
 
 #######################################################################################################
-
-"""
-    Função que abre o arquivo de léxico de suporte e retorna um 'dicionário' para consultar apenas as
-    palavras com caracteres especiais.
-"""
-def carregar_lexico(caminho_lexico):
-    # Define um padrão de expressão regular para verificar caracteres especiais/acentos
-    regex_caracteres_especiais = re.compile(f'[{caracteres_especiais}]', re.IGNORECASE)
-    
-    palavras = set() # Sem duplicatas
-    with open(caminho_lexico, 'r', encoding='utf-8') as f:
-        for linha in f:
-            if linha.strip(): 
-                palavra = linha.split('\t')[0]  # Pega a primeira coluna
-                # Adiciona apenas se contiver caracteres especiais/acento, que é a 'corrupção' que queremos corrigir
-                if regex_caracteres_especiais.search(palavra):
-                    palavras.add(palavra)
-    return palavras
 
 """
     Função para abrir e retornar em uma variável o conteúdo do arquivo que precisa de substituições
@@ -104,45 +87,25 @@ def pesquisar_no_lexico(palavra_dict, lexico):
         palavra_dict["substituicoes"] = {possibilidade.capitalize() for possibilidade in palavra_dict["substituicoes"]}
 
 """
-    Verificar se palavra corrompida é um país e, por isso, dificilmente estará no léxico de suporte,
+    Verificar se palavra corrompida é um país ou nome de pessoa e, por isso, dificilmente estará no léxico de suporte,
     apesar de ser palavra de uso comum.
 """
-def pesquisar_paises(palavra_dict):
+def pesquisar_dominio(palavra_dict):
     # Criando a regex dinâmica para a palavra corrompida
     regex_pattern = re.sub(r'\?', f'[{caracteres_especiais}]', palavra_dict["palavra"])
 
     # Inicia um set para armazenar as substituições encontradas
-    paises_encontrados = set()
+    nomes_encontrados = set()
 
-    # Abre o arquivo com os nomes dos países
-    with open('nomes_de_paises.txt', 'r', encoding='utf-8') as f:
+    # Abre o arquivo com os nomes de dominio
+    with open('assets/nomes_de_paises.txt', 'r', encoding='utf-8') as f:
         for linha in f:
-            pais = linha.strip()  # Remove espaços em branco no início e fim da linha
-            if re.fullmatch(regex_pattern, pais):
-                paises_encontrados.add(pais)
+            nome = linha.strip()  # Remove espaços em branco no início e fim da linha
+            if re.fullmatch(regex_pattern, nome):
+                nomes_encontrados.add(nome)
 
-    # Atualiza a lista de substituições com os países encontrados
-    palavra_dict["substituicoes"].update(paises_encontrados)
-
-"""
-    Verificar se palavra corrompida é um nome próprio comum e, por isso, dificilmente estará no léxico de suporte.
-"""
-def pesquisar_pessoas(palavra_dict):
-    # Criando a regex dinâmica para a palavra corrompida
-    regex_pattern = re.sub(r'\?', f'[{caracteres_especiais}]', palavra_dict["palavra"])
-
-    # Inicia um set para armazenar as substituições encontradas
-    nomes_pessoas_encontrados = set()
-
-    # Abre o arquivo com os nomes dos países
-    with open('nomes_de_pessoas.txt', 'r', encoding='utf-8') as f:
-        for linha in f:
-            pais = linha.strip()  # Remove espaços em branco no início e fim da linha
-            if re.fullmatch(regex_pattern, pais):
-                nomes_pessoas_encontrados.add(pais)
-
-    # Atualiza a lista de substituições com os países encontrados
-    palavra_dict["substituicoes"].update(nomes_pessoas_encontrados)
+    # Atualiza a lista de substituições com os nomes encontrados
+    palavra_dict["substituicoes"].update(nomes_encontrados)
 
 """
     Função que tenta identificar correções automáticas para as palavras que estão 'corrompidas', 
@@ -162,9 +125,9 @@ def procurar_substituicoes_palavras_corrompidas(palavras_corrompidas_dict, lexic
 
         qtd_possibilidades = len(palavra_corrompida["substituicoes"])
         if qtd_possibilidades == 0:  # nome de país ou nome de pessoa famosa?
-            pesquisar_paises(palavra_corrompida)
+            pesquisar_dominio(palavra_corrompida)
         if qtd_possibilidades == 0:
-            pesquisar_pessoas(palavra_corrompida)
+            pesquisar_dominio(palavra_corrompida)
 
 """
     Retorna a exibição em string da estrutura da palavra para os logs.
@@ -232,7 +195,7 @@ def main():
                 log.write(f"=== Analisando o arquivo {nome_arquivo} ===\n")
                 log.write("==========================================================\n")
 
-            if os.path.isfile(caminho_arq_corrompido): # Arquivo do VBR com erros, que se deseja corrigir    
+            if os.path.isfile(caminho_arq_corrompido) and nome_arquivo == 'saber-v.html': # Arquivo do VBR com erros, que se deseja corrigir    
                 conteudo_arq = obter_conteudo_arquivo_corrompido(caminho_arq_corrompido)
                 palavras_corrompidas_dict = encontrar_palavras_corrompidas_e_contextos(conteudo_arq)
                 procurar_substituicoes_palavras_corrompidas(palavras_corrompidas_dict, lexico)

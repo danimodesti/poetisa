@@ -1,0 +1,4 @@
+poetisa_venv/
+script_suggested_corrections/utils/__pycache__/
+script_suggested_corrections/assets/portilexicon-ud.tsv
+script_suggested_corrections/log_*
