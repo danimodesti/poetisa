@@ -194,8 +194,10 @@ def main():
                 log.write("\n==========================================================\n")
                 log.write(f"=== Analisando o arquivo {nome_arquivo} ===\n")
                 log.write("==========================================================\n")
+            
+            print(f"Analisando o arquivo {nome_arquivo}...")
 
-            if os.path.isfile(caminho_arq_corrompido) and nome_arquivo == 'saber-v.html': # Arquivo do VBR com erros, que se deseja corrigir    
+            if os.path.isfile(caminho_arq_corrompido): # Arquivo do VBR com erros, que se deseja corrigir    
                 conteudo_arq = obter_conteudo_arquivo_corrompido(caminho_arq_corrompido)
                 palavras_corrompidas_dict = encontrar_palavras_corrompidas_e_contextos(conteudo_arq)
                 procurar_substituicoes_palavras_corrompidas(palavras_corrompidas_dict, lexico)

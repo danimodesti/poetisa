@@ -14,9 +14,9 @@ def carregar_lexico(caminho_lexico):
     palavras = set() # Sem duplicatas
     with open(caminho_lexico, 'r', encoding='utf-8') as f:
         for linha in f:
-            if linha.strip(): 
-                palavra = linha.split('\t')[0]  # Pega a primeira coluna
-                # Adiciona apenas se contiver caracteres especiais/acento, que é a 'corrupção' que queremos corrigir
-                if regex_caracteres_especiais.search(palavra):
-                    palavras.add(palavra)
+            # Remove qualquer espaço extra ou caracteres de controle como \n e \r
+            palavra = linha.strip().split(',')[0].strip()  # Pega a palavra antes da vírgula e remove espaços
+            # Adiciona apenas se contiver caracteres especiais/acento, que é a 'corrupção' que queremos corrigir
+            if regex_caracteres_especiais.search(palavra):
+                palavras.add(palavra)
     return palavras
