@@ -23,14 +23,14 @@ The project I am involved with is called "Análise semântica para o português:
 
 ### January and February, 2025
 - ~ 30.01 --> Readings about Jubilee and Cornerstone tools and AMR-PT (text representation).
-- Deeveloping a naive way to group sentences by args/roles.
+- Developing a naive way to group sentences by args/roles (file `cria_framefiles.py`).
 
 ### March, 2025
 - Efforts on the semiannual report about the project progress.
 
 ### April, 2025
 - Reading about BERT
-- Trying to develop a second way of grouping sentences, using BERT.
+- Trying to develop a second way of grouping sentences, using BERT (added to `cria_framefiles.py`).
 
 ### May and June, 2025
 - Mostly trying to develop an interface capable of pre-process and pre-format the sentences, similarly to Cornestone's way.
