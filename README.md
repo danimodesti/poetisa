@@ -20,4 +20,19 @@ The project I am involved with is called "Análise semântica para o português:
 
 ### December, 2024
 - 12.05 --> Finished a version of the script, which generates three logs containing filenames, original sentences, corrupted words, and suggested corrections, if any. Explored the semantic role annotation manual for Portuguese, attempted to log in to the new Verbo-Brasil web interface, and encountered problems.
-- 12.10 --> Next meeting.
+
+### January and February, 2025
+- Trying to develop three different ways to group sentences: by args/roles (naive), by using bert and by using promp.
+
+### March, 2025
+- Efforts on the semiannual report about the project progress.
+
+### April, May and June, 2025
+- Mostly trying to develop an interface capable of pre-process and pre-format the sentences, similarly to Cornestone's way.
+
+### August, 2025
+- Final efforts to use AI in the project.
+- 31.08 --> Officially ended the project development's period.
+
+### September, 2025
+- Efforts on the final report about the project, in order to finish the PUB process.
