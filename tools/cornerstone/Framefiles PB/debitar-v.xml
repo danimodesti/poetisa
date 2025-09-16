@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="debitar">
+        <roleset framnet="debit.01" id="debitar.01"
+            name="subtrair; tirar contabilmente" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1008: Em a data acordada , os computadores de o Bradesco debitarão ( saque ) a conta de o cliente e creditarão ( depósito ) a empresa vendedora . </text>
+                <arg f="tmp" n="m">Em a data acordada </arg>
+                <arg f="" n="0">os computadores de o Bradesco </arg>
+                <rel f="">debitarão</rel>
+                <arg f="prd" n="m">saque </arg>
+                <arg f="" n="2">a conta de o cliente </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,247 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="acontecer">
+        <roleset framnet="occur.01" id="acontecer.01" name="ocorrer" vncls="48.3">
+            <roles>
+                <role descr="event" n="1">
+                    <vnrole vncls="48.3" vntheta="Theme"/>
+                </role>
+                <role descr="benefactive" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4078: O maior aumento aconteceu em direito ( mais 366 candidatos ) e a maior queda , em engenharia ( menos 980 ) . </text>
+                <arg f="" n="1">O maior aumento </arg>
+                <rel f="">aconteceu</rel>
+                <arg f="loc" n="m">em direito ( mais 366 candidatos ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3889: « Se isso acontecer , tem que ser rápido , de o contrário não adianta mais » , afirmou . </text>
+                <arg f="" n="1">isso </arg>
+                <rel f="">acontecer</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3827: Segundo ele , isso aconteceu após a prisão de soldados venezuelanos em território brasileiro , em fevereiro de 1993 . </text>
+                <arg f="dis" n="m">Segundo ele </arg>
+                <arg f="" n="1">isso </arg>
+                <rel f="">aconteceu</rel>
+                <arg f="tmp" n="m">após a prisão de soldados venezuelanos </arg>
+                <arg f="loc" n="m">em território brasileiro </arg>
+                <arg f="tmp" n="m">em fevereiro de 1993 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3686: Os economistas afirmam que a recuperação puxada por as exportações que o governo previa para o segundo semestre de 1993 não aconteceu . </text>
+                <arg f="" n="1">a recuperação puxada por as exportações que o governo previa para o segundo semestre de 1993 </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">aconteceu</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3573: Esta taxa , no_entanto , não reflete o_que está acontecendo de_fato com os preços em as últimas semanas . </text>
+                <arg f="" n="1">o_que </arg>
+                <rel f="">acontecendo</rel>
+                <arg f="adv" n="m">de_fato </arg>
+                <arg f="" n="2">com os preços </arg>
+                <arg f="tmp" n="m">em as últimas semanas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3438: Quase nada acontece . </text>
+                <arg f="" n="1">Quase nada </arg>
+                <rel f="">acontece</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3320: De_fato , a maioria de suas histórias acontece em um tempo algo a a frente de o presente , mas Gibson rompe completamente com a idéia fundadora de a FC em o cinema ou em a literatura de « futuro » como evolução . </text>
+                <arg f="adv" n="m">De_fato </arg>
+                <arg f="" n="1">a maioria de suas histórias </arg>
+                <rel f="">acontece</rel>
+                <arg f="tmp" n="m">em um tempo algo a a frente de o presente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3145: Enfermagem -- Acontecerá em o próximo dia 6 , em o Ces-Senac ( av._Tiradentes , 822 ) , seminário sobre a caracterização de o pessoal de enfermagem em o Estado de São_Paulo . </text>
+                <arg f="dis" n="m">Enfermagem </arg>
+                <rel f="">Acontecerá</rel>
+                <arg f="tmp" n="m">em o próximo dia 6 </arg>
+                <arg f="loc" n="m">em o Ces-Senac ( av._Tiradentes , 822 ) </arg>
+                <arg f="" n="1">seminário sobre a caracterização de o pessoal de enfermagem em o Estado de São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2964: O segundo caso aconteceu em o Pari ( centro ) . </text>
+                <arg f="" n="1">O segundo caso </arg>
+                <rel f="">aconteceu</rel>
+                <arg f="loc" n="m">em o Pari ( centro ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2910: O pico de audiência aconteceu entre as 20h e 21h de sábado , quando o sistema atendeu 309 ligações . </text>
+                <arg f="" n="1">O pico de audiência </arg>
+                <rel f="">aconteceu</rel>
+                <arg f="tmp" n="m">entre as 20h e 21h de sábado , quando o sistema atendeu 309 ligações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s2803: Os quatro grandes jornais deram , em a segunda-feira , a mesma manchete para informar como acabou o Grande_Prêmio de o Brasil , que aconteceu domingo passado . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">aconteceu</rel>
+                <arg f="tmp" n="m">domingo passado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2774: Os primeiros descontos aconteceriam em a folha de pagamento de este mês , que se encerra dia 15 . </text>
+                <arg f="" n="1">Os primeiros descontos </arg>
+                <rel f="">aconteceriam</rel>
+                <arg f="loc" n="m">em a folha de pagamento de este mês , que se encerra dia 15 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2458: « Isto começou a acontecer em o governo anterior a o de o presidente Itamar_Franco » . </text>
+                <arg f="" n="1">Isto </arg>
+                <rel f="">acontecer</rel>
+                <arg f="loc" n="m">em o governo anterior a o de o presidente Itamar_Franco </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2415: É mais_ou_menos o que está acontecendo em a discussão de quem tem imóvel com quem paga o aluguel , por_exemplo . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">acontecendo</rel>
+                <arg f="loc" n="m">em a discussão de quem tem imóvel com quem paga o aluguel </arg>
+                <arg f="dis" n="m">por_exemplo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2383: Isso aconteceu muitas_vezes este ano . </text>
+                <arg f="" n="1">Isso </arg>
+                <rel f="">aconteceu</rel>
+                <arg f="tmp" n="m">muitas_vezes </arg>
+                <arg f="tmp" n="m">este ano </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosF.s2016: Um cabo , ensinam os dicionários , é uma faixa de terra que entra por o mar o oposto de fiorde , que é uma porção de mar que avança por o continente , como acontece em a Noruega e Suécia . </text>
+                <arg f="" n="1">como </arg>
+                <rel f="">acontece</rel>
+                <arg f="loc" n="m">em a Noruega e Suécia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1585: Prevê que isso aconteça em dez dias , quando seu pai voltar a São_Paulo . </text>
+                <arg f="" n="1">isso </arg>
+                <rel f="">aconteça</rel>
+                <arg f="tmp" n="m">em dez dias , quando seu pai voltar a São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1553: Para entrar em ação , a tropa de ciclistas está esperando apenas que aconteça o cerimonial de inauguração , diz Santini . </text>
+                <rel f="">aconteça</rel>
+                <arg f="" n="1">o cerimonial de inauguração </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1451: Ao_contrário_de o que tem acontecido em suas últimas declarações públicas , FHC evitou ontem fazer ataques a os chamados « aumentos abusivos de preços » por_parte_de os oligopólios grandes empresas que dominam determinados segmentos de a economia . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">acontecido</rel>
+                <arg f="loc" n="m">em suas últimas declarações públicas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1346: A Cosmética'94 acontece em o Parque_Anhembi ( zona norte de SP ) e é aberta a o público . </text>
+                <arg f="" n="1">A Cosmética'94 </arg>
+                <rel f="">acontece</rel>
+                <arg f="loc" n="m">em o Parque_Anhembi ( zona norte de SP ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s890: O festival itinerante , que acontecerá em Santos , Rio_de_Janeiro ( em o domingo ) , Capão_da_Canoa ( RS , dia 21 ) e Florianópolis ( dia 23 ) , dá o tom a a primeira etapa de shows de este ano , marcada por o reggae , novas e antigas bandas nacionais e atrações étnicas e/ou regionais </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">acontecerá</rel>
+                <arg f="loc" n="m">em Santos , Rio_de_Janeiro ( em o domingo ) , Capão_da_Canoa ( RS , dia 21 ) e Florianópolis ( dia 23 ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s864: O papa João_Paulo_2º escolheu a irmã Emília_Ehrlich para ocupar uma de as três secretarias em o sínodo que acontecerá em outubro . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">acontecerá</rel>
+                <arg f="tmp" n="m">em outubro </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s773: O Brasil é um país de o Terceiro_Mundo , ainda sem cara e sem personalidade , mas metade de o seu território é a Hiléia , que tem fascinado os iluminados , de Humboldt a Euclides_da_Cunha ; acontece que , em o passo de Jeca_Tatu em que caminha , o Brasil ameaça transformar a Hiléia , em o século 21 , que já nos olha com cara feia por_cima_de o muro , em um gigantesco cinzeiro , cheio de a cinza de as árvores e de a cinza de os índios . </text>
+                <rel f="">acontece</rel>
+                <arg f="" n="1">que , em o passo de Jeca_Tatu em que caminha , o Brasil ameaça transformar a Hiléia , em o século 21 , que já nos olha com cara feia por_cima_de o muro , em um gigantesco cinzeiro , cheio de a cinza de as árvores e de a cinza de os índios </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s365: A distribuição acontecerá até o final de o mês , partindo de as capitais para o interior de o país . </text>
+                <arg f="" n="1">A distribuição </arg>
+                <rel f="">acontecerá</rel>
+                <arg f="tmp" n="m">até o final de o mês </arg>
+                <arg f="mnr" n="m">partindo de as capitais para o interior de o país </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s134: « Tem que torcer muito e rezar bastante , porque milagres acontecem » . </text>
+                <arg f="" n="1">milagres </arg>
+                <rel f="">acontecem</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

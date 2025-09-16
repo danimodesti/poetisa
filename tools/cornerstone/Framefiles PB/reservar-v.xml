@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reservar">
+        <roleset framnet="book.02" id="reservar.01"
+            name="fazer reserva; guardar" vncls="-">
+            <roles>
+                <role descr="booker, entity making reservation, etc" n="0"/>
+                <role descr="booked, hotel, etc." n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s1390: Hoje_em_dia , qualquer americano medianamente equipado pode fazer diante_de o teclado tarefas que antes exigiam que ele tirasse o bumbum de a cadeira : mandar e receber fax e mensagens eletrônicas , reservar passagens aéreas , controlar a conta bancária , acessar bancos de dados e dezenas_de outros serviços . </text>
+                <rel f="">reservar</rel>
+                <arg f="" n="1">passagens aéreas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1387: Até sexta-feira , 38 pessoas já haviam reservado suas passagens . </text>
+                <arg f="tmp" n="m">Até sexta-feira </arg>
+                <rel f="">reservado</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

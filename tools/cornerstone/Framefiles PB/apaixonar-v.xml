@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="apaixonar-se">
+        <roleset framnet="" id="apaixonar.01" name="cair de amores" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1957: Em o filme , uma garota ( Alex ) é colocada por engano em o mesmo quarto de dois rapazes e se apaixona por Eddy . </text>
+                <arg f="" n="0">uma garota ( Alex ) </arg>
+                <rel f="">apaixona</rel>
+                <arg f="" n="1">por Eddy </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

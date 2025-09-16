@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="restar">
+        <roleset framnet="remain.01" id="restar.01" name="sobrar" vncls="47.1-1">
+            <roles>
+                <role descr="Thing remaining" n="1">
+                    <vnrole vncls="47.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="benefactive, entity who gets the remainder" n="2"/>
+                <role descr="attribute of arg1" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2747: Resta um Gol . </text>
+                <rel f="">Resta</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1207: A única alternativa que resta a Sarney de_fato é que o Superior_Tribunal_de_Justiça acate a denúncia de estelionato apresentada por o Ministério_Público_Federal contra Orestes_Quércia e que , em este caso , o ex- governador de São_Paulo renuncie a a candidatura de o PMDB . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">resta</rel>
+                <arg f="" n="2">a Sarney </arg>
+                <arg f="adv" n="m">de_fato </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s425: Resta portanto saber se as medidas anunciadas , em_tese adequadas , terão em a prática o efeito que se espera . </text>
+                <rel f="">Resta</rel>
+                <arg f="dis" n="m">portanto </arg>
+                <arg f="" n="1">saber se as medidas anunciadas , em_tese adequadas , terão em a prática o efeito que se espera </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

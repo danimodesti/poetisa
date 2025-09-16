@@ -1,0 +1,138 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+        
+    <predicate lemma="alterar">
+                
+        <roleset framnet="alter.01" id="alterar.01" name="transformar" source="" vncls="26.6 45.4">
+                        
+            <roles>
+                                
+                <role descr="causer of transformation" f="" n="0">
+                                        
+                    <vnrole vncls="26.6" vntheta="agent"/>
+                                        
+                    <vnrole vncls="45.4" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing changing" f="" n="1">
+                                        
+                    <vnrole vncls="26.6" vntheta="patient"/>
+                                        
+                    <vnrole vncls="45.4" vntheta="patient"/>
+                                    
+                </role>
+                                
+                <role descr="end state" f="" n="2">
+                                        
+                    <vnrole vncls="26.6" vntheta="product"/>
+                                    
+                </role>
+                                
+                <role descr="start state" f="" n="3">
+                                        
+                    <vnrole vncls="26.6" vntheta="material"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s4033: Mania altera comportamento</text>
+                                
+                <arg f="" n="0">Mania</arg>
+                                
+                <rel f="">altera</rel>
+                                
+                <arg f="" n="1">comportamento</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2929: Segundo a nota , « as providências capazes de alterar o quadro atual de combate a os traficantes dizem respeito a a Polícia_Federal e a as Forças_Armadas , com o objetivo de interromper o fluxo de armas proibidas e cocaína em o Rio » .</text>
+                                
+                <rel f="">alterar</rel>
+                                
+                <arg f="" n="1">o quadro atual de combate a os traficantes</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2423: A necessidade de reparar os equipamentos durante a viagem teria alterado os planos de trabalho .</text>
+                                
+                <arg f="" n="0">A necessidade de reparar os equipamentos durante a viagem</arg>
+                                
+                <rel f="">alterado</rel>
+                                
+                <arg f="" n="1">os planos de trabalho</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s1636: Isto_é : os diversos tipos de refeições são investidos de símbolos que alteram o valor que as pessoas atribuem a o que comem .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <rel f="">alteram</rel>
+                                
+                <arg f="" n="1">o valor que as pessoas atribuem a o que comem</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s397: Além_de isso , tem que se alterar o aparato jurídico para favorecer ações de negociação .</text>
+                                
+                <arg f="dis" n="m">Além_de isso</arg>
+                                
+                <arg f="" n="0">se</arg>
+                                
+                <rel f="">alterar</rel>
+                                
+                <arg f="" n="1">o aparato jurídico</arg>
+                                
+                <arg f="pnc" n="m">para favorecer ações de negociação</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+
+    <note/>
+</frameset>

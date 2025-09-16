@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="arriscar">
+        <roleset framnet="risk.01" id="arriscar.01"
+            name="colocar em risco" vncls="">
+            <roles>
+                <role descr="entity risking something" n="0"/>
+                <role descr="thing risked, tried" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1328: A Suécia não se arriscou em o ataque em nenhum momento de a partida </text>
+                <arg f="" n="0">A Suécia </arg>
+                <arg f="neg" n="m">não </arg>
+                <arg f="" n="1">se </arg>
+                <rel f="">arriscou</rel>
+                <arg f="" n="2">em o ataque </arg>
+                <arg f="tmp" n="m">em nenhum momento de a partida </arg>
+                <note>reflexivo: arriscar-se</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s878: Se abordo este tema aqui não é para arriscar- me em a análise política , coisa que outros farão melhor do_que eu . </text>
+                <rel f="">arriscar-</rel>
+                <arg f="" n="1">me </arg>
+                <arg f="" n="2">em a análise política , coisa que outros farão melhor do_que eu </arg>
+                <note>reflexivo: arriscar-se</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

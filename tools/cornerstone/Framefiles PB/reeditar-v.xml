@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reeditar">
+        <roleset framnet="reprint.01" id="reeditar.01"
+            name="editar de novo" vncls="-">
+            <roles>
+                <role descr="printer, copier, agent" n="0"/>
+                <role descr="thing copied" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2548: Elas não podem ser reeditadas porque a criação ou alteração de impostos só podem ser feitas em o ano anterior a o de sua cobrança . </text>
+                <arg f="" n="1">Elas </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">reeditadas</rel>
+                <arg f="cau" n="m">porque a criação ou alteração de impostos só podem ser feitas em o ano anterior a o de sua cobrança </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

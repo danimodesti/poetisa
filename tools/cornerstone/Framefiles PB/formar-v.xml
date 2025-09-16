@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="formar">
+        <roleset framnet="form.01" id="formar.01" name="organizar" vncls="26.4">
+            <roles>
+                <role descr="creator" n="0">
+                    <vnrole vncls="26.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing created" n="1">
+                    <vnrole vncls="26.4" vntheta="Product"/>
+                </role>
+                <role descr="source" n="2">
+                    <vnrole vncls="26.4" vntheta="Material"/>
+                </role>
+                <role descr="benefactive" n="3">
+                    <vnrole vncls="26.4" vntheta="Beneficiary"/>
+                </role>
+                <role descr="attribute of arg1" n="4"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s4129: O secretário-geral de o Conselho_de_Segurança de a ONU , Boutros_Boutros-Ghali , pediu que as potências que negociam um tratado de paz com as facções em luta em a Bósnia formem uma força-tarefa para agir em a região . </text>
+                <arg f="" n="0">as potências que negociam um tratado de paz com as facções em luta em a Bósnia </arg>
+                <rel f="">formem</rel>
+                <arg f="" n="1">uma força-tarefa para agir em a região </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4012: Cardoso diz que a frente para sua eleição foi formada exclusivamente em_torno_de um programa . </text>
+                <arg f="" n="1">a frente para sua eleição </arg>
+                <rel f="">formada</rel>
+                <arg f="mnr" n="m">exclusivamente </arg>
+                <arg f="loc" n="m">em_torno_de um programa </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

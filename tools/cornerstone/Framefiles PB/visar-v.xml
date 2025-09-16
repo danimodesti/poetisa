@@ -1,0 +1,54 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="visar">
+        <roleset framnet="aim.01" id="visar.01" name="ter por objetivo" vncls="62">
+            <roles>
+                <role descr="aimer" n="0">
+                    <vnrole vncls="62" vntheta="Experiencer"/>
+                </role>
+                <role descr="action" n="1">
+                    <vnrole vncls="62" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3825: Os desfiles , com roupas a venda em o próprio shopping , visam orientar o consumidor a_respeito_de a moda . </text>
+                <arg f="" n="0">Os desfiles , com roupas a venda em o próprio shopping , </arg>
+                <rel f="">visam</rel>
+                <arg f="" n="1">orientar o consumidor a_respeito_de a moda </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2076: O trabalho faz parte de o projeto « Exercícios_Visuais » de o Sesc_Pompéia , que visa a ocupação inusual de espaços de a ex- fábrica . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">visa</rel>
+                <arg f="" n="1">a ocupação inusual de espaços de a ex- fábrica </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1005: Esta armação dá a a equipe um caráter excessivamente defensivo , o_que desagrada a aqueles que esperam de a seleção brasileira um futebol alegre , sempre visando a o gol . </text>
+                <arg f="tmp" n="m">sempre </arg>
+                <rel f="">visando</rel>
+                <arg f="" n="1">a o gol </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s270: Os empresários abriram mão de posições históricas , eventualmente visando sua proteção , para construir e defender idéias exclusivamente de interesse coletivo para o desenvolvimento global . </text>
+                <arg f="adv" n="m">eventualmente </arg>
+                <rel f="">visando</rel>
+                <arg f="" n="1">sua proteção </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

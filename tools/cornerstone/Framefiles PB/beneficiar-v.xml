@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="beneficiar">
+        <roleset framnet="benefit.01" id="beneficiar.01"
+            name="causar benefício" vncls="">
+            <roles>
+                <role descr="giver" n="0"/>
+                <role descr="benefactive, given-to" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3853: Serão beneficiados porque hoje demoram até 12 dias para receber seus benefícios , vinculados a o salário mínimo : </text>
+                <rel f="">beneficiados</rel>
+                <arg f="cau" n="m">porque hoje demoram até 12 dias para receber seus benefícios , vinculados a o salário mínimo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3787: A versão mais corrente sobre o início de o enriquecimento de Quércia é de que ele comprou terrenos em áreas de periferia que seriam beneficiadas por os projetos de melhoria urbana de a Prefeitura . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">beneficiadas</rel>
+                <arg f="" n="0">por os projetos de melhoria urbana de a Prefeitura </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

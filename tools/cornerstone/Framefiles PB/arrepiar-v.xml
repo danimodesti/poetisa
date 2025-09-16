@@ -1,0 +1,22 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="arrepiar">
+        <roleset framnet="" id="arrepiar.01" name="eriçar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s3555: O caso passou a ser investigado porque pessoas que foram a o velório de Pereira teriam dito que o cadáver suava e teve sua pele arrepiada dentro_de o caixão . </text>
+                <rel f="">arrepiada</rel>
+                <note>particípio adjetivo</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

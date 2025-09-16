@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="assimilar">
+        <roleset framnet="learn.01" id="assimilar.01"
+            name="incorporar, aprender" vncls="14">
+            <roles>
+                <role descr="student" n="0">
+                    <vnrole vncls="14" vntheta="Agent"/>
+                </role>
+                <role descr="subject" n="1">
+                    <vnrole vncls="14" vntheta="Topic"/>
+                </role>
+                <role descr="teacher" n="2">
+                    <vnrole vncls="14" vntheta="Source"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3640: Gestão participativa , times de qualidade e outros conceitos foram assimilados por as empresas ao_mesmo_tempo em_que elas passaram a exigir funcionários mais abertos a o diálogo e cientes de a importância de o cumprimento de as regras de boas maneiras dentro_de o ambiente de trabalho . </text>
+                <arg f="" n="1">Gestão participativa , times de qualidade e outros conceitos </arg>
+                <rel f="">assimilados</rel>
+                <arg f="" n="0">por as empresas </arg>
+                <arg f="tmp" n="m">ao_mesmo_tempo em_que elas passaram a exigir funcionários mais abertos a o diálogo e cientes de a importância de o cumprimento de as regras de boas maneiras dentro_de o ambiente de trabalho </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

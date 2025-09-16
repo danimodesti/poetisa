@@ -1,0 +1,79 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="projetar">
+        <roleset framnet="project.02" id="projetar.01"
+            name="fazer projeção; prever" vncls="-">
+            <roles>
+                <role descr="fortune teller" n="0"/>
+                <role descr="prediction" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3617: Um estudo de o Corecon ( Conselho_Regional_de_Economia ) , de o Rio_de_Janeiro , divulgado ontem , está projetando , em a hipótese de adoção de o real em abril , uma inflação de 2,3 $% . </text>
+                <arg f="" n="0">Um estudo de o Corecon ( Conselho_Regional_de_Economia ) , de o Rio_de_Janeiro , divulgado ontem , </arg>
+                <rel f="">projetando</rel>
+                <arg f="adv" n="m">em a hipótese de adoção de o real em abril </arg>
+                <arg f="" n="1">uma inflação de 2,3 $% </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3321: A estratégia de Gibson consiste em projetar em o futuro o_que já está latente em o mundo contemporâneo . </text>
+                <rel f="">projetar</rel>
+                <arg f="" n="2">em o futuro </arg>
+                <arg f="" n="1">o_que já está latente em o mundo contemporâneo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3242: Por_enquanto , este indexador projeta variação de 1 % , com o que os fundos de commodities renderiam 3,03 % . </text>
+                <arg f="tmp" n="m">Por_enquanto </arg>
+                <arg f="" n="0">este indexador </arg>
+                <rel f="">projeta</rel>
+                <arg f="" n="1">variação de 1 % , com o que os fundos de commodities renderiam 3,03 % </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3240: Os fundos de commodities projetam para este mês , em a média , rentabilidade bruta de 3,72 % , segundo a Anbid . </text>
+                <arg f="" n="0">Os fundos de commodities </arg>
+                <rel f="">projetam</rel>
+                <arg f="" n="1">para este mês em a média rentabilidade bruta de 3,72 % </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="design.01" id="projetar.02"
+            name="fazer projeto;  planejar" vncls="26.4-1">
+            <roles>
+                <role descr="designer" n="0">
+                    <vnrole vncls="26.4-1" vntheta="Agent"/>
+                </role>
+                <role descr="thing designed" n="1">
+                    <vnrole vncls="26.4-1" vntheta="Product"/>
+                </role>
+                <role descr="benefactive" n="2">
+                    <vnrole vncls="26.4-1" vntheta="Beneficiary"/>
+                </role>
+                <role descr="purpose" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s174: O tomate foi projetado para manter o sabor que tem depois de colhido durante tempo prolongado em a prateleira de os supermercados . </text>
+                <arg f="" n="1">O tomate </arg>
+                <rel f="">projetado</rel>
+                <arg f="" n="3">para manter o sabor que tem depois de colhido durante tempo prolongado em a prateleira de os supermercados </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

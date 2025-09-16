@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="acelerar">
+        <roleset framnet="accelerate.01" id="acelerar.01"
+            name="tornar mais rápido, aumentar velocidade" vncls="45.4">
+            <roles>
+                <role descr="agent, causing acceleration" n="0">
+                    <vnrole vncls="45.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing acceleration" n="1">
+                    <vnrole vncls="45.4" vntheta="Patient"/>
+                </role>
+                <role descr="EXT" n="2"/>
+                <role descr="start point" n="3"/>
+                <role descr="end point" n="4"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1544: « Estou comprando o micro -- o portátil Aero , de a Compaq -- para acelerar as pesquisas de a minha tese de mestrado » , disse Deborah_Caldas . </text>
+                <rel f="">acelerar</rel>
+                <arg f="" n="1">as pesquisas de a minha tese de mestrado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1458: Assim_como a China , aceleramos a reforma em o campo , começamos por aí . </text>
+                <arg f="adv" n="m">Assim_como a China </arg>
+                <rel f="">aceleramos</rel>
+                <arg f="" n="1">a reforma em o campo </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

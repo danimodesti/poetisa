@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reescrever">
+        <roleset framnet="rewrite.01" id="reescrever.01"
+            name="escrever de novo a mesma obra" vncls="-">
+            <roles>
+                <role descr="writer" n="0"/>
+                <role descr="thing written" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s682: Semana que vem , começa a reescrever « Irmãos_Coragem » , novela de Janete_Clair que a Globo exibiu com enorme sucesso entre junho de 1970 e julho de 1971 . </text>
+                <arg f="tmp" n="m">Semana que vem </arg>
+                <rel f="">reescrever</rel>
+                <arg f="" n="1">« Irmãos_Coragem » , novela de Janete_Clair que a Globo exibiu com enorme sucesso entre junho de 1970 e julho de 1971 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s679: Dias_Gomes reescreverá « Irmãos_Coragem » </text>
+                <arg f="" n="0">Dias_Gomes </arg>
+                <rel f="">reescreverá</rel>
+                <arg f="" n="1">Irmãos_Coragem </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

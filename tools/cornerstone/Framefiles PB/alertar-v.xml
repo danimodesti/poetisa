@@ -1,0 +1,78 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="alertar">
+        <roleset framnet="alert.01" id="alertar.01"
+            name="avisar sobre perigo" vncls="37.9">
+            <roles>
+                <role descr="entity giving warning" n="0">
+                    <vnrole vncls="37.9" vntheta="Agent"/>
+                </role>
+                <role descr="entity getting warning" n="1">
+                    <vnrole vncls="37.9" vntheta="Recipient"/>
+                </role>
+                <role descr="warning" n="2">
+                    <vnrole vncls="37.9" vntheta="Topic"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3556: A família foi alertada mas não chamou nenhum médico e fez o enterro depois de dez horas de velório . </text>
+                <arg f="" n="1">A família </arg>
+                <rel f="">alertada</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3411: Os escritores aqui reunidos pretendem alertar a comunidade internacional sobre os ataques sofridos por a liberdade de pensar e de escrever em vários países de o mundo . </text>
+                <arg f="" n="0">Os escritores aqui reunidos </arg>
+                <rel f="">alertar</rel>
+                <arg f="" n="1">a comunidade internacional </arg>
+                <arg f="" n="2">sobre os ataques sofridos por a liberdade de pensar e de escrever em vários países de o mundo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3336: Documentos reservados de a segurança de a Presidência de a República alertavam , em a semana anterior , para a possibilidade de o presidente ouvir vaias . </text>
+                <arg f="" n="0">Documentos reservados de a segurança de a Presidência de a República </arg>
+                <rel f="">alertavam</rel>
+                <arg f="tmp" n="m">em a semana anterior </arg>
+                <arg f="" n="2">para a possibilidade de o presidente ouvir vaias </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s2951: A constatação é de o jurista Saulo_Ramos , ex- consultor Geral de a República e ex- ministro de a Justiça , que foi convidado a analisar o rascunho de as medidas e em a ocasião alertou para dois problemas : o artigo primeiro e o parágrafo primeiro de a MP 433 praticamente instituem duas moedas em o país , o_que é proibido . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="tmp" n="m">em a ocasião </arg>
+                <rel f="">alertou</rel>
+                <arg f="" n="2">para dois problemas : o artigo primeiro e o parágrafo primeiro de a MP 433 praticamente instituem duas moedas em o país , o_que é proibido </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2410: Ela está alertando os motoristas que saem de Manaus por a rodovia AM-10 . </text>
+                <arg f="" n="0">Ela </arg>
+                <rel f="">alertando</rel>
+                <arg f="" n="1">os motoristas que saem de Manaus por a rodovia AM-10 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s241: Também é necessário alertar toda a sociedade para a importância de se reduzir as perdas de alimentos . </text>
+                <rel f="">alertar</rel>
+                <arg f="" n="1">toda a sociedade </arg>
+                <arg f="" n="2">para a importância de se reduzir as perdas de alimentos </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

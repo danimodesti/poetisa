@@ -1,0 +1,210 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="conseguir">
+        <roleset framnet="achieve.01" id="conseguir.04" name="alcançar" vncls="">
+            <roles>
+                <role descr="achiever" n="0"/>
+                <role descr="thing achieved, gotten, accomplished" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2476: Ela é uma profissional e conseguiu o objetivo de ela . </text>
+                <arg f="" n="0">Ela </arg>
+                <rel f="">conseguiu</rel>
+                <arg f="" n="1">o objetivo de ela </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2262: Mogi_Mirim consegue 2ª vitória consecutiva </text>
+                <arg f="" n="0">Mogi_Mirim </arg>
+                <rel f="">consegue</rel>
+                <arg f="" n="1">2ª vitória consecutiva </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1527: Pesquisadores de os Estados_Unidos concluem que o medicamento consegue bons resultados a_longo_prazo </text>
+                <arg f="" n="0">o medicamento </arg>
+                <rel f="">consegue</rel>
+                <arg f="" n="1">bons resultados </arg>
+                <arg f="tmp" n="m">a_longo_prazo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1089: Apesar_disso ou exatamente por_causa_de isso , conseguiu a classificação diante_de o Corinthians , que ficou em o meio de o caminho : nem escalou sua força máxima , nem optou por um time de juniores com alguns reservas de reforço . </text>
+                <arg f="dis" n="m">Apesar_disso ou exatamente por_causa_de isso </arg>
+                <rel f="">conseguiu</rel>
+                <arg f="" n="1">a classificação </arg>
+                <arg f="prd" n="m">diante_de o Corinthians , que ficou em o meio de o caminho : nem escalou sua força máxima , nem optou por um time de juniores com alguns reservas de reforço </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="" id="conseguir.05"
+            name="ser capaz de (normalmente seguido de infinitivo)" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2336: Foi justamente graças_a a arte de alguns de seus jogadores que equipes como a Bulgária , a Romênia e a Nigéria chegaram muito mais longe do_que jamais tinham conseguido . </text>
+                <arg f="" n="0">a Bulgária , a Romênia e a Nigéria </arg>
+                <rel f="">conseguido</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="achieve.01" id="conseguir.01"
+            name="obter o que se pretendia" vncls="">
+            <roles>
+                <role descr="achiever" n="0"/>
+                <role descr="thing achieved, gotten, accomplished" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3931: O deputado Aloizio_Mercadante ( PT/SP ) divulgou ontem números de o Tesouro sobre a execução orçamentária de janeiro a novembro de 1993 , demonstrando que o governo conseguiu um superávit operacional de US$ 9,2 bilhões em este período . </text>
+                <arg f="" n="0">o governo </arg>
+                <rel f="">conseguiu</rel>
+                <arg f="" n="1">um superávit operacional de US$ 9,2 bilhões </arg>
+                <arg f="tmp" n="m">em este período </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s3769: Como o Estado não tem recursos , nem vai ter para todos , o atendimento acaba deixando de_fora justamente os mais pobres , que não conseguem acesso a os serviços públicos . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">conseguem</rel>
+                <arg f="" n="1">acesso a os serviços públicos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3732: Apesar_de ter conseguido a guarda de Natasha , Conceição está aflita . </text>
+                <rel f="">conseguido</rel>
+                <arg f="" n="1">a guarda de Natasha </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s3045: Acho importante notar que a Bienal mudou a maneira de conseguir patrocínio cultural em o país , que antes era feito a a base de o « me_dá_um_dinheiro_aí » . </text>
+                <rel f="">conseguir</rel>
+                <arg f="" n="1">patrocínio cultural em o país , que antes era feito a a base de o « me_dá_um_dinheiro_aí » </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="get.01" id="conseguir.02"
+            name="lograr êxito em obter" vncls="13.5.1-1">
+            <roles>
+                <role descr="receiver" n="0">
+                    <vnrole vncls="13.5.1-1" vntheta="Agent"/>
+                </role>
+                <role descr="thing gotten" n="1">
+                    <vnrole vncls="13.5.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="giver" n="2">
+                    <vnrole vncls="13.5.1-1" vntheta="Source"/>
+                </role>
+                <role descr="price paid, in-exchange-for" n="3">
+                    <vnrole vncls="13.5.1-1" vntheta="Asset"/>
+                </role>
+                <role descr="benefactive" n="4">
+                    <vnrole vncls="13.5.1-1" vntheta="Beneficiary"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosG.s3524: Lá , os plínios fazem amigos , influenciam pessoas , revêem colegas , contam as novidades -- as últimas viagens para os Estados_Unidos , quem comprou carro novo , quem « vai ter » que começar a trabalhar com o pai , os que ainda não conseguiram telefone celular . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="neg" n="m">ainda não </arg>
+                <rel f="">conseguiram</rel>
+                <arg f="" n="1">telefone celular </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3282: Obviamente , não conseguiu . </text>
+                <arg f="adv" n="m">Obviamente </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">conseguiu</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1569: Uma vaca pardo-suíço conseguiu a maior cotação de a Expomilk , R$ 36 mil ( US$ 42,2 mil ) . </text>
+                <arg f="" n="0">Uma vaca pardo-suíço </arg>
+                <rel f="">conseguiu</rel>
+                <arg f="" n="1">a maior cotação de a Expomilk , R$ 36 mil ( US$ 42,2 mil ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1179: Vacas girolando conseguem R$ 3.600 contra R$ 3.000 de as holandesas em dois remates realizados em SP </text>
+                <arg f="" n="0">Vacas girolando </arg>
+                <rel f="">conseguem</rel>
+                <arg f="" n="1">R$ 3.600 </arg>
+                <arg f="prd" n="m">contra R$ 3.000 de as holandesas </arg>
+                <arg f="loc" n="m">em dois remates realizados em SP </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1052: « Se o inquilino conseguir um bom desconto em a hora de a mudança de o aluguel de cruzeiros reais para URV é negócio para ele » , diz . </text>
+                <arg f="" n="0">o inquilino </arg>
+                <rel f="">conseguir</rel>
+                <arg f="" n="1">um bom desconto </arg>
+                <arg f="tmp" n="m">em a hora de a mudança de o aluguel de cruzeiros reais para URV </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="get.04" id="conseguir.03"
+            name="fazer alguem fazer algo" vncls="13.5.1-1">
+            <roles>
+                <role descr="instigator" n="0">
+                    <vnrole vncls="13.5.1-1" vntheta="Agent"/>
+                </role>
+                <role descr="a clause" n="1">
+                    <vnrole vncls="13.5.1-1" vntheta="Patient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2720: Anteontem , o Banerj , que administra a dívida pública estadual , não conseguiu que o Banco_Central negociasse R$ 84 milhões em títulos estaduais , trocando- os por títulos federais . </text>
+                <arg f="tmp" n="m">Anteontem </arg>
+                <arg f="" n="0">o Banerj , que administra a dívida pública estadual , </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">conseguiu</rel>
+                <arg f="" n="1">que o Banco_Central negociasse R$ 84 milhões em títulos estaduais , trocando- os por títulos federais </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

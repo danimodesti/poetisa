@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reagir">
+        <roleset framnet="react.01" id="reagir.01"
+            name="agir em resposta a um estímulo" vncls="31.3">
+            <roles>
+                <role descr="reactor" n="0">
+                    <vnrole vncls="31.3" vntheta="Experiencer"/>
+                </role>
+                <role descr="reacted-to" n="1">
+                    <vnrole vncls="31.3" vntheta="Cause"/>
+                </role>
+                <role descr="reaction" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4169: Segundo a agência de noticias Notimex , a reação pode ser uma amostra de que como vai reagir a torcida se o México não se classificar para a segunda fase de a Copa . </text>
+                <arg f="mnr" n="m">como </arg>
+                <rel f="">reagir</rel>
+                <arg f="" n="0">a torcida </arg>
+                <arg f="adv" n="m">se o México não se classificar para a segunda fase de a Copa </arg>
+                <note>uso intransitivo</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2022: Durante a apresentação de o balanço , Míton_Cabral disse que a empresa reagiu em o final de o ano , voltando a deter mais_de 80 % de o mercado , graças_a o sucesso de a marca Derby . </text>
+                <arg f="" n="0">a empresa </arg>
+                <rel f="">reagiu</rel>
+                <arg f="tmp" n="m">em o final de o ano </arg>
+                <arg f="adv" n="m">voltando a deter mais_de 80 % de o mercado , graças_a o sucesso de a marca Derby </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

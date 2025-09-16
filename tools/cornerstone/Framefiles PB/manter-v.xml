@@ -1,0 +1,237 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="manter">
+        <roleset framnet="maintain.01" id="manter.01"
+            name="conservar; não alterar" vncls="29.5 55.6">
+            <roles>
+                <role descr="maintainer" n="0">
+                    <vnrole vncls="29.5" vntheta="Agent"/>
+                    <vnrole vncls="55.6" vntheta="Agent"/>
+                </role>
+                <role descr="thing maintained" n="1">
+                    <vnrole vncls="29.5" vntheta="Theme"/>
+                    <vnrole vncls="55.6" vntheta="Theme"/>
+                </role>
+                <role descr="benefactive" n="2">
+                    <vnrole vncls="29.5" vntheta="Predicate"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4197: O banco não informou porque o sigilo não foi mantido também para os grupos estrangeiros . </text>
+                <arg f="" n="1">o sigilo </arg>
+                <rel f="">mantido</rel>
+                <arg f="" n="2">também para os grupos estrangeiros </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s4046: « O importante é levantar bem o joelho , manter o ritmo e encostar o calcanhar em o chão a cada movimento » , diz . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">o ritmo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3910: Apesar_de as críticas , Vogts prefere manter a discrição : </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">a discrição </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3722: O conselho também manteve multas aplicadas a a Indústrias_J.B._Duarte e a seus dirigentes por a prática de atividades restritas a instituições financeiras . </text>
+                <arg f="" n="0">O conselho </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">manteve</rel>
+                <arg f="" n="1">multas aplicadas a a Indústrias_J.B._Duarte e a seus dirigentes por a prática de atividades restritas a instituições financeiras </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3608: O ministro britânico para a Irlanda_do_Norte , Patrick_Mayhew , afirmou ontem em Belfast que o cronograma de o processo de paz será mantido . </text>
+                <arg f="" n="1">o cronograma de o processo de paz </arg>
+                <rel f="">mantido</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3340: Avisado de o alerta de o governador , Itamar desdenhou os riscos e manteve a viagem . </text>
+                <arg f="prd" n="m">Avisado de o alerta de o governador </arg>
+                <arg f="" n="0">Itamar </arg>
+                <rel f="">manteve</rel>
+                <arg f="" n="1">a viagem </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3057: Acredito que , mantendo esse percentual , seremos campeões » , disse Luxemburgo . </text>
+                <rel f="">mantendo</rel>
+                <arg f="" n="1">esse percentual </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2673: « Queríamos manter um lugar em o pódio . » </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">um lugar em o pódio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s2429: O motivo é que ele obriga a empresa que contratar jovens a manter um tutor para ensinar o trabalho a os novos empregados . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">um tutor para ensinar o trabalho a os novos empregados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2363: Ele teve importante papel a o manter a política externa e muitos assuntos internos fora_de a esfera decisória de a UE , ganhando a simpatia britânica . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">a política externa e muitos assuntos internos </arg>
+                <arg f="" n="2">fora_de a esfera decisória de a UE </arg>
+                <arg f="adv" n="m">ganhando a simpatia britânica </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2324: Talvez preferíssemos que o comércio estivesse totalmente liberalizado , sem as listas de produto em regime de adequação ( sobre os_quais são mantidos os impostos alfandegários ) que afetam de 5 % a 8 % de o comércio regional . </text>
+                <rel f="">mantidos</rel>
+                <arg f="" n="1">os impostos alfandegários </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2182: Apenas para estadas mais breves , de um a dois dias , o preparador teria optado por manter o fuso de Los_Gatos . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">o fuso de Los_Gatos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2156: Preocupação de Vidigal : « Manter junto a as autoridades a imagem de seriedade cuidadosamente cultivada em o decorrer de esses anos » . </text>
+                <rel f="">Manter</rel>
+                <arg f="loc" n="m">junto a as autoridades </arg>
+                <arg f="" n="1">a imagem de seriedade cuidadosamente cultivada em o decorrer de esses anos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1468: Ele disse a os empresários -- que mantiveram suas críticas a a política de abertura comercial indiscriminada -- que o governo pode aumentar de_novo as alíquotas de importação em todos os setores . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">mantiveram</rel>
+                <arg f="" n="1">suas críticas a a política de abertura comercial indiscriminada </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1262: Um grupo de miul policiais militares de os EUA sob o comando de o ex- chefe de polícia de Nova_York , Raymond_Kelly , comeu a trabalhar ontem em Porto_Príncipe com o objetivo de ajudar a manter a ordem pública . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">a ordem pública </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s728: O TST fala em manter a produção de combustíveis e gás . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">a produção de combustíveis e gás </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s407: Segundo o jornal « USA_Today » , a revista publicará fotos em as_quais Harding aparece mantendo relações sexuais com seu ex- marido , Jeff_Gillooly . </text>
+                <rel f="">mantendo</rel>
+                <arg f="" n="1">relações sexuais </arg>
+                <arg f="prd" n="m">com seu ex- marido , Jeff_Gillooly </arg>
+                <note>em inglês, "manter" nesse exemplo é melhor traduzido por "to have"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s315: Durante seis voltas , os pilotos tiveram que manter suas posições por razões de segurança e aproveitavam para aquecer os pneus enquanto os carros envolvidos em o acidente eram retirados . </text>
+                <arg f="tmp" n="m">Durante seis voltas </arg>
+                <arg f="" n="0">os pilotos </arg>
+                <rel f="">manter</rel>
+                <arg f="" n="1">suas posições </arg>
+                <arg f="cau" n="m">por razões de segurança </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s313: Em a largada , Ayrton_Senna , que havia feito a pole_position , manteve a primeira colocação . </text>
+                <arg f="tmp" n="m">Em a largada </arg>
+                <arg f="" n="0">Ayrton_Senna , que havia feito a pole_position , </arg>
+                <rel f="">manteve</rel>
+                <arg f="" n="1">a primeira colocação </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s174: O tomate foi projetado para manter o sabor que tem depois de colhido durante tempo prolongado em a prateleira de os supermercados . </text>
+                <rel f="">manter</rel>
+                <arg f="" n="1">o sabor que tem depois de colhido durante tempo prolongado em a prateleira de os supermercados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s160: « O ceticismo em_relação_a planos econômicos faz a população manter reservas » , diz o ex- diretor de Política_Monetária de o BC , Luís_Eduardo_de_Assis , diretor de investimentos de o Citibank . </text>
+                <arg f="" n="0">a população </arg>
+                <rel f="">manter</rel>
+                <arg f="" n="1">reservas </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="">
+        <roleset framnet="" id="manter.02" name="" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2567: Segundo o médico Flávio_Pozzuto , as funções neurológicas de o torcedor se mantêm sem alteração ele respira com ajuda de aparelhos . </text>
+                <arg f="dis" n="m">Segundo o médico Flávio_Pozzuto </arg>
+                <arg f="" n="1">as funções neurológicas de o torcedor </arg>
+                <rel f="">mantêm</rel>
+                <arg f="" n="3">sem alteração </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s972: Em a ocasião , Fidel_Castro permitiu a saída de milhares de pessoas insatisfeitas com seu regime e abriu um novo espaço para se manter em o poder . </text>
+                <rel f="">manter</rel>
+                <arg f="loc" n="m">em o poder </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

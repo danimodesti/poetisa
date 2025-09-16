@@ -1,0 +1,92 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="decidir">
+        <roleset framnet="decide.01" id="decidir.01"
+            name="tomar decisão; resolver" vncls="">
+            <roles>
+                <role descr="decider" n="0"/>
+                <role descr="decision" n="1"/>
+                <role descr="benefactive" n="2"/>
+                <role descr="instrument" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3288: Gloria_Attanasio , magistrada de a capital , meramente decidiu o_que a sua função lhe exigia , e enviou 250 detetives a as sedes de os tais 34 clubes para , lá , coletarem os livros contábeis e os recibos correspondentes a o versamento de os impostos . </text>
+                <arg f="" n="0">Gloria_Attanasio , magistrada de a capital , </arg>
+                <arg f="mnr" n="m">meramente </arg>
+                <rel f="">decidiu</rel>
+                <arg f="" n="1">o_que a sua função lhe exigia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2847: Decidimos então , por uma questão de economia cênica , abolir uma de as casas e só insinuar as outras duas , fazendo apenas suas entradas , que parecem as de um templo . </text>
+                <rel f="">Decidimos</rel>
+                <arg f="dis" n="m">então </arg>
+                <arg f="cau" n="m">por uma questão de economia cênica </arg>
+                <arg f="" n="1">abolir uma de as casas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2702: PRN decide expulsar candidato a presidente </text>
+                <arg f="" n="0">PRN </arg>
+                <rel f="">decide</rel>
+                <arg f="" n="1">expulsar candidato a presidente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2301: O STJ decide que Halpern e Decaro , indiciados por o MPF sob a acusação de fraude processual , devem ser julgados por a Justiça_Federal em São_Paulo . </text>
+                <arg f="" n="0">O STJ </arg>
+                <rel f="">decide</rel>
+                <arg f="" n="1">Halpern e Decaro , indiciados por o MPF sob a acusação de fraude processual , </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s2032: Convencido de que Munhoz tem uma boa retórica , o publicitário pretende deixar o candidato « falar o que quiser » para , antes de a gravação final , decidir o que irá a o ar . </text>
+                <arg f="tmp" n="m">antes de a gravação final </arg>
+                <rel f="">decidir</rel>
+                <arg f="" n="1">o que irá a o ar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1449: Ele disse que a Justiça_do_Trabalho em São_Paulo havia decidido que não havia perdas salariais para os metalúrgicos de o Estado . </text>
+                <arg f="" n="0">a Justiça_do_Trabalho em São_Paulo </arg>
+                <rel f="">decidido</rel>
+                <arg f="" n="1">que não havia perdas salariais para os metalúrgicos de o Estado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1362: « Senti dores e , como tenho uns casos de câncer em a família , decidi fazer o exame » , contou a modelo . </text>
+                <arg f="cau" n="m">como tenho uns casos de câncer em a família </arg>
+                <rel f="">decidi</rel>
+                <arg f="" n="1">fazer o exame </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1298: Em a reta final de seu mandato , o presidente Itamar_Franco decidiu arrumar empregos , a_partir_de janeiro próximo , para seus amigos que compõem o chamado « Grupo_de_Juiz_de_Fora » . </text>
+                <arg f="loc" n="m">Em a reta final de seu mandato </arg>
+                <arg f="" n="0">o presidente Itamar_Franco </arg>
+                <rel f="">decidiu</rel>
+                <arg f="" n="1">arrumar empregos , a_partir_de janeiro próximo , para seus amigos que compõem o chamado « Grupo_de_Juiz_de_Fora » </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

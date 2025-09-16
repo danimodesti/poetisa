@@ -1,0 +1,78 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="superar">
+        <roleset framnet="exceed.01" id="superar.01" name="exceder" vncls="90">
+            <roles>
+                <role descr="thing that's more" n="0">
+                    <vnrole vncls="90" vntheta="Theme1"/>
+                </role>
+                <role descr="thing that's less" n="1">
+                    <vnrole vncls="90" vntheta="Theme2"/>
+                </role>
+                <role descr="margin, difference" n="2">
+                    <vnrole vncls="90" vntheta="Attribute"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2394: Em a cheia , entre outubro e abril , quando a média mensal de chuvas supera 290 milímetros , a irrigação de o arroz é feita por inundação . </text>
+                <arg f="tmp" n="m">quando </arg>
+                <arg f="" n="0">a média mensal de chuvas </arg>
+                <rel f="">supera</rel>
+                <arg f="" n="1">290 milímetros </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2161: Em o mercado , estima- se que as dívidas de o grupo superam os nove bilhões de marcos . </text>
+                <arg f="loc" n="m">Em o mercado </arg>
+                <arg f="" n="0">as dívidas de o grupo </arg>
+                <rel f="">superam</rel>
+                <arg f="" n="1">os nove bilhões de marcos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1756: Em o acumulado de o mês atinge 43,85 % , superando as variações de março ( 40,91 % ) , abril ( 40,23 % ) e maio ( 40,23 % ) . </text>
+                <rel f="">superando</rel>
+                <arg f="" n="1">as variações de março ( 40,91 % ) , abril ( 40,23 % ) e maio ( 40,23 % ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1330: Ele garante que o aumento real em as mensalidades não vai superar os 22 % propostos por a Abramge . </text>
+                <arg f="" n="0">o aumento real em as mensalidades </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">superar</rel>
+                <arg f="" n="1">os 22 % propostos por a Abramge </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1266: Sommeliers paulistas se superam em evento </text>
+                <arg f="" n="0">Sommeliers paulistas </arg>
+                <arg f="rec" n="m">se </arg>
+                <rel f="">superam</rel>
+                <arg f="loc" n="m">em evento </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1178: Girolando supera a média de o holandês </text>
+                <arg f="" n="0">Girolando </arg>
+                <rel f="">supera</rel>
+                <arg f="" n="1">a média de o holandês </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

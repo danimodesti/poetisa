@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="contrariar">
+        <roleset framnet="contravene.01" id="contrariar.01"
+            name="ir contra as regras" vncls="-">
+            <roles>
+                <role descr="breaker of rules" n="0"/>
+                <role descr="rules" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2026: O Sinicesp impugnou concorrência de a Prefeitura de Santana_de_Parnaíba argumentando que o edital para obra de infra-estrutura contraria a Lei_8.666 . </text>
+                <arg f="" n="0">o edital para obra de infra-estrutura </arg>
+                <rel f="">contraria</rel>
+                <arg f="" n="1">a Lei_8.666 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1447: « Não podemos aceitar medidas que contrariem o combate a a inflação » , disse FHC , a o responder sobre o assunto . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">contrariem</rel>
+                <arg f="" n="1">o combate a a inflação </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

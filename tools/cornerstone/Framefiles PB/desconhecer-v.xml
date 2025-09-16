@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="desconhecer">
+        <roleset framnet="" id="desconhecer.01"
+            name="não saber; ignorar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3835: Por razões que a própria razão desconhece , em o sorteio de o local de o jogo decisivo , a bolinha quase sempre apontava o assustador estádio de São_Januário . </text>
+                <arg f="" n="1">que </arg>
+                <arg f="" n="0">a própria razão </arg>
+                <rel f="">desconhece</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1119: O escocês atribuiu o seu desempenho ruim a o fato de desconhecer o carro sob as novas regras . </text>
+                <rel f="">desconhecer</rel>
+                <arg f="" n="1">o carro </arg>
+                <arg f="mnr" n="m">sob as novas regras </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

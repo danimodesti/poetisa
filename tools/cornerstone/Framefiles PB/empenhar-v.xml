@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="empenhar-se">
+        <roleset framnet="endeavor.01" id="empenhar.01"
+            name="esforçar-se" vncls="-">
+            <roles>
+                <role descr="tryer, agent" n="0"/>
+                <role descr="proposition" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2602: Já passou de a hora de governo , prestadores de serviços e usuários se empenharem para não só aprofundar as discussões sobre a ineficácia de o sistema de saúde , como também para buscar alternativas e soluções viáveis , a_fim_de proporcionar um atendimento mais digno a a população em_geral . </text>
+                <arg f="" n="0">governo , prestadores de serviços e usuários </arg>
+                <rel f="">empenharem</rel>
+                <arg f="" n="1">para não só aprofundar as discussões sobre a ineficácia de o sistema de saúde , como também para buscar alternativas e soluções viáveis , a_fim_de proporcionar um atendimento mais digno a a população em_geral </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1598: O talento de Barros continua lá , apesar_de Marilia_Pêra se empenhar em tomar conta de o filme com um histrionismo fora_de lugar . </text>
+                <arg f="" n="0">Marilia_Pêra </arg>
+                <rel f="">empenhar</rel>
+                <arg f="" n="1">em tomar conta de o filme </arg>
+                <arg f="mnr" n="m">com um histrionismo fora_de lugar </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

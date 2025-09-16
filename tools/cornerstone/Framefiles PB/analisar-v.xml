@@ -1,0 +1,86 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="analisar">
+        <roleset framnet="analize.01" id="analisar.01" name="investigar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2951: A constatação é de o jurista Saulo_Ramos , ex- consultor Geral de a República e ex- ministro de a Justiça , que foi convidado a analisar o rascunho de as medidas e em a ocasião alertou para dois problemas : o artigo primeiro e o parágrafo primeiro de a MP 433 praticamente instituem duas moedas em o país , o_que é proibido . </text>
+                <rel f="">analisar</rel>
+                <arg f="" n="1">o rascunho de as medidas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2080: Para o arquiteto Siegbert_Zanettini , de o Vila_Olímpia_Viva , « agora um órgão independente está analisando o impacto de a obra sobre o meio_ambiente » . </text>
+                <arg f="dis" n="m">Para o arquiteto Siegbert_Zanettini , de o Vila_Olímpia_Viva , </arg>
+                <arg f="tmp" n="m">agora </arg>
+                <arg f="" n="0">um órgão independente </arg>
+                <rel f="">analisando</rel>
+                <arg f="" n="1">o impacto de a obra sobre o meio_ambiente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2079: A obra vai causar um impacto tão grande em a região que deve ser analisada por o Estado » , disse Horácio_Galvanese , de o Pinheiros_Vivo . </text>
+                <arg f="" n="1">A obra </arg>
+                <rel f="">analisada</rel>
+                <arg f="" n="0">por o Estado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1815: Recentemente , o Banco_Mundial constituiu um grupo independente de inspeção para analisar queixas sobre seus projetos , iniciou uma nova política de informações e o Gatt organizou o primeiro seminário com a participação de ONGs . </text>
+                <rel f="">analisar</rel>
+                <arg f="" n="1">queixas sobre seus projetos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1613: São analisados os preços de 155 produtos e serviços . </text>
+                <rel f="">analisados</rel>
+                <arg f="" n="1">os preços de 155 produtos e serviços </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s871: Foram analisadas apenas a primeira amostra de os produtos e ainda deve ser feita contraprova . </text>
+                <rel f="">analisadas</rel>
+                <arg f="" n="1">apenas a primeira amostra de os produtos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s233: O economista diz que , para geração de empregos , várias propostas terão que ser analisadas . </text>
+                <arg f="pnc" n="m">para geração de empregos </arg>
+                <arg f="" n="1">várias propostas </arg>
+                <rel f="">analisadas</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s208: « Quando analisei a pista em a quinta-feira , pedi a a FIA que melhorasse as condições de aquele ponto » , disse o alemão . </text>
+                <arg f="tmp" n="m">Quando </arg>
+                <rel f="">analisei</rel>
+                <arg f="" n="1">a pista </arg>
+                <arg f="tmp" n="m">em a quinta-feira </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

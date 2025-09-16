@@ -1,0 +1,183 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="realizar">
+        <roleset framnet="carry.03" id="realizar.01"
+            name="concretizar; efetuar" vncls="">
+            <roles>
+                <role descr="implementer" n="0"/>
+                <role descr="thing implemented" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4138: Segundo FHC , o Brasil possui esses recursos , muitos de eles naturais , e vantagens comparativas para realizar essas metas . </text>
+                <rel f="">realizar</rel>
+                <arg f="" n="1">essas metas </arg>
+                <note>nesta colocação o sentido é de "achieve.01"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4095: Podem produzir pequenas brochuras , mala direta , folhetos , realizando até sete impressões por minuto . </text>
+                <rel f="">realizando</rel>
+                <arg f="" n="1">até sete impressões </arg>
+                <arg f="tmp" n="m">por minuto </arg>
+                <note>o sentido aqui é de "make.01"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3960: O casamento será realizado por o reverendo Onaldo_Pereira , 38 , ordenado há oito anos em os Estados_Unidos . </text>
+                <arg f="" n="1">O casamento </arg>
+                <rel f="">realizado</rel>
+                <arg f="" n="0">por o reverendo Onaldo_Pereira , 38 , ordenado há oito anos em os Estados_Unidos </arg>
+                <note>o sentido aqui é de celebrar, como em "celebrate.02"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3837: Passaram- se uns 50 anos e o sonho se realizou , trazendo alegria e também , inesperadamente , frustração . </text>
+                <arg f="" n="1">o sonho </arg>
+                <rel f="">realizou</rel>
+                <arg f="adv" n="m">trazendo alegria e também , inesperadamente , frustração </arg>
+                <note>o sentido aqui é "tornar-se realidade" como em "come.17"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3168: A as 16h , antes de embarcar para a cidade de Codó ( MA ) , onde seria realizado um comício a as 18h de ontem , Fernando_Henrique afirmou que vai aguardar o posicionamento de o senador José_Sarney ( PMDB-AP ) em_relação_a as eleições presidenciais . </text>
+                <arg f="loc" n="m">onde </arg>
+                <rel f="">realizado</rel>
+                <arg f="" n="1">um comício </arg>
+                <arg f="tmp" n="m">a as 18h de ontem </arg>
+                <note>nesta colocação (realizar evento) o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2942: Os grandes comícios serão realizados apenas em setembro . </text>
+                <arg f="" n="1">Os grandes comícios </arg>
+                <rel f="">realizados</rel>
+                <arg f="tmp" n="m">apenas em setembro </arg>
+                <note>nesta colocação (realizar evento) o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2789: Os desfiles se realizam por o segundo ano em tendas ou pavilhões localizados em o Bryant_Park , que fica atrás_de a Biblioteca_Nacional , em a rua 40 . </text>
+                <arg f="" n="1">Os desfiles </arg>
+                <arg f="" n="0">se </arg>
+                <rel f="">realizam</rel>
+                <arg f="tmp" n="m">por o segundo ano </arg>
+                <arg f="loc" n="m">em tendas ou pavilhões localizados em o Bryant_Park , que fica atrás_de a Biblioteca_Nacional , em a rua 40 </arg>
+                <note>nesta colocação (realizar evento) o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2035: A Folha realizou um teste em um de os ônibus que integram a nova linha Penha-Lapa , acompanhando a décima viagem de ontem . </text>
+                <arg f="" n="0">A Folha </arg>
+                <rel f="">realizou</rel>
+                <arg f="" n="1">um teste </arg>
+                <arg f="loc" n="m">em um de os ônibus que integram a nova linha Penha-Lapa </arg>
+                <arg f="adv" n="m">acompanhando a décima viagem de ontem </arg>
+                <note>nesta colocação (realizar testes) o melhor equivalente é "conduct.01"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1772: O Banco_Mercantil de São_Paulo realizou lucro líquido de CR$ 52,3 bilhões em o primeiro semestre . </text>
+                <arg f="" n="0">O Banco_Mercantil de São_Paulo </arg>
+                <rel f="">realizou</rel>
+                <arg f="" n="1">lucro líquido de CR$ 52,3 bilhões </arg>
+                <arg f="tmp" n="m">em o primeiro semestre </arg>
+                <note>nesta colocação (realizar lucro), o sentido equivale a "realize.02"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1624: A Secretaria_da_Fazenda de o Estado_de_São_Paulo determinou que , quando um contribuinte realizar venda de mercadorias em feiras , exposições ou em locais chamados de « outlets » ou « feira de promoções » e permanecer em a área determinada por mais_de 60 dias , será obrigatória a inscrição de o referido local em o cadastro de contribuintes de o ICMS ( Fund. : portaria CAT 116/93 ) . </text>
+                <arg f="" n="0">um contribuinte </arg>
+                <rel f="">realizar</rel>
+                <arg f="" n="1">venda de mercadorias </arg>
+                <arg f="loc" n="m">em feiras , exposições ou em locais chamados de « outlets » ou « feira de promoções » </arg>
+                <note>nesta colocação (realizar venda), o sentido equivale a "close.03"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1423: Os cartões Sollo já realizaram contratos , entre outros , com o Jockey_Club de São_Paulo , a Fundação_Getúlio_Vargas , a Associação_Paulista_de_Propaganda , a Birello e a Jogê . </text>
+                <arg f="" n="0">Os cartões Sollo </arg>
+                <arg f="adv" n="m">já </arg>
+                <rel f="">realizaram</rel>
+                <arg f="" n="1">contratos , entre outros , com o Jockey_Club de São_Paulo , a Fundação_Getúlio_Vargas , a Associação_Paulista_de_Propaganda , a Birello e a Jogê </arg>
+                <note>nesta colocação (realizar contrato), o sentido equivale a "close.03"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1022: A aposentadoria é , em_tese , o tempo de realizar planos antes abandonados por a necessidade de trabalhar , mas nem sempre é isso que acontece . </text>
+                <rel f="">realizar</rel>
+                <arg f="" n="1">planos antes abandonados por a necessidade de trabalhar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s948: A atriz e apresentadora norte-americana de TV Ricki_Lake e outras 14 pessoas passaram a noite de anteontem em a cadeia em Nova_York , depois de haverem realizado um protesto em os escritórios de o estilista Karl_Lagerfeld em Manhattan . </text>
+                <rel f="">realizado</rel>
+                <arg f="" n="1">um protesto </arg>
+                <arg f="loc" n="m">em os escritórios de o estilista Karl_Lagerfeld </arg>
+                <arg f="loc" n="m">em Manhattan </arg>
+                <note>nesta colocação (realizar evento), o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s750: Ao_lado_de a Fenit foi realizada a Fenatec ( Feira_Internacional_de_Tecelagem ) , com representantes de a Argentina , Alemanha , França e Estados_Unidos . </text>
+                <arg f="loc" n="m">Ao_lado_de a Fenit </arg>
+                <rel f="">realizada</rel>
+                <arg f="" n="1">a Fenatec ( Feira_Internacional_de_Tecelagem ) </arg>
+                <arg f="mnr" n="m">com representantes de a Argentina , Alemanha , França e Estados_Unidos </arg>
+                <note>nesta colocação (realizar evento), o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s383: Os jovens têm se encontrado em Atalaia , principalmente entre quarta-feira e domingo , quando são realizados jogos de voleibol . </text>
+                <rel f="">realizados</rel>
+                <arg f="" n="1">jogos de voleibol </arg>
+                <note>nesta colocação (realizar evento), o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s332: O governo de o Estado realizará um concurso público para preencher 200 vagas de agente fiscal . </text>
+                <arg f="" n="0">O governo de o Estado </arg>
+                <rel f="">realizará</rel>
+                <arg f="" n="1">um concurso público </arg>
+                <arg f="pnc" n="m">para preencher 200 vagas de agente fiscal </arg>
+                <note>nesta colocação (realizar evento), o sentido equivale a "hold.04"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s152: A primeira missão lunar de os EUA em 21 anos teve início ontem , quando um foguete Titã_2 colocou em o espaço a astronave não tripulada Clementine_1 , que vai passar dois meses em duas órbitas de a Lua para realizar completo mapeamento mineralógico e topográfico de o satélite de a Terra . </text>
+                <rel f="">realizar</rel>
+                <arg f="" n="1">completo mapeamento mineralógico e topográfico de o satélite de a Terra </arg>
+                <note>nesta colocação (realizar atividade), o sentido equivale a "make.01"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s130: Realizando o prejuízo </text>
+                <rel f="">Realizando</rel>
+                <arg f="" n="1">o prejuízo </arg>
+                <note>nesta colocação (realizar prejuízo), o sentido equivale a "realize.02"</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

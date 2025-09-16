@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="pronunciar-se">
+        <roleset framnet="speak.03" id="pronunciar.01"
+            name="manifestar a própria opinião sobre algo" vncls="-">
+            <roles>
+                <role descr="speaker" n="0"/>
+                <role descr="topic" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2775: Até as 20h , ele não havia se pronunciado sobre a extensão de a medida também a os trabalhos de a revisão . </text>
+                <arg f="tmp" n="m">Até as 20h </arg>
+                <arg f="" n="0">ele </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">pronunciado</rel>
+                <arg f="" n="1">sobre a extensão de a medida também a os trabalhos de a revisão </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

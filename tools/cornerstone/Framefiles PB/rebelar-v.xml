@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="rebelar-se">
+        <roleset framnet="rebel.01" id="rebelar.01"
+            name="lutar contra; manifestar desacordo" vncls="-">
+            <roles>
+                <role descr="rebel, agent" n="0"/>
+                <role descr="rebel against" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2700: Trata- se de uma estratégia de inflação reprimida , pronta para rebelar- se por a via de a explosão cambial em o momento em que os agentes econômicos se convencem de que não é sustentável , e em que os capitais começam a fugir . </text>
+                <rel f="">rebelar-</rel>
+                <arg f="mnr" n="m">por a via de a explosão cambial </arg>
+                <arg f="tmp" n="m">em o momento em que os agentes econômicos se convencem de que não é sustentável , e em que os capitais começam a fugir </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

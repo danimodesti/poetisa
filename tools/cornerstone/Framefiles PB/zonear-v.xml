@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="zonear">
+        <roleset framnet="zone.01" id="zonear.01"
+            name="dividir em zonas" vncls="-">
+            <roles>
+                <role descr="zoning board" n="0"/>
+                <role descr="area" n="1"/>
+                <role descr="activity" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1822: Segundo ele , a proposta inicial é zonear em o primeiro ano a Bacia de o rio Meia_Ponte . </text>
+                <rel f="">zonear</rel>
+                <arg f="tmp" n="m">em o primeiro ano </arg>
+                <arg f="" n="1">a Bacia de o rio Meia_Ponte </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1550: O Depav também está zoneando o parque . </text>
+                <arg f="" n="0">O Depav </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">zoneando</rel>
+                <arg f="" n="1">o parque </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

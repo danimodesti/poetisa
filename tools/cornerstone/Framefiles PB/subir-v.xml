@@ -1,0 +1,202 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="subir">
+        <roleset framnet="rise.01" id="subir.04" name="elevar em uma escala de valores" vncls="45.6 47.6 48.1.1 50 51.1-2">
+            <roles>
+                <role descr="Logical subject, patient, thing rising" f="" n="1">
+                    <vnrole vncls="47.6" vntheta="theme"/>
+                    <vnrole vncls="51.1-2" vntheta="theme"/>
+                    <vnrole vncls="48.1.1" vntheta="theme"/>
+                    <vnrole vncls="50" vntheta="agent"/>
+                    <vnrole vncls="45.6" vntheta="patient"/>
+                </role>
+                <role descr="EXT, amount risen" f="" n="2">
+                    <vnrole vncls="45.6" vntheta="extent"/>
+                </role>
+                <role descr="start point" f="" n="3"/>
+                <role descr="end point" f="" n="4">
+                    <vnrole vncls="51.1-2" vntheta="location"/>
+                </role>
+                <role descr="medium" f="" n="m"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s3328: Os valores médios de as locações de imóveis não residenciais em a cidade de São_Paulo subiram em junho 50,16 % , segundo a Hubert_Imóveis_e_Administração_Ltda .</text>
+                <arg f="" n="1">Os valores médios de as locações de imóveis não residenciais em a cidade de São_Paulo</arg>
+                <rel f="">subiram</rel>
+                <arg f="tmp" n="m">em junho</arg>
+                <arg f="" n="2">50,16 %</arg>
+                <arg f="dis" n="m">segundo a Hubert_Imóveis_e_Administração_Ltda</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s2863: Wilson_Barbosa ( PMDB ) subiu seis pontos , atingindo 55 % .</text>
+                <arg f="" n="1">Wilson_Barbosa ( PMDB )</arg>
+                <rel f="">subiu</rel>
+                <arg f="" n="2">seis pontos</arg>
+                <arg f="adv" n="m">atingindo 55 %</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s2082: Preços sobem 3,12 % em Belo_Horizonte</text>
+                <arg f="" n="1">Preços</arg>
+                <rel f="">sobem</rel>
+                <arg f="" n="2">3,12 %</arg>
+                <arg f="loc" n="m">em Belo_Horizonte</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="go.02" id="subir.01" name="ir para cima" vncls="51.1-2">
+            <roles>
+                <role descr="goer" f="" n="0">
+                    <vnrole vncls="51.1-2" vntheta="theme"/>
+                </role>
+                <role descr="journey" f="" n="1"/>
+                <role descr="start point" f="" n="3"/>
+                <role descr="end point" f="" n="4">
+                    <vnrole vncls="51.1-2" vntheta="location"/>
+                </role>
+                <role descr="direction (usually up or down" f="" n="m"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s3934: Toda a delegação subiu diretamente para os quartos .</text>
+                <arg f="" n="1">Toda a delegação</arg>
+                <rel f="">subiu</rel>
+                <arg f="mnr" n="m">diretamente</arg>
+                <arg f="" n="4">para os quartos</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s3842: Ele teria ficado preso em uma rede de pesca sem condições de subir a a tona para respirar .</text>
+                <rel f="">subir</rel>
+                <arg f="dir" n="m">a a tona</arg>
+                <arg f="pnc" n="m">para respirar</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s1944: Subiu a o palco com o candidato a vice , Aloizio_Mercadante , e os candidatos a o governo de o Estado , José_Dirceu ( PT ) , e a o Senado , Luiza_Erundina ( PT ) e João_Hermann ( PPS ) .</text>
+                <rel f="">Subiu</rel>
+                <arg f="" n="4">a o palco</arg>
+                <arg f="mnr" n="m">com o candidato a vice , Aloizio_Mercadante , e os candidatos a o governo de o Estado , José_Dirceu ( PT ) , e a o Senado , Luiza_Erundina ( PT ) e João_Hermann ( PPS )</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s1076: Última dica : não espere subir a o cesto de o balão para iniciar suas fotos .</text>
+                <rel f="">subir</rel>
+                <arg f="" n="4">a o cesto de o balão</arg>
+                <arg f="pnc" n="m">para iniciar suas fotos</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s386: Fácil subir em os palanques , defendendo que é necessário « mudar tudo o que está aí » .</text>
+                <rel f="">subir</rel>
+                <arg f="" n="1">em os palanques</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="ascend.01" id="subir.02" name="ascender social ou profissionalmente" vncls="51.1-1">
+            <roles>
+                <role descr="entity rising" f="" n="0">
+                    <vnrole vncls="51.1-1" vntheta="theme"/>
+                </role>
+                <role descr="location" f="" n="1">
+                    <vnrole vncls="51.1-1" vntheta="location"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s3504: « Não quero subir muito agora e quebrar a cara depois . »</text>
+                <rel f="">subir</rel>
+                <arg f="ext" n="m">muito</arg>
+                <arg f="tmp" n="m">agora</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="climb.01" id="subir.03" name="escalar para ficar em cima" vncls="51.1-1 51.3.2">
+            <roles>
+                <role descr="climber" f="" n="0">
+                    <vnrole vncls="51.3.2" vntheta="theme"/>
+                    <vnrole vncls="51.1-1" vntheta="theme"/>
+                </role>
+                <role descr="thing climbed (clomb?)" f="" n="1">
+                    <vnrole vncls="51.3.2" vntheta="location"/>
+                    <vnrole vncls="51.1-1" vntheta="location"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosC.s3375: O aposentado Eliseu_Francisco_de_Lyra ( em a época com 44 anos ) , depois de discutir com o irmão , saiu de o carro , subiu em o capô , tirou as roupas e sapateou .</text>
+                <arg f="" n="0">O aposentado Eliseu_Francisco_de_Lyra ( em a época com 44 anos )</arg>
+                <arg f="tmp" n="m">depois de discutir com o irmão</arg>
+                <rel f="">subiu</rel>
+                <arg f="" n="1">em o capô</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosD.s3248: O desembargador Doreste_Batista , convidado por o governador de o Rio , Nilo_Batista , para ser o supersecretário de Segurança de o Estado , disse ontem que , se confirmado , vai pedir apoio de o Exército para subir morros e colocar policiamento ostensivo em as ruas .</text>
+                <rel f="">subir</rel>
+                <arg f="" n="1">morros</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s1829: Ela subiu em os tamancos flamencos .</text>
+                <arg f="" n="0">Ela</arg>
+                <rel f="">subiu</rel>
+                <arg f="" n="1">em os tamancos flamencos</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+    <note/>
+</predicate>
+    
+<note/>
+</frameset>

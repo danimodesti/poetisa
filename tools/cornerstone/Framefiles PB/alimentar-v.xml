@@ -1,0 +1,77 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+        
+    <predicate lemma="alimentar">
+                
+        <roleset framnet="feed.01" id="alimentar.01" name="nutrir" source="" vncls="13.1-2">
+                        
+            <roles>
+                                
+                <role descr="causal agent" f="" n="0">
+                                        
+                    <vnrole vncls="13.1-2" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="food" f="" n="1">
+                                        
+                    <vnrole vncls="13.1-2" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="eater" f="" n="2">
+                                        
+                    <vnrole vncls="13.1-2" vntheta="recipient"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosE.s3423: Não comporta qualquer reserva , e bendito o país em que os homens públicos exigem de os candidatos a solução de problemas nacionais , minorar a fome , dando leite a as crianças que se alimentam de lixo , e estradas para desenvolver o país .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <arg f="" n="2">se</arg>
+                                
+                <rel f="">alimentam</rel>
+                                
+                <arg f="" n="1">de lixo</arg>
+                                
+            
+                <note>o arg2 é a entidade que recebe o alimento</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s434: É o delírio que alimenta o Sendero_Luminoso .</text>
+                                
+                <arg f="" n="1">que</arg>
+                                
+                <rel f="">alimenta</rel>
+                                
+                <arg f="" n="2">o Sendero_Luminoso</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+
+    <note/>
+</frameset>

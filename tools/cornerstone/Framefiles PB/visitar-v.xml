@@ -1,0 +1,104 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="visitar">
+        <roleset framnet="visit.01" id="visitar.01"
+            name="ir ver alguém ou algum lugar; fazer visita" vncls="36.3">
+            <roles>
+                <role descr="one party" n="0">
+                    <vnrole vncls="36.3" vntheta="Actor1"/>
+                </role>
+                <role descr="other party" n="1">
+                    <vnrole vncls="36.3" vntheta="Actor2"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4184: Em a terceira colocação , 34 pontos , a Juventus de Turim visita o Genoa , 22 , em o limiar de o rebaixamento . </text>
+                <arg f="loc" n="m">Em a terceira colocação , 34 pontos , </arg>
+                <arg f="" n="0">a Juventus de Turim </arg>
+                <rel f="">visita</rel>
+                <arg f="" n="1">o Genoa , 22 , </arg>
+                <arg f="loc" n="m">em o limiar de o rebaixamento </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s4154: bastidores de os museus -- O trabalho feito por os fotógrafos Eduardo_Castanho , Saul_Queiroz , Rogério_Voltan , Ricardo_Hantzchel , Fausto_Chermont e Eliana_Lopes retrata o_que as pessoas não vêem a o visitar um museu . </text>
+                <rel f="">visitar</rel>
+                <arg f="" n="1">um museu </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4092: Acompanhada de Renata_Queiróz , mulher de o candidato de o PSDB a o governo de o Ceará , Tasso_Jereissati , e de Patrícia_Gomes , mulher de o ministro de a Fazenda , Ciro_Gomes , Ruth_Cardoso visitou três cidades cearenses antes de Juazeiro . </text>
+                <arg f="" n="0">Ruth_Cardoso </arg>
+                <rel f="">visitou</rel>
+                <arg f="" n="1">três cidades cearenses </arg>
+                <arg f="tmp" n="m">antes de Juazeiro </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1507: Blatter disse que o Comitê não levou em consideração o fato de o jogador ter se desculpado e comparecido a o hospital para visitar o norte-americano Tab_Ramos . </text>
+                <rel f="">visitar</rel>
+                <arg f="" n="1">o norte-americano Tab_Ramos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s835: A atriz Cássia_Kiss e a primeira-dama de o Estado , Maria_do_Carmo_Nascimento_Alves , visitaram ontem o local . </text>
+                <arg f="" n="0">A atriz Cássia_Kiss e a primeira-dama de o Estado , Maria_do_Carmo_Nascimento_Alves , </arg>
+                <rel f="">visitaram</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">o local </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s821: A a tarde , vai a Belo_Horizonte e visita o jornal « O_Estado_de_Minas » em companhia de Hélio_Costa , candidato de o PP a o governo de o Estado . </text>
+                <rel f="">visita</rel>
+                <arg f="" n="1">o jornal « O_Estado_de_Minas » </arg>
+                <arg f="mnr" n="m">em companhia de Hélio_Costa , candidato de o PP a o governo de o Estado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s563: A o visitar a ponte rodoferroviária de Rubinéia , criticou o deputado quercista Alberto_Goldman ( PMDB-SP ) , ex- ministro de os Transportes . </text>
+                <rel f="">visitar</rel>
+                <arg f="" n="1">a ponte rodoferroviária de Rubinéia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s452: O jogador disse que antes de voltar a a Espanha visitará o Estado onde nasceu , a Bahia . </text>
+                <arg f="" n="0">O jogador </arg>
+                <arg f="tmp" n="m">antes de voltar a a Espanha </arg>
+                <rel f="">visitará</rel>
+                <arg f="" n="1">o Estado onde nasceu , a Bahia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s380: O resultado foi que um francês , Jean-François_Champollion , que só visitou o Egito em 1828 , foi o primeiro a decifrar os hieroglifos . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="adv" n="m">só </arg>
+                <rel f="">visitou</rel>
+                <arg f="" n="1">o Egito </arg>
+                <arg f="tmp" n="m">em 1828 </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

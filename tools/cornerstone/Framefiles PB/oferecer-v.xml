@@ -1,0 +1,254 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="oferecer">
+        <roleset framnet="offer.01" id="oferecer.01"
+            name="dar; colocar à disposição" vncls="13.3 29.2">
+            <roles>
+                <role descr="entity offering" n="0">
+                    <vnrole vncls="29.2" vntheta="Agent"/>
+                    <vnrole vncls="13.3" vntheta="Agent"/>
+                </role>
+                <role descr="commodity" n="1">
+                    <vnrole vncls="29.2" vntheta="Predicate"/>
+                    <vnrole vncls="13.3" vntheta="Theme"/>
+                </role>
+                <role descr="price" n="2"/>
+                <role descr="benefactive or entity offered to" n="3">
+                    <vnrole vncls="29.2" vntheta="Theme"/>
+                    <vnrole vncls="13.3" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3980: Elas serão oferecidas a Itamar , como alternativa a a propalada quebra de o caixa previdenciário . </text>
+                <arg f="" n="1">Elas </arg>
+                <rel f="">oferecidas</rel>
+                <arg f="" n="3">a Itamar </arg>
+                <arg f="prd" n="m">como alternativa a a propalada quebra de o caixa previdenciário </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3795: O restaurante , especializado em carnes e saladas , oferecerá uma garrafa de champanhe espanhol para os casais em a noite de o dia 12 . </text>
+                <arg f="" n="0">O restaurante , especializado em carnes e saladas , </arg>
+                <rel f="">oferecerá</rel>
+                <arg f="" n="1">uma garrafa de champanhe espanhol </arg>
+                <arg f="" n="3">para os casais </arg>
+                <arg f="tmp" n="m">em a noite de o dia 12 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3643: Em os Estados_Unidos , universidades e algumas empresas chegam a oferecer cursos de boas maneiras em os negócios . </text>
+                <arg f="loc" n="m">Em os Estados_Unidos </arg>
+                <arg f="" n="0">universidades e algumas empresas </arg>
+                <rel f="">oferecer</rel>
+                <arg f="" n="1">cursos de boas maneiras </arg>
+                <arg f="prd" n="m">em os negócios </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3481: A o se oferecer para intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa . </text>
+                <arg f="" n="1">se </arg>
+                <rel f="">oferecer</rel>
+                <arg f="" n="3">para intermediar o conflito </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3386: Para mim é muito estimulante oferecer uma idéia espacial para um trabalho que começou a_partir_de uma idéia musical . </text>
+                <rel f="">oferecer</rel>
+                <arg f="" n="1">uma idéia espacial </arg>
+                <arg f="" n="3">para um trabalho que começou a_partir_de uma idéia musical </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3147: Oficina de Livros -- A Oficina_de_Artes_do_Livro oferece 8 vagas para o curso « Papel_Artesanal:_Processamento_de_Fibras_Vegetais » , que vai de 5 a 14 de abril . </text>
+                <arg f="" n="0">A Oficina_de_Artes_do_Livro </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">8 vagas para o curso « Papel_Artesanal:_Processamento_de_Fibras_Vegetais » , que vai de 5 a 14 de abril </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2777: Favoráveis a o pressuposto de a integração , devemos ser criteriosos , não descartando e nem acatando , de pronto , tudo_o_que nos oferece o governo federal . </text>
+                <arg f="" n="1">tudo_o_que </arg>
+                <arg f="" n="3">nos </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="0">o governo federal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2444: Foi quando noticiei que Fernando_Henrique estava em contatos sigilosos com o governo Figueiredo , oferecendo um plano de conciliação entre o regime que se exauria e o que nasceria . </text>
+                <rel f="">oferecendo</rel>
+                <arg f="" n="1">um plano de conciliação entre o regime que se exauria e o que nasceria </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s2332: Para viabilizar a viagem de pelo_menos parte de os 20 integrantes de o coral advogados , bancários , secretárias , estudantes , aposentados e apenas um padre , a diretora diz que se uma empresa se dispuser a cobrir os custos de a viagem , o coral oferece em troca a gravação de um disco promocional . </text>
+                <arg f="adv" n="m">se uma empresa se dispuser a cobrir os custos de a viagem </arg>
+                <arg f="" n="0">o coral </arg>
+                <rel f="">oferece</rel>
+                <arg f="mnr" n="m">em troca </arg>
+                <arg f="" n="1">a gravação de um disco promocional </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2194: Já Vail oferece entre outras coisas espetáculos ao_longo_de o verão realizados em um anfiteatro aberto . </text>
+                <arg f="dis" n="m">Já </arg>
+                <arg f="" n="0">Vail </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">entre outras coisas espetáculos realizados em um anfiteatro aberto </arg>
+                <arg f="tmp" n="m">ao_longo_de o verão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1926: Além_de os produtos , a Matis oferece infra-estrutura a seus franqueados . </text>
+                <arg f="" n="0">a Matis </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">Além_de os produtos infra-estrutura </arg>
+                <arg f="" n="2">a seus franqueados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1584: Caio_Gorentzvaig , cotista de a Petroplastic , disse que o arresto cairá automaticamente quando seu pai , Boris , « se der por citado e oferecer bens imóveis a a penhora » . </text>
+                <rel f="">oferecer</rel>
+                <arg f="" n="1">bens imóveis </arg>
+                <arg f="" n="3">a a penhora </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1295: A pizzaria foi inugurada por o Grupo_Viena há dois meses e oferece 21 tipos de pizzas em o forno a a lenha , além_de massas especiais , grelhados e saladas . </text>
+                <arg f="" n="0">A pizzaria </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">21 tipos de pizzas em o forno a a lenha além_de massas especiais , grelhados e saladas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1291: Pizzaria oferece cardápio especial para Páscoa </text>
+                <arg f="" n="0">Pizzaria </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">cardápio especial para Páscoa </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1274: Acrescenta que o cinquentenário instituto que , a_exemplo de a Nielsen , tem atuação internacional , se dispõe a oferecer eventuais relatórios diferenciados de o concorrente . </text>
+                <rel f="">oferecer</rel>
+                <arg f="" n="1">eventuais relatórios diferenciados de o concorrente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1220: O acantonamento Itereí oferece futebol , vôlei , caminhadas , brincadeiras , e está com vagas para as temporadas de 17 a 23 e de 24 a 30 de julho . </text>
+                <arg f="" n="0">O acantonamento Itereí </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">futebol , vôlei , caminhadas , brincadeiras </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1215: Os Bulletin_Board_Systems ( BBS ) estão oferecendo um novo serviço a os seus usuários : a conexão com a rede de as redes , a InterNet . </text>
+                <arg f="" n="0">Os Bulletin_Board_Systems ( BBS ) </arg>
+                <rel f="">oferecendo</rel>
+                <arg f="" n="1">um novo serviço </arg>
+                <arg f="" n="3">a os seus usuários : a conexão com a rede de as redes , a InterNet </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s970: Elas não apenas restringem a liberdade e o futuro de os que tentam deixar Cuba como também oferecem expectativa de « reformas democráticas forçadas » a os que ficam em a ilha . </text>
+                <arg f="" n="0">Elas </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">oferecem</rel>
+                <arg f="" n="1">expectativa de « reformas democráticas forçadas » a os que ficam em a ilha </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s471: O sindicato pede 99 % e os empresários oferecem 13,56 % . </text>
+                <arg f="" n="0">os empresários </arg>
+                <rel f="">oferecem</rel>
+                <arg f="" n="1">13,56 % </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s468: Os empresários ofereceram 10,4 % em novembro para São_Paulo , Osasco e Guarulhos e 6 % mais 6,27 % em março para o interior . </text>
+                <arg f="" n="0">Os empresários </arg>
+                <rel f="">ofereceram</rel>
+                <arg f="" n="1">10,4 % em novembro para São_Paulo , Osasco e Guarulhos e 6 % mais 6,27 % em março para o interior </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s427: O livro de Marilena_Ansaldi também oferece detalhes sobre uma de as mais bem-sucedidas experiências culturais de São_Paulo : o Teatro_da_Dança , que funcionou a_partir_de 1975 em a Sala_Gil_Vicente de o Teatro_Ruth_Escobar . </text>
+                <arg f="" n="0">O livro de Marilena_Ansaldi </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">oferece</rel>
+                <arg f="" n="1">detalhes sobre uma de as mais bem-sucedidas experiências culturais de São_Paulo : o Teatro_da_Dança , que funcionou a_partir_de 1975 em a Sala_Gil_Vicente de o Teatro_Ruth_Escobar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s371: Os 12 computadores de a Future_Kids oferecem jogos educativos que treinam o raciocínio lógico . </text>
+                <arg f="" n="0">Os 12 computadores de a Future_Kids </arg>
+                <rel f="">oferecem</rel>
+                <arg f="" n="1">jogos educativos que treinam o raciocínio lógico </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s289: A intervenção militar « localizada » , que pode imediatamente oferecer algum alívio , tem como efeito principal o seguinte : o crime só muda de lugar . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="tmp" n="m">imediatamente </arg>
+                <rel f="">oferecer</rel>
+                <arg f="" n="1">algum alívio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s70: Abstratos entre medianos e medíocres , como Fukushima , Pérsio , Raimo e Douchez , têm o mesmo ou maior destaque que Volpi e nada que se possa chamar de autonomia para oferecer como lenitivo . </text>
+                <rel f="">oferecer</rel>
+                <arg f="prd" n="m">como lenitivo </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,168 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="entender">
+        <roleset framnet="" id="entender.04" name="uso idiomático: &quot;o que bem entender&quot; (o que quiser ou julgar adequado) e &quot; quem bem entender&quot; (quem quiser)" vncls="">
+            <roles>
+                <role descr="" f="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosC.s528: O presidente Itamar_Franco tem , como qualquer cidadão brasileiro , o direito de apoiar a candidatura para a Presidência de a República de quem bem entender .</text>
+                <arg f="" n="0">quem</arg>
+                <arg f="mnr" n="m">bem</arg>
+                <rel f="">entender</rel>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="think.01" id="entender.01" name="pensar; ter como opinião" vncls="29.4">
+            <roles>
+                <role descr="Thinker" f="" n="0">
+                    <vnrole vncls="29.4" vntheta="agent"/>
+                </role>
+                <role descr="Thought" f="" n="1">
+                    <vnrole vncls="29.4" vntheta="theme"/>
+                </role>
+                <role descr="Attributive" f="" n="2">
+                    <vnrole vncls="29.4" vntheta="predicate"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s4049: Mesmo entendendo suas explicações sobre o programa de governo , entendo que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois .</text>
+                <arg f="adv" n="m">Mesmo entendendo suas explicações sobre o programa de governo</arg>
+                <rel f="">entendo</rel>
+                <arg f="" n="1">que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s2294: ACM disse que « não conseguiu entender nada » de o novo plano econômico elaborado por a equipe de o ministro Fernando_Henrique_Cardoso .</text>
+                <arg f="" n="0">ACM</arg>
+                <rel f="">entender</rel>
+                <arg f="" n="1">nada</arg>
+                <arg f="prd" n="m">de o novo plano econômico elaborado por a equipe de o ministro Fernando_Henrique_Cardoso</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s2095: Entendo que a minha missão não é torcer .</text>
+                <rel f="">Entendo</rel>
+                <arg f="" n="1">que a minha missão não é torcer</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s689: Entendemos que palavras como respeito , atenção e ética , incluindo a eficiência em a prestação de os serviços , devem mais do_que nunca , nortear nossa conduta em as relações com nossos clientes .</text>
+                <rel f="">Entendemos</rel>
+                <arg f="" n="1">que palavras como respeito , atenção e ética , incluindo a eficiência em a prestação de os serviços , devem mais do_que nunca , nortear nossa conduta em as relações com nossos clientes</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s131: O conselho fiscal entende que os acionistas não devem mais « suportar investir dinheiro bom em companhia sem condições de se reerguer » .</text>
+                <arg f="" n="0">O conselho fiscal</arg>
+                <rel f="">entende</rel>
+                <arg f="" n="1">que os acionistas não devem mais « suportar investir dinheiro bom em companhia sem condições de se reerguer »</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="understand.01" id="entender.02" name="compreender" vncls="">
+            <roles>
+                <role descr="understander" f="" n="0"/>
+                <role descr="thing understood" f="" n="1"/>
+                <role descr="attribute of arg1" f="" n="2"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s4049: Mesmo entendendo suas explicações sobre o programa de governo , entendo que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois .</text>
+                <rel f="">entendendo</rel>
+                <arg f="" n="1">suas explicações sobre o programa de governo</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s2842: Tudo_isso deve ser considerado para que se entenda que uma exata transposição de o aluguel praticado em cruzeiros reais para o sistema de a URV só é possível se os contratantes procederem a uma extração de a média de os aluguéis em os últimos meses que corresponderem a periodicidade de reajustamento de o contrato , para , só então , transformar tal média em URVs .</text>
+                <arg f="" n="0">se</arg>
+                <rel f="">entenda</rel>
+                <arg f="" n="1">que uma exata transposição de o aluguel praticado em cruzeiros reais para o sistema de a URV só é possível se os contratantes procederem a uma extração de a média de os aluguéis em os últimos meses que corresponderem a periodicidade de reajustamento de o contrato , para , só então , transformar tal média em URVs</arg>
+                
+            <note>com "se" apassivador (anotado como arg0 para marcar supressão do agente)</note>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s1021: Entenda as mudanças de a « crise de a meia-idade »</text>
+                <rel f="">Entenda</rel>
+                <arg f="" n="1">as mudanças de a « crise de a meia-idade »</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s879: Meu intuito é tentar entender que papel teve a imprensa em essa história .</text>
+                <rel f="">entender</rel>
+                <arg f="" n="1">que papel teve a imprensa em essa história</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="encompass.01" id="entender.03" name="incluir; abarcar" vncls="47.8">
+            <roles>
+                <role descr="entity encompassing" f="" n="0">
+                    <vnrole vncls="47.8" vntheta="theme1"/>
+                </role>
+                <role descr="entity encompassed" f="" n="1">
+                    <vnrole vncls="47.8" vntheta="theme2"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s3259: Para ele , a privatização entende desde a venda de ativos públicos até ações de estatais .</text>
+                <arg f="dis" n="m">Para ele</arg>
+                <arg f="" n="0">a privatização</arg>
+                <rel f="">entende</rel>
+                <arg f="" n="1">desde a venda de ativos públicos até ações de estatais</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+    <note/>
+</predicate>
+    
+<note/>
+</frameset>

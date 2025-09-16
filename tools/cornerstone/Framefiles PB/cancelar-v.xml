@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="cancelar">
+        <roleset framnet="cancel.01" id="cancelar.01"
+            name="tornar nulo, desmarcar algo que estava previsto" vncls="-">
+            <roles>
+                <role descr="canceller" n="0"/>
+                <role descr="cancelled" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s81: Em este caso , o registro de a candidatura seria cancelado por a Justiça . </text>
+                <arg f="loc" n="m">Em este caso </arg>
+                <arg f="" n="1">o registro de a candidatura </arg>
+                <rel f="">cancelado</rel>
+                <arg f="" n="0">por a Justiça </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

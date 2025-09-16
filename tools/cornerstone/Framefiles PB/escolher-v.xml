@@ -1,0 +1,130 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="escolher">
+        <roleset framnet="choose.01" id="escolher.01"
+            name="selecionar, eleger" vncls="13.5.1 29.2">
+            <roles>
+                <role descr="picker" n="0">
+                    <vnrole vncls="29.2" vntheta="Agent"/>
+                    <vnrole vncls="13.5.1" vntheta="Agent"/>
+                </role>
+                <role descr="thing picked" n="1">
+                    <vnrole vncls="29.2" vntheta="Predicate"/>
+                    <vnrole vncls="13.5.1" vntheta="Theme"/>
+                </role>
+                <role descr="group or source" n="2">
+                    <vnrole vncls="13.5.1" vntheta="Source"/>
+                </role>
+                <role descr="benefactive" n="3">
+                    <vnrole vncls="29.2" vntheta="Theme"/>
+                    <vnrole vncls="13.5.1" vntheta="Beneficiary"/>
+                </role>
+                <role descr="secondary attribute on arg1" n="4">
+                    <vnrole vncls="13.5.1" vntheta="Asset"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3932: Embora esteja a quase 40 km de o estádio , o hotel foi escolhido porque está próximo_de a California_State_University , onde o Brasil treinará durante esta semana . </text>
+                <arg f="dis" n="m">Embora esteja a quase 40 km de o estádio </arg>
+                <arg f="" n="1">o hotel </arg>
+                <rel f="">escolhido</rel>
+                <arg f="cau" n="m">porque está próximo_de a California_State_University , onde o Brasil treinará durante esta semana </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2384: Outro ponto é que as bolas que vão ser usadas em o campeonato não devem ser escolhidas por interesses comerciais . </text>
+                <arg f="" n="1">as bolas que vão ser usadas em o campeonato </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">escolhidas</rel>
+                <arg f="cau" n="m">por interesses comerciais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2227: « Licença poética » a a parte , as praias e as dunas de Fortaleza foram escolhidas como cenário de « Tropicaliente » por Paulo_Ubiratan , diretor-artístico de a Globo , por_causa_de a beleza natural de o lugar . </text>
+                <arg f="" n="1">as praias e as dunas de Fortaleza </arg>
+                <rel f="">escolhidas</rel>
+                <arg f="" n="4">como cenário de « Tropicaliente » </arg>
+                <arg f="" n="0">por Paulo_Ubiratan , diretor-artístico de a Globo , </arg>
+                <arg f="cau" n="m">por_causa_de a beleza natural de o lugar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2038: Quem ainda não escolheu sua carreira ou sonha dar uma guinada em a vida profissional pode recorrer a os serviços de orientação vocacional oferecidos por algumas instituições em São_Paulo . </text>
+                <arg f="" n="0">Quem </arg>
+                <arg f="neg" n="m">ainda não </arg>
+                <rel f="">escolheu</rel>
+                <arg f="" n="1">sua carreira </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1925: Segundo o presidente de a Matis-Paris_Brasil , Lourenço_Lopes , 44 , a empresa francesa foi escolhida por ter mais estrutura e número de produtos para clínicas de beleza , medicina estética e cirurgia plástica . </text>
+                <arg f="dis" n="m">Segundo o presidente de a Matis-Paris_Brasil , Lourenço_Lopes , 44 , </arg>
+                <arg f="" n="1">a empresa francesa </arg>
+                <rel f="">escolhida</rel>
+                <arg f="cau" n="m">por ter mais estrutura e número de produtos para clínicas de beleza , medicina estética e cirurgia plástica </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1268: Em o segundo semestre , o concurso escolherá um de estes profissionais ( responsáveis por o serviço de vinhos em um restaurante ) para representar o Brasil em o concurso mundial , em o Japão , em 95 . </text>
+                <arg f="tmp" n="m">Em o segundo semestre </arg>
+                <arg f="" n="0">o concurso </arg>
+                <rel f="">escolherá</rel>
+                <arg f="" n="1">um de estes profissionais ( responsáveis por o serviço de vinhos em um restaurante ) </arg>
+                <arg f="" n="4">para representar o Brasil em o concurso mundial , em o Japão , em 95 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s988: Nenhum filme brasileiro foi escolhido , quebrando assim a expectativa criada em_torno_de « Alma_Corsária » de Carlos_Reichenbach e « Mil_e_Uma » de Suzana_de_Moraes . </text>
+                <arg f="" n="1">Nenhum filme brasileiro </arg>
+                <rel f="">escolhido</rel>
+                <arg f="adv" n="m">quebrando assim a expectativa criada em_torno_de « Alma_Corsária » de Carlos_Reichenbach e « Mil_e_Uma » de Suzana_de_Moraes </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s864: O papa João_Paulo_2º escolheu a irmã Emília_Ehrlich para ocupar uma de as três secretarias em o sínodo que acontecerá em outubro . </text>
+                <arg f="" n="0">O papa João_Paulo_2º </arg>
+                <rel f="">escolheu</rel>
+                <arg f="" n="1">a irmã Emília_Ehrlich </arg>
+                <arg f="" n="4">para ocupar uma de as três secretarias em o sínodo que acontecerá em outubro </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s713: Acha que foi escolhido como suplente por a sua imagem empresarial formada em mais_de 50 anos . </text>
+                <rel f="">escolhido</rel>
+                <arg f="" n="4">como suplente </arg>
+                <arg f="cau" n="m">por a sua imagem empresarial formada em mais_de 50 anos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s267: « Os brasileiros escolhem Cardoso » foi o título em a primeira página . </text>
+                <arg f="" n="0">Os brasileiros </arg>
+                <rel f="">escolhem</rel>
+                <arg f="" n="1">Cardoso </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

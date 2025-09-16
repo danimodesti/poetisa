@@ -1,0 +1,83 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="caber">
+        <roleset framnet="" id="caber.01"
+            name="ser de incumbência ou responsabilidade de " vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3287: De todo modo , em a Bota , a a Justiça cabe a missão de investigar , antes de meramente julgar . </text>
+                <arg f="adv" n="m">De todo modo </arg>
+                <arg f="loc" n="m">em a Bota </arg>
+                <arg f="" n="1">a a Justiça </arg>
+                <rel f="">cabe</rel>
+                <arg f="" n="0">a missão de investigar , antes de meramente julgar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1863: Cabe a o empresário , a o empreendedor , seja pequeno , médio ou grande , criar o ambiente adequado para a valorização de um recurso humano com essas qualificações . </text>
+                <rel f="">Cabe</rel>
+                <arg f="" n="1">a o empresário , a o empreendedor , seja pequeno , médio ou grande , </arg>
+                <arg f="" n="0">criar o ambiente adequado para a valorização de um recurso humano com essas qualificações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s357: Como a separação de as marcas é tida como uma tendência irreversível , caberia a a Volkswagen construir sua própria fábrica . </text>
+                <arg f="adv" n="m">Como a separação de as marcas é tida como uma tendência irreversível </arg>
+                <rel f="">caberia</rel>
+                <arg f="" n="1">a a Volkswagen </arg>
+                <arg f="" n="0">construir sua própria fábrica </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="" id="caber.02"
+            name="ser conveniente, ser aceitável" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2608: Cabe perguntar : Se o Supremo não está de_acordo com a suposta falta de regra de as duas moedas , que existem de_fato desde a emissão de a última medida provisória , por_que não a proclamou imediatamente inconstitucional e se serviu de ela privadamente ? </text>
+                <rel f="">Cabe</rel>
+                <arg f="" n="0">perguntar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2369: Cabe , é lógico , todo o respeito a as prerrogativas de o atual governante . </text>
+                <rel f="">Cabe</rel>
+                <arg f="adv" n="m">é lógico </arg>
+                <arg f="" n="0">todo o respeito a as prerrogativas de o atual governante </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2368: Por tudo_isso , não cabe formalismo em excesso . </text>
+                <arg f="cau" n="m">Por tudo_isso </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">cabe</rel>
+                <arg f="" n="0">formalismo em excesso </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

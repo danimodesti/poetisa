@@ -1,0 +1,30 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reinstalar">
+        <roleset framnet="reinstall.01" id="reinstalar.01"
+            name="instalar de novo ou instalar em outro lugar" vncls="9.1">
+            <roles>
+                <role descr="installer, agent" n="0">
+                    <vnrole vncls="9.1" vntheta="Agent"/>
+                </role>
+                <role descr="entity reinstalled" n="1">
+                    <vnrole vncls="9.1" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2467: Tendo em mente o Japão , os EUA reinstalaram recentemente a cláusula conhecida como Super-301 , mecanismo legal que amplia os poderes de retaliação comercial de a Casa_Branca . </text>
+                <arg f="cau" n="m">Tendo em mente o Japão </arg>
+                <arg f="" n="0">os EUA </arg>
+                <rel f="">reinstalaram</rel>
+                <arg f="tmp" n="m">recentemente </arg>
+                <arg f="" n="1">a cláusula conhecida como Super-301 , mecanismo legal que amplia os poderes de retaliação comercial de a Casa_Branca </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

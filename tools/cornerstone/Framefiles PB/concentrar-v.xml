@@ -1,0 +1,68 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="concentrar-se">
+        <roleset framnet="concentrate.01" id="concentrar.01"
+            name="fazer concentração, ocupar totalmente um espaço" vncls="87.1">
+            <roles>
+                <role descr="agent, contrentrater" n="0">
+                    <vnrole vncls="87.1" vntheta="Experiencer"/>
+                </role>
+                <role descr="contrentrated-on" n="1">
+                    <vnrole vncls="87.1" vntheta="Theme"/>
+                </role>
+                <role
+                    descr="thing contrentrated, if separate from agent" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3426: « As torcidas partem para_cima de a PM a_fim_de_que nos concentremos em um só local . </text>
+                <rel f="">concentremos</rel>
+                <arg f="" n="1">em um só local </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="concentrar">
+        <roleset framnet="concentrate.01" id="concentrar.02"
+            name="reunir, focar" vncls="87.1">
+            <roles>
+                <role descr="agent, contrentrater" n="0">
+                    <vnrole vncls="87.1" vntheta="Experiencer"/>
+                </role>
+                <role descr="contrentrated-on" n="1">
+                    <vnrole vncls="87.1" vntheta="Theme"/>
+                </role>
+                <role
+                    descr="thing contrentrated, if separate from agent" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2048: As vitrinas sempre guardam surpresas , variando desde o caro refinamento de a avenida Montaigne ( que concentra a alta costura , em o Champs_Elysèes ) até as pechinchas em as pequenas lojas espalhadas por a cidade e em os magazines . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">concentra</rel>
+                <arg f="" n="2">a alta costura </arg>
+                <arg f="loc" n="m">em o Champs_Elysèes </arg>
+                <note>Arg1 (local) como sujeito</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1017: Em o domingo , em Campos ( 280 km a o norte de o Rio ) , Brizola concentrou as críticas em Cardoso e Lula . </text>
+                <arg f="tmp" n="m">Em o domingo </arg>
+                <arg f="loc" n="m">em Campos ( 280 km a o norte de o Rio ) </arg>
+                <arg f="" n="0">Brizola </arg>
+                <rel f="">concentrou</rel>
+                <arg f="" n="2">as críticas </arg>
+                <arg f="" n="1">em Cardoso e Lula </arg>
+                <note>com todos os Args</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="listar">
+        <roleset framnet="list.01" id="listar.01"
+            name="apontar; mencionar; colocar em uma lista" vncls="">
+            <roles>
+                <role descr="lister" n="0"/>
+                <role descr="item" n="1"/>
+                <role descr="list" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s544: Promotor público , procurador de a Justiça e um de os criadores de a Comissão_Justiça_e_Paz de a Arquidiocese de São_Paulo , Bicudo lista como outras prioridades temas de sua especialidade : a reforma de a Justiça e de o sistema penitenciário . </text>
+                <arg f="" n="0">Bicudo </arg>
+                <rel f="">lista</rel>
+                <arg f="" n="2">como outras prioridades </arg>
+                <arg f="" n="1">temas de sua especialidade : a reforma de a Justiça e de o sistema penitenciário </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

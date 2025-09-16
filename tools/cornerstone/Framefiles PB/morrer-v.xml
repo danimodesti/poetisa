@@ -1,0 +1,235 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="morrer">
+        <roleset framnet="die.01" id="morrer.01" name="parar de viver" vncls="48.2">
+            <roles>
+                <role descr="the deceased" n="1">
+                    <vnrole vncls="48.2" vntheta="Theme"/>
+                </role>
+                <role descr="cognate object" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3959: Em o tiroteio , morreu Adriano_Herculano_da_Silva , 18 . </text>
+                <arg f="loc" n="m">Em o tiroteio </arg>
+                <rel f="">morreu</rel>
+                <arg f="" n="1">Adriano_Herculano_da_Silva , 18 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3841: O bombeiro suspeita que o golfinho tenha morrido afogado . </text>
+                <arg f="" n="1">o golfinho </arg>
+                <rel f="">morrido</rel>
+                <arg f="mnr" n="m">afogado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3727: Pelo_menos dez pessoas morreram e 80 se feriram em o terceiro dia consecutivo de luta entre facções rivais em Kabul , Afeganistão . </text>
+                <arg f="" n="1">Pelo_menos dez pessoas </arg>
+                <rel f="">morreram</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3698: Vera_Lúcia_Barbosa , 40 , morreu em a última quarta presa por o cinto de segurança a o carro em que estava , que caiu em o rio Tietê . </text>
+                <arg f="" n="1">Vera_Lúcia_Barbosa , 40 , </arg>
+                <rel f="">morreu</rel>
+                <arg f="tmp" n="m">em a última quarta </arg>
+                <arg f="mnr" n="m">presa por o cinto de segurança a o carro em que estava , que caiu em o rio Tietê </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3697: Mulher morre em rio presa a o cinto de o carro </text>
+                <arg f="" n="1">Mulher </arg>
+                <rel f="">morre</rel>
+                <arg f="loc" n="m">em rio </arg>
+                <arg f="mnr" n="m">presa a o cinto de o carro </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3538: O diretor-presidente de a Yashica de o Brasil , Kazuo_Tamura , 56 , morreu em um acidente de carro ontem_de_manhã em São_Paulo . </text>
+                <arg f="" n="1">O diretor-presidente de a Yashica de o Brasil , Kazuo_Tamura , 56 , </arg>
+                <rel f="">morreu</rel>
+                <arg f="loc" n="m">em um acidente de carro </arg>
+                <arg f="tmp" n="m">ontem_de_manhã </arg>
+                <arg f="loc" n="m">em São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3537: Presidente de a Yashica morre em São_Paulo </text>
+                <arg f="" n="1">Presidente de a Yashica </arg>
+                <rel f="">morre</rel>
+                <arg f="loc" n="m">em São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3452: A menina morreu em a hora . </text>
+                <arg f="" n="1">A menina </arg>
+                <rel f="">morreu</rel>
+                <arg f="tmp" n="m">em a hora </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3443: Não se sabe ainda como Oosterbroek morreu . </text>
+                <arg f="" n="1">Oosterbroek </arg>
+                <rel f="">morreu</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3231: Levantamento realizado entre pacientes que ingeriram cápsulas com a substância entre 1969 e 1992 indicou que 16 pessoas podem ter morrido em consequência de contra- indicações causadas por o sulfato de quinino . </text>
+                <arg f="" n="1">16 pessoas </arg>
+                <rel f="">morrido</rel>
+                <arg f="cau" n="m">em consequência de contra- indicações causadas por o sulfato de quinino </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3153: « Elvis morreu quando entrou para o exército » . </text>
+                <arg f="" n="1">Elvis </arg>
+                <rel f="">morreu</rel>
+                <arg f="tmp" n="m">quando entrou para o exército </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3078: « Inspira- se em o mais antigo e melhor bailarino de minha companhia , que morreu em o último verão » , ela diz . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">morreu</rel>
+                <arg f="tmp" n="m">em o último verão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2914: Ulysses morreu em 1992 como presidente nacional de o partido . </text>
+                <arg f="" n="1">Ulysses </arg>
+                <rel f="">morreu</rel>
+                <arg f="tmp" n="m">em 1992 </arg>
+                <arg f="prd" n="m">como presidente nacional de o partido </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2462: Morreu em o domingo a a noite a os 80 anos o cientista Roger_Sperry , ganhador de o Prêmio_Nobel de Fisiologia e Medicina de 1981 . </text>
+                <rel f="">Morreu</rel>
+                <arg f="tmp" n="m">em o domingo a a noite </arg>
+                <arg f="tmp" n="m">a os 80 anos </arg>
+                <arg f="" n="1">o cientista Roger_Sperry , ganhador de o Prêmio_Nobel de Fisiologia e Medicina de 1981 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2461: Morre pioneiro em pesquisa de a função cerebral </text>
+                <rel f="">Morre</rel>
+                <arg f="" n="1">pioneiro em pesquisa de a função cerebral </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1662: O motorista de o Gol e uma passageira de o Voyage morreram em a hora . </text>
+                <arg f="" n="1">O motorista de o Gol e uma passageira de o Voyage </arg>
+                <rel f="">morreram</rel>
+                <arg f="tmp" n="m">em a hora </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1659: Duas pessoas morreram em um acidente ocorrido em a noite de ontem em o km 2 de a rodovia João_do_Amaral_Gurgel , que liga Caçapava a Jambeiro , em o interior de São_Paulo . </text>
+                <arg f="" n="1">Duas pessoas </arg>
+                <rel f="">morreram</rel>
+                <arg f="loc" n="m">em um acidente ocorrido em a noite de ontem em o km 2 de a rodovia João_do_Amaral_Gurgel , que liga Caçapava a Jambeiro , em o interior de São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1407: Piotr_Wator , 21 , de o Gajowianka , de a 3ª divisão , morreu domingo durante partida , em Cracovia . </text>
+                <arg f="" n="1">Piotr_Wator , 21 , de o Gajowianka , de a 3ª divisão , </arg>
+                <rel f="">morreu</rel>
+                <arg f="tmp" n="m">domingo </arg>
+                <arg f="tmp" n="m">durante partida </arg>
+                <arg f="loc" n="m">em Cracovia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1406: Goleiro morre após bater a cabeça </text>
+                <arg f="" n="1">Goleiro </arg>
+                <rel f="">morre</rel>
+                <arg f="tmp" n="m">após bater a cabeça </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1288: De os 133 passageiros e tripulantes que estavam em a aeronave , 55 morreram . </text>
+                <arg f="" n="1">De os 133 passageiros e tripulantes que estavam em a aeronave 55 </arg>
+                <rel f="">morreram</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s661: Não podemos deixar morrer o espírito de Iguaçu . </text>
+                <rel f="">morrer</rel>
+                <arg f="" n="1">o espírito de Iguaçu </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s404: Cordeiro morreu devido_a complicações decorrentes de um enfisema pulmonar ( diminuição de a área disponível para troca de ar em os pulmões ) . </text>
+                <arg f="" n="1">Cordeiro </arg>
+                <rel f="">morreu</rel>
+                <arg f="cau" n="m">devido_a complicações decorrentes de um enfisema pulmonar ( diminuição de a área disponível para troca de ar em os pulmões ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s402: Morre ex- fotógrafo de a Folha </text>
+                <rel f="">Morre</rel>
+                <arg f="" n="1">ex- fotógrafo de a Folha </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s287: Infelizmente , 1937 seria também o último ano de George , porque ele morreria em julho , de um tumor cerebral , a os 38 anos . </text>
+                <arg f="" n="1">ele </arg>
+                <rel f="">morreria</rel>
+                <arg f="tmp" n="m">em julho , de um tumor cerebral , </arg>
+                <arg f="tmp" n="m">a os 38 anos </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

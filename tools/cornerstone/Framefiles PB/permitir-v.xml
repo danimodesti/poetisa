@@ -1,0 +1,190 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="permitir">
+        <roleset framnet="permit.01" id="permitir.01"
+            name="consentir; possibilitar" vncls="">
+            <roles>
+                <role descr="allower" n="0"/>
+                <role descr="action allowed" n="1"/>
+                <role descr="extracted allowed-agent" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3784: O uso de a comparação anualizada permite verificar a variação de a atividade industrial sem a influência de fatores sazonais . </text>
+                <arg f="" n="0">O uso de a comparação anualizada </arg>
+                <rel f="">permite</rel>
+                <arg f="" n="1">verificar a variação de a atividade industrial sem a influência de fatores sazonais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3478: O juro flutante permite reavaliar periodicamente as taxas de juros de as aplicações e empréstimos . </text>
+                <arg f="" n="0">O juro flutante </arg>
+                <rel f="">permite</rel>
+                <arg f="" n="1">reavaliar periodicamente as taxas de juros de as aplicações e empréstimos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3267: « Não tínhamos uma segurança exemplar , mas ela era suficiente para permitir o alvará de licença de os bombeiros » , afirmou . </text>
+                <rel f="">permitir</rel>
+                <arg f="" n="1">o alvará de licença de os bombeiros </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3200: Têm resolução de 600x600 pontos por polegada ( dpi ) , o_que permite obter imagens com mais definição . </text>
+                <arg f="" n="0">o_que </arg>
+                <rel f="">permite</rel>
+                <arg f="" n="1">obter imagens com mais definição </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2128: O programa sobre a 2ª_Guerra_Mundial traz informações sobre 2.100 eventos , tem 900 fotos e 140 mapas de batalhas , permitindo estudar as táticas usadas em a guerra , além_de textos e vídeos de gravações originais . </text>
+                <rel f="">permitindo</rel>
+                <arg f="" n="1">estudar as táticas usadas em a guerra , além_de textos e vídeos de gravações originais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2043: O projeto também permite a a polícia impedir , interromper e interceptar a escuta e a gravação de as conversas telefônicas . </text>
+                <arg f="" n="0">O projeto </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">permite</rel>
+                <arg f="" n="2">a a polícia </arg>
+                <arg f="" n="1">impedir , interromper e interceptar a escuta e a gravação de as conversas telefônicas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s2004: « Nós não vamos dar corda a o debate rasteiro » , acrescentou o presidente de o PT , que acha improvável o STF permitir a candidatura de José_Sarney por um partido que não seja o PMDB . </text>
+                <arg f="" n="0">o STF </arg>
+                <rel f="">permitir</rel>
+                <arg f="" n="1">a candidatura de José_Sarney por um partido que não seja o PMDB </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1785: Em algumas cidades , onde os pais têm poder de decisão em o sistema educacional , os projetos de novas escolas incorporam computadores , CD-ROM , modem e linhas telefônicas para permitir que os estudantes se comuniquem on_line . </text>
+                <rel f="">permitir</rel>
+                <arg f="" n="1">que os estudantes se comuniquem on_line </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1572: Skinner -- Não é permitido falar muito contra a monarquia em o Parlamento porque supostamente você deve jurar fidelidade a a rainha . </text>
+                <arg f="neg" n="m">Não </arg>
+                <rel f="">permitido</rel>
+                <arg f="" n="1">falar muito contra a monarquia em o Parlamento </arg>
+                <arg f="cau" n="m">porque supostamente você deve jurar fidelidade a a rainha </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1421: O cartão TVA vai permitir a seus portadores , a_partir_de este mês , a participação em as primeiras exibições realizadas em espaços culturais de o Banco_Nacional . </text>
+                <arg f="" n="0">O cartão TVA </arg>
+                <rel f="">permitir</rel>
+                <arg f="" n="2">a seus portadores </arg>
+                <arg f="tmp" n="m">a_partir_de este mês </arg>
+                <arg f="" n="1">a participação em as primeiras exibições realizadas em espaços culturais de o Banco_Nacional </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s972: Em a ocasião , Fidel_Castro permitiu a saída de milhares de pessoas insatisfeitas com seu regime e abriu um novo espaço para se manter em o poder . </text>
+                <arg f="tmp" n="m">Em a ocasião </arg>
+                <arg f="" n="0">Fidel_Castro </arg>
+                <rel f="">permitiu</rel>
+                <arg f="" n="1">a saída de milhares de pessoas insatisfeitas com seu regime </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s955: Calliari explicou que a posição de as embalagens permitiu a queda de dois sacos , que depois foram parar em a lata de o lixo . </text>
+                <arg f="" n="0">a posição de as embalagens </arg>
+                <rel f="">permitiu</rel>
+                <arg f="" n="1">a queda de dois sacos , que depois foram parar em a lata de o lixo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s883: Decisão de o Supremo_Tribunal_Federal permite a os micropartidos disputar a Presidência . </text>
+                <arg f="" n="0">Decisão de o Supremo_Tribunal_Federal </arg>
+                <rel f="">permite</rel>
+                <arg f="" n="2">a os micropartidos </arg>
+                <arg f="" n="1">disputar a Presidência </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s841: Os vãos permitem a saída de o ar quente , que fica em a parte superior de o ambiente . </text>
+                <arg f="" n="0">Os vãos </arg>
+                <rel f="">permitem</rel>
+                <arg f="" n="1">a saída de o ar quente , que fica em a parte superior de o ambiente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s799: Essa proposta permitiria a o governo negociar em posição favorável o resgate de os títulos públicos , já_que o programa admite o « não-pagamento parcial de a dívida , assegurada a poupança » . </text>
+                <arg f="" n="0">Essa proposta </arg>
+                <rel f="">permitiria</rel>
+                <arg f="" n="2">a o governo </arg>
+                <arg f="" n="1">negociar em posição favorável o resgate de os títulos públicos , já_que o programa admite o « não-pagamento parcial de a dívida , assegurada a poupança » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s535: O embargo é uma medida para que o TSE admita a constitucionalidade de a questão o_que permite que o assunto seja levado a o STF . </text>
+                <arg f="" n="0">o_que </arg>
+                <rel f="">permite</rel>
+                <arg f="" n="1">que o assunto seja levado a o STF </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s450: Tem que se pensar , para o Brasil , em uma empresa com modelo acionário flexível , que permita incorporar , em uma única marca , os esforços individuais de esses criadores e dispor de a sinergia necessária para investir em o mercado internacional . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">permita</rel>
+                <arg f="" n="1">incorporar , em uma única marca , os esforços individuais de esses criadores </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s449: Em nível internacional , há um processo de conglomerização de empresas que , ao permitir a integração de softwares , conferiu a os grandes grupos vantagens expressivas sobre os independentes . </text>
+                <rel f="">permitir</rel>
+                <arg f="" n="1">a integração de softwares </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s399: Só assim se evitará a estratificação de a legislação , permitindo que o sistema acompanhe de maneira dinâmica as transformações em a economia . </text>
+                <rel f="">permitindo</rel>
+                <arg f="" n="1">que o sistema acompanhe de maneira dinâmica as transformações em a economia </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

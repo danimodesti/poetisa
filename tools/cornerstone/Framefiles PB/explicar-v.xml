@@ -1,0 +1,150 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="explicar">
+        <roleset framnet="explain.01" id="explicar.01" name="esclarecer" vncls="37.1">
+            <roles>
+                <role descr="explainer" n="0">
+                    <vnrole vncls="37.1" vntheta="Agent"/>
+                </role>
+                <role descr="thing explained" n="1">
+                    <vnrole vncls="37.1" vntheta="Topic"/>
+                </role>
+                <role descr="explained to" n="2">
+                    <vnrole vncls="37.1" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4086: Ele explicou que o índice foi calculado de o dia 16 de junho ( ainda sobre cruzeiros reais ) a o dia 14 de este mês . </text>
+                <arg f="" n="0">Ele </arg>
+                <rel f="">explicou</rel>
+                <arg f="" n="1">que o índice foi calculado de o dia 16 de junho ( ainda sobre cruzeiros reais ) a o dia 14 de este mês </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3848: Vai ter paridade , já desde o começo » , explicou . </text>
+                <arg f="" n="1">Vai ter paridade , já desde o começo </arg>
+                <rel f="">explicou</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3704: A absurda dotação feita a dois municípios que agora passam a ter 50 $% de as verbas totais de seus Estados é assim explicada por Beni_Veras : </text>
+                <arg f="" n="1">A absurda dotação feita a dois municípios que agora passam a ter 50 $% de as verbas totais de seus Estados </arg>
+                <arg f="mnr" n="m">assim </arg>
+                <rel f="">explicada</rel>
+                <arg f="" n="0">por Beni_Veras </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3382: « Toda platéia de música erudita é tradicionalista » , explica . </text>
+                <arg f="" n="1">Toda platéia de música erudita </arg>
+                <rel f="">explica</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3295: Não explica como , mas garante que não vai perder a próxima eleição em Itabaiana . </text>
+                <arg f="neg" n="m">Não </arg>
+                <rel f="">explica</rel>
+                <arg f="mnr" n="m">como </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2696: Em a Bíblia , há duas histórias que tentam explicar a origem de tantas línguas . </text>
+                <rel f="">explicar</rel>
+                <arg f="" n="1">a origem de tantas línguas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s2398: O presidente de o partido em o Rio , Sá_Freire , disse que o pedido de cassação foi feito porque Walter_Queiroz não teria comparecido a as reuniões marcadas para que ele explicasse sua nova declaração de renda . </text>
+                <arg f="" n="0">ele </arg>
+                <rel f="">explicasse</rel>
+                <arg f="" n="1">sua nova declaração de renda </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2146: Para explicar as compras em sigilo , o argumento é justamente a necessidade de evitar o encarecimento de os papéis . </text>
+                <rel f="">explicar</rel>
+                <arg f="" n="1">as compras em sigilo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1830: « É por essas e outras que a gente acaba pegando uma micose em a chica e depois não sabe explicar por_quê » , bradou a espanholita . </text>
+                <arg f="" n="0">a gente </arg>
+                <arg f="tmp" n="m">depois </arg>
+                <rel f="">explicar</rel>
+                <arg f="" n="1">por_quê </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1229: Uma blusa preta pode ser usada com um sutiã branco se a saia for branca » , explica . </text>
+                <arg f="" n="1">Uma blusa preta pode ser usada com um sutiã branco se a saia for branca </arg>
+                <rel f="">explica</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1053: Isso porque ninguém sabe quais serão os critérios de a conversão automática , explica . </text>
+                <arg f="" n="1">Isso porque ninguém sabe quais serão os critérios de a conversão automática </arg>
+                <rel f="">explica</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s955: Calliari explicou que a posição de as embalagens permitiu a queda de dois sacos , que depois foram parar em a lata de o lixo . </text>
+                <arg f="" n="0">Calliari </arg>
+                <rel f="">explicou</rel>
+                <arg f="" n="1">que a posição de as embalagens permitiu a queda de dois sacos , que depois foram parar em a lata de o lixo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s706: Achava que não tinha vocação política » , explica . </text>
+                <arg f="" n="1">Achava que não tinha vocação política </arg>
+                <rel f="">explica</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s499: O episódio é emblemático de o tipo de política externa exercitada por o governo Clinton e ajuda a explicar por_que ela é tão mal avaliada . </text>
+                <rel f="">explicar</rel>
+                <arg f="" n="1">por_que ela é tão mal avaliada </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s171: Sendo assim , não podemos dar nosso apoio aberto » , explicou . </text>
+                <arg f="dis" n="m">Sendo assim </arg>
+                <arg f="" n="1">não podemos dar nosso apoio aberto </arg>
+                <rel f="">explicou</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

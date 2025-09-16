@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+        
+    <predicate lemma="acessar">
+                
+        <roleset framnet="access.01" id="acessar.01" name="consultar, ter acesso" source="" vncls="-">
+                        
+            <roles>
+                                
+                <role descr="accessor" f="" n="0"/>
+                                
+                <role descr="thing accessed" f="" n="1"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosG.s1390: Hoje_em_dia , qualquer americano medianamente equipado pode fazer diante_de o teclado tarefas que antes exigiam que ele tirasse o bumbum de a cadeira : mandar e receber fax e mensagens eletrônicas , reservar passagens aéreas , controlar a conta bancária , acessar bancos de dados e dezenas_de outros serviços .</text>
+                                
+                <arg f="tmp" n="m">Hoje_em_dia</arg>
+                                
+                <arg f="" n="0">qualquer americano medianamente equipado</arg>
+                                
+                <rel f="">acessar</rel>
+                                
+                <arg f="" n="1">bancos de dados e dezenas_de outros serviços</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+
+    <note/>
+</frameset>

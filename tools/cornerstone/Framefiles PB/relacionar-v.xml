@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="relacionar">
+        <roleset framnet="list.01" id="relacionar.01" name="listar" vncls="">
+            <roles>
+                <role descr="lister" n="0"/>
+                <role descr="item" n="1"/>
+                <role descr="list" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3470: Constam de o livro 15 quadros estatísticos relacionando os nomes de as vítimas e os responsáveis por crimes ligados a conflitos de terra . </text>
+                <rel f="">relacionando</rel>
+                <arg f="" n="1">os nomes de as vítimas e os responsáveis por crimes ligados a conflitos de terra </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

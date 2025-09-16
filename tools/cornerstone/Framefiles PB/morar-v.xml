@@ -1,0 +1,87 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="morar">
+        <roleset framnet="live.01" id="morar.01"
+            name="viver em uma moradia; habitar" vncls="39.6 46 47.1-1">
+            <roles>
+                <role descr="alive entity" n="0">
+                    <vnrole vncls="39.6" vntheta="Agent"/>
+                    <vnrole vncls="47.1-1" vntheta="Theme"/>
+                    <vnrole vncls="46" vntheta="Theme"/>
+                </role>
+                <role descr="life" n="1">
+                    <vnrole vncls="39.6" vntheta="Patient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2963: Jair morava sozinho em o barraco e , segundo seus vizinhos , era alcoólatra . </text>
+                <arg f="" n="0">Jair </arg>
+                <rel f="">morava</rel>
+                <arg f="mnr" n="m">sozinho </arg>
+                <arg f="loc" n="m">em o barraco </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2127: Ambos partem em uma fuga para o norte ( rumo_a o pai de Haynes , que mora em o Alasca ) . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">mora</rel>
+                <arg f="loc" n="m">em o Alasca </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1031: Tsunezaemon , que havia sido barbeiro em Lima , em o Peru , onde morou por 14 anos , acumulara dinheiro com o_qual comprou casas e prédios a o retornar a o Japão . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="loc" n="m">onde </arg>
+                <rel f="">morou</rel>
+                <arg f="tmp" n="m">por 14 anos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s743: Morando há seis anos ali , Tatiana disse que nunca viu um período tão violento . </text>
+                <rel f="">Morando</rel>
+                <arg f="tmp" n="m">há seis anos </arg>
+                <arg f="loc" n="m">ali </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s742: Tatiana mora em a rua São_Clemente , Botafogo , em_frente a a principal via de acesso a o morro . </text>
+                <arg f="" n="0">Tatiana </arg>
+                <rel f="">mora</rel>
+                <arg f="loc" n="m">em a rua São_Clemente , Botafogo , </arg>
+                <arg f="loc" n="m">em_frente a a principal via de acesso a o morro </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s238: Apesar_de morarem aqui de o lado em Miami , Teresa e Emerson_Fittipaldi não dão nem tchuns para a Copa . </text>
+                <rel f="">morarem</rel>
+                <arg f="loc" n="m">aqui de o lado </arg>
+                <arg f="loc" n="m">em Miami </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s166: Rúbio era acusado por Claudirene de tê- la estuprado em o ano passado , época em que era o líder de a Assembléia_de_Deus em a usina São_Luiz , onde a estudante morava . </text>
+                <arg f="loc" n="m">onde </arg>
+                <arg f="" n="0">a estudante </arg>
+                <rel f="">morava</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="editar">
+        <roleset framnet="edit.01" id="editar.01"
+            name="coordenar a edição; trabalhar sobre texto ou imagem" vncls="-">
+            <roles>
+                <role descr="editor" n="0"/>
+                <role descr="text" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2495: Não foi difícil encontrar patrocinadores para o projeto , segundo Antonio_Carlos_de_Moura , 35 , diretor comercial de a empresa Folha_da_Manhã_S/A , que edita a Folha . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">edita</rel>
+                <arg f="" n="1">a Folha </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

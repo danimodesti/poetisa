@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="ratificar">
+        <roleset framnet="ratify.01" id="ratificar.01" name="confirmar" vncls="-">
+            <roles>
+                <role descr="approver, agent" n="0"/>
+                <role descr="entity ratified" n="1"/>
+                <role descr="beneficiary" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s964: João_Paulo_Bordon , vice- presidente de a Swift-Armour , alega não ter sido comunicado sobre a realização de a assembléia de a empresa para ratificar a concordata . </text>
+                <rel f="">ratificar</rel>
+                <arg f="" n="1">a concordata </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

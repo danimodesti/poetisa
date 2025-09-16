@@ -1,0 +1,417 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="entrar">
+        <roleset framnet="file.01" id="entrar.04"
+            name="submeter oficialmente (ação, pedido)" vncls="9.10">
+            <roles>
+                <role descr="filer" n="0">
+                    <vnrole vncls="9.10" vntheta="Agent"/>
+                </role>
+                <role descr="file" n="1">
+                    <vnrole vncls="9.10" vntheta="Theme"/>
+                </role>
+                <role descr="filed-with" n="2"/>
+                <role descr="filed against" n="3"/>
+                <role descr="purpose of filing" n="4"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3028: O presidente de a Portuguesa , Manuel_Pacheco , deve entrar terça-feira com uma ação contra o Vasco_da_Gama . </text>
+                <arg f="" n="0">O presidente de a Portuguesa , Manuel_Pacheco , </arg>
+                <rel f="">entrar</rel>
+                <arg f="tmp" n="m">terça-feira </arg>
+                <arg f="" n="1">com uma ação contra o Vasco_da_Gama </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3027: Presidente de a Portuguesa , Manuel_Pacheco , deve entrar com ação em a terça-feira contra o clube de o Rio </text>
+                <arg f="" n="0">Presidente de a Portuguesa , Manuel_Pacheco , </arg>
+                <rel f="">entrar</rel>
+                <arg f="tmp" n="m">em a terça-feira </arg>
+                <arg f="" n="1">com ação contra o clube de o Rio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s30: Posteriormente , diante_de a ameaça de o tribunal de entrar com uma ação judicial , o governo mandou a o Congresso uma alteração a o projeto , aumentando para R$ 452,7 milhões a dotação de o TSE . </text>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">com uma ação judicial </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="provide.01" id="entrar.05"
+            name="dar (como forma de participação); participar" vncls="13.4.1">
+            <roles>
+                <role descr="provider" n="0">
+                    <vnrole vncls="13.4.1" vntheta="Agent"/>
+                </role>
+                <role descr="thing provided" n="1">
+                    <vnrole vncls="13.4.1" vntheta="Theme"/>
+                </role>
+                <role descr="entity provided for (benefactive)" n="2">
+                    <vnrole vncls="13.4.1" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2106: O grupo Sendas entra com o terreno de 154 mil metros quadrados , e o Nacional_Iguatemi_Empreendimentos , dono de shoppings_centers em o Nordeste e sócio de Tasso_Jereissati em o Iguatemi de São_Paulo , com os recursos para bancar o empreendimento . </text>
+                <arg f="" n="0">O grupo Sendas </arg>
+                <rel f="">entra</rel>
+                <arg f="mnr" n="m">com o terreno de 154 mil metros quadrados </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="appeal.02" id="entrar.06"
+            name="&quot;entrar na justiça&quot; = usar dos meios legais para determinada finalidade" vncls="31.4-3">
+            <roles>
+                <role descr="begger, appealer" n="0">
+                    <vnrole vncls="31.4-3" vntheta="Cause"/>
+                </role>
+                <role descr="appealed to, begged from" n="1">
+                    <vnrole vncls="31.4-3" vntheta="Experiencer"/>
+                </role>
+                <role descr="begged/appealed for" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1150: Muitas empresas entraram em a Justiça para obter o direito de contabilizar essa corrosão inflacionária em seus balanços , e ganharam as ações em primeira instância . </text>
+                <arg f="" n="0">Muitas empresas </arg>
+                <rel f="">entraram</rel>
+                <arg f="" n="1">em a Justiça </arg>
+                <arg f="" n="2">para obter o direito de contabilizar essa corrosão inflacionária em seus balanços </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="enter.01" id="entrar.01"
+            name="mover-se para dentro" vncls="51.1-1">
+            <roles>
+                <role descr="entity entering" n="0">
+                    <vnrole vncls="51.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="place or thing entered" n="1">
+                    <vnrole vncls="51.1-1" vntheta="Location"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4041: Os EUA entram em a vida japonesa em meados de o século 19 , quando obrigam o « shogun » a assinar um tratado de comércio . </text>
+                <arg f="" n="0">Os EUA </arg>
+                <rel f="">entram</rel>
+                <arg f="" n="1">em a vida japonesa </arg>
+                <arg f="tmp" n="m">em meados de o século 19 , quando obrigam o « shogun » a assinar um tratado de comércio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2827: O São_Paulo começou o primeiro tempo apático , mas acordou a os 10 min com uma falta não marcada de o lateral Mac_Allister em Euller , quando este ia entrar em a área . </text>
+                <arg f="tmp" n="m">quando </arg>
+                <arg f="" n="0">este </arg>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em a área </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2796: As constantes desavenças com seu pai , John_Paul_Getty , fizeram John_Paul_Getty_2º entrar em o « affaire » . </text>
+                <arg f="" n="0">John_Paul_Getty_2º </arg>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em o « affaire » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2721: É o que se chama de « alavancagem » com um empréstimo de US$ 10 , por_exemplo , pode- se entrar em um jogo de US$ 100 ou mais . </text>
+                <arg f="mnr" n="m">com um empréstimo de US$ 10 </arg>
+                <arg f="dis" n="m">por_exemplo </arg>
+                <arg f="" n="0">se </arg>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em um jogo de US$ 100 ou mais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2338: 10h45 -- a visitação pública é aberta ; ao_mesmo_tempo , algumas ambulâncias entram em o pátio de a assembléia para socorrer eventuais emergências ; </text>
+                <arg f="tmp" n="m">ao_mesmo_tempo </arg>
+                <arg f="" n="0">algumas ambulâncias </arg>
+                <rel f="">entram</rel>
+                <arg f="" n="1">em o pátio de a assembléia </arg>
+                <arg f="pnc" n="m">para socorrer eventuais emergências </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2309: A equipe entra em a quadra amanhã a as 20h30 ( 15h30 de Brasília ) para disputar com o Canadá , em o chamado « grupo de a morte » , um lugar em a próxima fase de o Mundial ( leia matéria em esta página ) . </text>
+                <arg f="" n="0">A equipe </arg>
+                <rel f="">entra</rel>
+                <arg f="" n="1">em a quadra </arg>
+                <arg f="tmp" n="m">amanhã </arg>
+                <arg f="tmp" n="m">a as 20h30 ( 15h30 de Brasília ) </arg>
+                <arg f="pnc" n="m">para disputar com o Canadá , em o chamado « grupo de a morte » , um lugar em a próxima fase de o Mundial </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2170: Sandoval -- Vou entrar com determinação , sabendo que vai ser difícil . </text>
+                <arg f="dis" n="m">Sandoval </arg>
+                <rel f="">entrar</rel>
+                <arg f="mnr" n="m">com determinação </arg>
+                <arg f="mnr" n="m">sabendo que vai ser difícil </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2016: Um cabo , ensinam os dicionários , é uma faixa de terra que entra por o mar o oposto de fiorde , que é uma porção de mar que avança por o continente , como acontece em a Noruega e Suécia . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">entra</rel>
+                <arg f="loc" n="m">por o mar </arg>
+                <note>"pelo mar" é um loc e não Arg1 porque não é um lugar "onde" entra, mas "por onde" entra</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1781: Parte porque o tricolor entrou em campo mal escalado por Telê , que tentou consertar logo após , com a entrada de Vítor em a lateral e a passagem de Cafu para o lugar de Jamelli . </text>
+                <arg f="" n="0">o tricolor </arg>
+                <rel f="">entrou</rel>
+                <arg f="" n="1">em campo mal escalado por Telê , que tentou consertar logo após , com a entrada de Vítor em a lateral e a passagem de Cafu para o lugar de Jamelli </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1684: Nosso herói ( Brendan_Fraser ) entra em cena a as voltas com sua tese de formatura , sob orientação de o duro professor de Direito Constitucional interpretado por o escritor Gore_Vidal </text>
+                <arg f="" n="0">Nosso herói ( Brendan_Fraser ) </arg>
+                <rel f="">entra</rel>
+                <arg f="" n="1">em cena </arg>
+                <arg f="mnr" n="m">a as voltas com sua tese de formatura </arg>
+                <arg f="mnr" n="m">sob orientação de o duro professor de Direito Constitucional interpretado por o escritor Gore_Vidal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1214: Usuário de BBS pode ' entrar ' em a InterNet </text>
+                <arg f="" n="0">Usuário de BBS </arg>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em a InterNet </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s893: Saem os megas e entram os micros , minis e mídis . </text>
+                <rel f="">entram</rel>
+                <arg f="" n="0">os micros , minis e mídis </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s867: Biblioteca vaticana entra em a Internet </text>
+                <arg f="" n="0">Biblioteca vaticana </arg>
+                <rel f="">entra</rel>
+                <arg f="" n="1">em a Internet </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s672: O jovem ( 34 anos ) , talentoso e barato Mancini entrou rachando . </text>
+                <arg f="" n="0">O jovem ( 34 anos ) , talentoso e barato Mancini </arg>
+                <rel f="">entrou</rel>
+                <arg f="mnr" n="m">rachando </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s314: Por_causa_de um acidente envolvendo o finlandês J.J._Letho , de a Benetton , e o português Pedro_Lamy , de a Lotus , o « safety_car » entrou em a pista . </text>
+                <arg f="cau" n="m">Por_causa_de um acidente envolvendo o finlandês J.J._Letho , de a Benetton , e o português Pedro_Lamy , de a Lotus , </arg>
+                <arg f="" n="0">o « safety_car » </arg>
+                <rel f="">entrou</rel>
+                <arg f="" n="1">em a pista </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s273: À_medida_que o grupo de serviços que entram em os lares e em as empresas evolui , a definição de serviço universal vai evoluir também . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">entram</rel>
+                <arg f="" n="1">em os lares e em as empresas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s143: Caio entra em o lugar de Catê , caso ele seja suspenso hoje pela_manhã </text>
+                <arg f="" n="0">Caio </arg>
+                <rel f="">entra</rel>
+                <arg f="" n="1">em o lugar de Catê </arg>
+                <arg f="adv" n="m">caso ele seja suspenso hoje pela_manhã </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s42: A Fifa e a CBF deveriam entrar de sola em esse caso e em todas as outras federações . </text>
+                <arg f="" n="0">A Fifa e a CBF </arg>
+                <rel f="">entrar</rel>
+                <arg f="mnr" n="m">de sola </arg>
+                <arg f="" n="1">em esse caso e em todas as outras federações </arg>
+                <note>"entrar de sola" = entrar firmemente</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1087: Romário era querido , mas em certos bares ele não entrava » , diz um taxista . </text>
+                <arg f="" n="1">em certos bares </arg>
+                <arg f="" n="0">ele </arg>
+                <rel f="">entrava</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="enter.01" id="entrar.02"
+            name="iniciar processo de" vncls="51.1-1">
+            <roles>
+                <role descr="entity entering" n="0">
+                    <vnrole vncls="51.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="place or thing entered" n="1">
+                    <vnrole vncls="51.1-1" vntheta="Location"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3218: Os EUA , depois de um histórico discurso de seu presidente , Franklin_Delano_Roosevelt , entraram em guerra contra o Japão e seus aliados em o Eixo , Alemanha e Itália . </text>
+                <arg f="" n="0">Os EUA </arg>
+                <arg f="tmp" n="m">depois de um histórico discurso de seu presidente , Franklin_Delano_Roosevelt , </arg>
+                <rel f="">entraram</rel>
+                <arg f="" n="1">em guerra contra o Japão e seus aliados em o Eixo , Alemanha e Itália </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3179: Os policiais federais de Mato_Grosso_do_Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito_Federal . </text>
+                <arg f="" n="0">Os policiais federais de Mato_Grosso_do_Sul </arg>
+                <rel f="">entraram</rel>
+                <arg f="" n="1">em greve </arg>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="pnc" n="m">em adesão a o movimento iniciado em o Distrito_Federal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3178: Policiais Federais de o MS entram em greve </text>
+                <arg f="" n="0">Policiais Federais de o MS </arg>
+                <rel f="">entram</rel>
+                <arg f="" n="1">em greve </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2364: Já assessores de o federalista Delors , que em dez anos em a presidência de a CE aumentou os poderes de o cargo e entrou em conflito com Margaret_Thatcher ( antecessora de Major ) , temem que a escolha de Santer sirva para enfraquecer os poderes de o presidente , o_que abriria caminho para o eixo Alemanha-França consolidar o seu domínio . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">entrou</rel>
+                <arg f="" n="1">em conflito com Margaret_Thatcher ( antecessora de Major ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2334: Os interessados em viabilizar a participação de o coral em o festival belga podem entrar em contato com a direção de o coral em os telefones ( 011 ) 231-5346 e 288-3514 . </text>
+                <arg f="" n="0">Os interessados em viabilizar a participação de o coral em o festival belga </arg>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em contato com a direção de o coral </arg>
+                <arg f="mnr" n="m">em os telefones ( 011 ) 231-5346 e 288-3514 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2208: Os professores de a UFPB ( Universidade_Federal_da_Paraíba ) também entraram em greve geral ontem . </text>
+                <arg f="" n="0">Os professores de a UFPB ( Universidade_Federal_da_Paraíba ) </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">entraram</rel>
+                <arg f="" n="1">em greve geral </arg>
+                <arg f="tmp" n="m">ontem </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1553: Para entrar em ação , a tropa de ciclistas está esperando apenas que aconteça o cerimonial de inauguração , diz Santini . </text>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em ação </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s176: Países produtores e consumidores de café entraram em um tipo de pré- pacto internacional que não intervenha em os preços de o produto , afirmou o porta-voz de a Organização_Internacional_do_Café ( OIC ) . </text>
+                <arg f="" n="0">Países produtores e consumidores de café </arg>
+                <rel f="">entraram</rel>
+                <arg f="" n="1">em um tipo de pré- pacto internacional que não intervenha em os preços de o produto </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="enter.01" id="entrar.03"
+            name="associar-se; passar a fazer parte de" vncls="51.1-1">
+            <roles>
+                <role descr="entity entering" n="0">
+                    <vnrole vncls="51.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="place or thing entered" n="1">
+                    <vnrole vncls="51.1-1" vntheta="Location"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3153: « Elvis morreu quando entrou para o exército » . </text>
+                <arg f="" n="0">Elvis </arg>
+                <rel f="">entrou</rel>
+                <arg f="" n="1">para o exército </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1308: Países ex- comunistas como Polônia e Hungria têm interesse em entrar em a Otan . </text>
+                <rel f="">entrar</rel>
+                <arg f="" n="1">em a Otan </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

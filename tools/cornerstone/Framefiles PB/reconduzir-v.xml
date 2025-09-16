@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reconduzir">
+        <roleset framnet="reappoint.01" id="reconduzir.01"
+            name="renomear; levar de novo para o mesmo lugar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2856: A liminar , ainda não cumprida por o governo de o Espírito_Santo , determina que o delegado responsável por o caso , Francisco_Badenes , seja reconduzido a o cargo . </text>
+                <arg f="" n="1">o delegado responsável por o caso , Francisco_Badenes , </arg>
+                <rel f="">reconduzido</rel>
+                <arg f="" n="2">a o cargo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s60: Começou bem antes de o que se previa a batalha por a futura sucessão em a Fifa apenas seis meses depois de o super-acordo que , em as vésperas de a Copa , reconduziu o brasileiro João_Havelange a o sexto mandato consecutivo . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="tmp" n="m">em as vésperas de a Copa </arg>
+                <rel f="">reconduziu</rel>
+                <arg f="" n="1">o brasileiro João_Havelange </arg>
+                <arg f="" n="2">a o sexto mandato consecutivo </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,74 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="invadir">
+        <roleset framnet="invade.01" id="invadir.01"
+            name="entrar à força" vncls="-">
+            <roles>
+                <role descr="invader" n="0"/>
+                <role descr="place invaded" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3406: Com mandados de busca e apreensão , os homens de a Rota invadiram os três apartamentos . </text>
+                <arg f="adv" n="m">Com mandados de busca e apreensão </arg>
+                <arg f="" n="0">os homens de a Rota </arg>
+                <rel f="">invadiram</rel>
+                <arg f="" n="1">os três apartamentos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3238: Segundo o detetive , eles ameaçaram invadir a delegacia , em o horário de visita , para resgatar dez companheiros . </text>
+                <rel f="">invadir</rel>
+                <arg f="" n="1">a delegacia </arg>
+                <arg f="tmp" n="m">em o horário de visita </arg>
+                <arg f="pnc" n="m">para resgatar dez companheiros </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1931: São_Paulo foi literalmente invadida por a cozinha japonesa . </text>
+                <arg f="" n="1">São_Paulo </arg>
+                <arg f="adv" n="m">literalmente </arg>
+                <rel f="">invadida</rel>
+                <arg f="" n="0">por a cozinha japonesa </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1377: O massacre ocorreu quando a tropa de choque de a PM invadiu o pavilhão para acabar com uma rebelião , em 2 de outubro de 92 . </text>
+                <arg f="" n="0">a tropa de choque de a PM </arg>
+                <rel f="">invadiu</rel>
+                <arg f="" n="1">o pavilhão </arg>
+                <arg f="pnc" n="m">para acabar com uma rebelião , em 2 de outubro de 92 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s633: Depois de o Clube_das_Mulheres ( em Portugal , Clube_das_Bigodudas ) os peladões invadem os salões . </text>
+                <arg f="tmp" n="m">Depois de o Clube_das_Mulheres ( em Portugal , Clube_das_Bigodudas ) </arg>
+                <arg f="" n="0">os peladões </arg>
+                <rel f="">invadem</rel>
+                <arg f="" n="1">os salões </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s630: Os Piranhos de o Kung_Fu invadem o salão ! </text>
+                <arg f="" n="0">Os Piranhos de o Kung_Fu </arg>
+                <rel f="">invadem</rel>
+                <arg f="" n="1">o salão </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

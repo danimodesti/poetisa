@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="atrasar">
+        <roleset framnet="delay.01" id="atrasar.01"
+            name="fazer algo ocorrer depois do planejado" vncls="53.1">
+            <roles>
+                <role descr="agent, causer of delay" n="0">
+                    <vnrole vncls="53.1" vntheta="Agent"/>
+                </role>
+                <role descr="event delayed" n="1">
+                    <vnrole vncls="53.1" vntheta="Theme"/>
+                </role>
+                <role descr="delay itself, EXT, time period" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1241: Os relógios serão atrasados a a meia-noite para 23h , e os trens continuarão a correr até a « segunda meia-noite » . </text>
+                <arg f="" n="1">Os relógios </arg>
+                <rel f="">atrasados</rel>
+                <arg f="tmp" n="m">a a meia-noite </arg>
+                <arg f="" n="2">para 23h </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1237: Além_de Brasília , devem atrasar o relógio os Estados de São_Paulo , Rio_Grande_do_Sul , Santa_Catarina , Paraná , Rio_de_Janeiro , Minas_Gerais , Espírito_Santo , Goiás , Mato_Grosso_do_Sul , Mato_Grosso , Amazonas e Bahia . </text>
+                <arg f="" n="0">Além_de Brasília os Estados de São_Paulo , Rio_Grande_do_Sul , Santa_Catarina , Paraná , Rio_de_Janeiro , Minas_Gerais , Espírito_Santo , Goiás , Mato_Grosso_do_Sul , Mato_Grosso , Amazonas e Bahia </arg>
+                <rel f="">atrasar</rel>
+                <arg f="" n="1">o relógio </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

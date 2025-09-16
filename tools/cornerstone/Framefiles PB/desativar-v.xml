@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="desativar">
+        <roleset framnet="deactivate.01" id="desativar.01"
+            name="tornar inativo" vncls="-">
+            <roles>
+                <role descr="deactivator, agent" n="0"/>
+                <role descr="entity deactivated" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2141: O CNDA ( Conselho_Nacional_de_Direito_Autoral ) , que respondia por a fiscalização , consulta e assistência em as matérias relativas a direitos autorais , foi desativado por o governo Collor . </text>
+                <arg f="" n="1">O CNDA ( Conselho_Nacional_de_Direito_Autoral ) , que respondia por a fiscalização , consulta e assistência em as matérias relativas a direitos autorais </arg>
+                <rel f="">desativado</rel>
+                <arg f="" n="0">por o governo Collor </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

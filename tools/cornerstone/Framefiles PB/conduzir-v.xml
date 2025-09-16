@@ -1,0 +1,29 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="conduzir">
+        <roleset framnet="conduct.01" id="conduzir.01" name="dirigir" vncls="51.7">
+            <roles>
+                <role descr="conductor" n="0">
+                    <vnrole vncls="51.7" vntheta="Agent"/>
+                </role>
+                <role descr="thing led" n="1">
+                    <vnrole vncls="51.7" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2061: Ex- presidente de a Câmara , Ibsen conduziu a votação autorizando o impeachment de Collor , em 29 de setembro de 1992 . </text>
+                <arg f="prd" n="m">Ex- presidente de a Câmara </arg>
+                <arg f="" n="0">Ibsen </arg>
+                <rel f="">conduziu</rel>
+                <arg f="" n="1">a votação </arg>
+                <arg f="adv" n="m">autorizando o impeachment de Collor , em 29 de setembro de 1992 </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

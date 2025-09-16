@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="prevenir">
+        <roleset framnet="prevent.01" id="prevenir.01"
+            name="tomar medidas para evitar" vncls="">
+            <roles>
+                <role descr="Agent" n="0"/>
+                <role descr="Theme (action or object being prevented)" n="1"/>
+                <role descr="secondary predication or action" n="2"/>
+                <role descr="instrument" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1563: O Departamento_de_Estado de os Estados_Unidos ordenou ontem reforços em a segurança de as representações diplomáticas de Israel em o país para prevenir eventuais ataques terroristas . </text>
+                <rel f="">prevenir</rel>
+                <arg f="" n="1">eventuais ataques terroristas </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

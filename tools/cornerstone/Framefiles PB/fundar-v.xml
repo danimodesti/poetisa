@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="fundar">
+        <roleset framnet="found.01" id="fundar.01"
+            name="dar origem a um lugar ou a uma instituição" vncls="55.5-1 97.1">
+            <roles>
+                <role descr="agent, setter" n="0">
+                    <vnrole vncls="55.5-1" vntheta="Agent"/>
+                    <vnrole vncls="97.1" vntheta="Agent"/>
+                </role>
+                <role descr="thing set" n="1">
+                    <vnrole vncls="55.5-1" vntheta="Theme"/>
+                    <vnrole vncls="97.1" vntheta="Theme"/>
+                </role>
+                <role descr="attribute" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2532: José_Carlos_Araújo foi sócio de Octávio_Cavalcanti_Lacombe ( morto em 1992 ) , que fundou há mais_de 30 anos a Paranapanema , companhia de exploração de minérios principalmente estanho e cassiterita em a região amazônica . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">fundou</rel>
+                <arg f="tmp" n="m">há mais_de 30 anos </arg>
+                <arg f="" n="1">a Paranapanema , companhia de exploração de minérios principalmente estanho e cassiterita em a região amazônica </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,65 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="">
+        <roleset framnet="" id="exibir.01" name="" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3271: A MTV não exibiu ontem o desenho animado « Beavis_e_Butt-Head » por determinação de liminar expedida por a Vara_Central_da_Infância_e_Juventude , em São_Paulo . </text>
+                <arg f="" n="0">A MTV </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">exibiu</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">o desenho animado « Beavis_e_Butt-Head » </arg>
+                <arg f="cau" n="m">por determinação de liminar expedida por a Vara_Central_da_Infância_e_Juventude </arg>
+                <arg f="loc" n="m">em São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2093: Entre os clips que o programa exibe estão « Blitzkrieg_Bop » , « I_Wanna_Live » e « Poison_Heart » . </text>
+                <arg f="" n="1">que </arg>
+                <arg f="" n="0">o programa </arg>
+                <rel f="">exibe</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2073: Sesc_Pompéia exibe obra de Nuno_Ramos </text>
+                <arg f="" n="0">Sesc_Pompéia </arg>
+                <rel f="">exibe</rel>
+                <arg f="" n="1">obra de Nuno_Ramos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s682: Semana que vem , começa a reescrever « Irmãos_Coragem » , novela de Janete_Clair que a Globo exibiu com enorme sucesso entre junho de 1970 e julho de 1971 . </text>
+                <arg f="" n="1">que </arg>
+                <arg f="" n="0">a Globo </arg>
+                <rel f="">exibiu</rel>
+                <arg f="mnr" n="m">com enorme sucesso </arg>
+                <arg f="tmp" n="m">entre junho de 1970 e julho de 1971 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s411: É gratificante exibir opiniões progressistas , de essas que fazem chover cartas de apoio em o « Painel_do_Leitor » . </text>
+                <rel f="">exibir</rel>
+                <arg f="" n="1">opiniões progressistas , de essas que fazem chover cartas de apoio em o « Painel_do_Leitor » </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="socorrer">
+        <roleset framnet="assist.01" id="socorrer.01"
+            name="ajudar; livrar do perigo" vncls="72">
+            <roles>
+                <role descr="assistant" n="0">
+                    <vnrole vncls="72" vntheta="Agent"/>
+                </role>
+                <role descr="assisted" n="1">
+                    <vnrole vncls="72" vntheta="Beneficiary"/>
+                </role>
+                <role descr="project" n="2">
+                    <vnrole vncls="72" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2573: O Conselho_Monetário_Nacional aprovou ontem uma nova linha de empréstimos de o Banco_Central para socorrer bancos de qualquer porte . </text>
+                <rel f="">socorrer</rel>
+                <arg f="" n="1">bancos de qualquer porte </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2338: 10h45 -- a visitação pública é aberta ; ao_mesmo_tempo , algumas ambulâncias entram em o pátio de a assembléia para socorrer eventuais emergências ; </text>
+                <rel f="">socorrer</rel>
+                <arg f="" n="1">eventuais emergências </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1545: Enquanto isso ( ou entrementes , como em as antigas histórias em quadrinho ) , o ex- governador ACM descola suntuoso empréstimo para socorrer os cacaueiros de a Bahia , quatro anos de carência , juros de 2 % subsidiados , um empréstimo de pai ( governo ) para filho ( fazendeiros ) . </text>
+                <rel f="">socorrer</rel>
+                <arg f="" n="1">os cacaueiros de a Bahia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1126: Júlio ( Othon_Bastos ) chega logo depois a a casa de Emília e lá tem uma forte crise de úlcera , sendo socorrido por Justina </text>
+                <arg f="" n="1">Júlio ( Othon_Bastos ) </arg>
+                <rel f="">socorrido</rel>
+                <arg f="" n="0">por Justina </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

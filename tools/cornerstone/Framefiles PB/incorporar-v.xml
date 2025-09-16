@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="incorporar">
+        <roleset framnet="embody.01" id="incorporar.01"
+            name="adicionar algo a corpo ou conjunto" vncls="-">
+            <roles>
+                <role descr="entity embodied" n="1"/>
+                <role descr="embodied in" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1785: Em algumas cidades , onde os pais têm poder de decisão em o sistema educacional , os projetos de novas escolas incorporam computadores , CD-ROM , modem e linhas telefônicas para permitir que os estudantes se comuniquem on_line . </text>
+                <arg f="loc" n="m">Em algumas cidades , onde os pais têm poder de decisão em o sistema educacional , </arg>
+                <arg f="" n="2">os projetos de novas escolas </arg>
+                <rel f="">incorporam</rel>
+                <arg f="" n="1">computadores , CD-ROM , modem e linhas telefônicas </arg>
+                <arg f="pnc" n="m">para permitir que os estudantes se comuniquem on_line </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s774: O Brasil só sairá de a sua mediocridade se se deixar incorporar a a Amazônia . </text>
+                <rel f="">incorporar</rel>
+                <arg f="" n="2">a a Amazônia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s450: Tem que se pensar , para o Brasil , em uma empresa com modelo acionário flexível , que permita incorporar , em uma única marca , os esforços individuais de esses criadores e dispor de a sinergia necessária para investir em o mercado internacional . </text>
+                <rel f="">incorporar</rel>
+                <arg f="" n="2">em uma única marca </arg>
+                <arg f="" n="1">os esforços individuais de esses criadores </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

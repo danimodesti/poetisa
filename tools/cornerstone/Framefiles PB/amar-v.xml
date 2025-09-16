@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="amar">
+        <roleset framnet="love.01" id="amar.01"
+            name="sentir grande afeto" vncls="31.2">
+            <roles>
+                <role descr="lover" n="0">
+                    <vnrole vncls="31.2" vntheta="Experiencer"/>
+                </role>
+                <role descr="loved" n="1">
+                    <vnrole vncls="31.2" vntheta="Cause"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3613: Sabe por_que eu amo tanto você , querido ? </text>
+                <arg f="cau" n="m">por_que </arg>
+                <arg f="" n="0">eu </arg>
+                <rel f="">amo</rel>
+                <arg f="ext" n="m">tanto </arg>
+                <arg f="" n="1">você </arg>
+                <arg f="dis" n="m">querido </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

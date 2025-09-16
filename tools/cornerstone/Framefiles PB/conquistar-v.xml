@@ -1,0 +1,114 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="conquistar">
+        <roleset framnet="conquer.01" id="conquistar.01"
+            name="ganhar por meio de luta ou esforço" vncls="42.3">
+            <roles>
+                <role descr="conquering hero, agent" n="0">
+                    <vnrole vncls="42.3" vntheta="Agent"/>
+                </role>
+                <role descr="entity conquered" n="1">
+                    <vnrole vncls="42.3" vntheta="Patient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3758: Depois de conquistar seu prêmio de estréia em o concurso Smirnoff em São_Paulo , o jovem estilista Sérgio_Machado emplacou mais uma . </text>
+                <rel f="">conquistar</rel>
+                <arg f="" n="1">seu prêmio de estréia em o concurso Smirnoff em São_Paulo </arg>
+                <note>é muito raro em inglês "conquer the award/ the prize", o mais usual é "win"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3752: O segundo lugar foi conquistado por a Ericsson , que em agosto de 93 ocupava a quarta posição em contratos assinados para fornecimento de equipamentos . </text>
+                <arg f="" n="1">O segundo lugar </arg>
+                <rel f="">conquistado</rel>
+                <arg f="" n="0">por a Ericsson , que em agosto de 93 ocupava a quarta posição em contratos assinados para fornecimento de equipamentos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3750: Depois de uma disputa acirrada entre as indústrias para conquistar os melhores mercados , o ranking de as gigantes multinacionais que dividem o bolo mudou . </text>
+                <rel f="">conquistar</rel>
+                <arg f="" n="1">os melhores mercados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3252: Conquistou o título mundial de este ano com a seleção de seu país , o « Dream_Team » ( Time_dos_Sonhos ) 2 </text>
+                <rel f="">Conquistou</rel>
+                <arg f="" n="1">o título mundial de este ano </arg>
+                <arg f="mnr" n="m">com a seleção de seu país , o « Dream_Team » ( Time_dos_Sonhos ) 2 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2263: O Mogi_Mirim venceu ontem o União_São_João de Araras por 2 a 0 em Mogi e deu mais um passo para conquistar uma vaga em a Copa_Bandeirantes . </text>
+                <rel f="">conquistar</rel>
+                <arg f="" n="1">uma vaga </arg>
+                <arg f="prd" n="m">em a Copa_Bandeirantes </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2246: O Houston_Rockets conquistou sua 27.ª vitória em a temporada de a NBA ( contra apenas quatro derrotas ) , em casa , sábado , a o vencer o Philadelphia 76 ers por 100 a 93 . </text>
+                <arg f="" n="0">O Houston_Rockets </arg>
+                <rel f="">conquistou</rel>
+                <arg f="" n="1">sua 27.ª vitória </arg>
+                <arg f="prd" n="m">em a temporada de a NBA ( contra apenas quatro derrotas ) </arg>
+                <arg f="loc" n="m">em casa </arg>
+                <arg f="tmp" n="m">sábado </arg>
+                <arg f="tmp" n="m">a o vencer o Philadelphia 76 ers por 100 a 93 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1929: Iti_Fuji conquista clientela a_ferro_e_fogo </text>
+                <arg f="" n="0">Iti_Fuji </arg>
+                <rel f="">conquista</rel>
+                <arg f="" n="1">clientela </arg>
+                <arg f="mnr" n="m">a_ferro_e_fogo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s939: A Nigéria conquistou ontem o título de a 19ª Copa_Africana_de_Nações , a o derrotar Zâmbia por 2 a 1 , em Túnis ( Tunísia ) . </text>
+                <arg f="" n="0">A Nigéria </arg>
+                <rel f="">conquistou</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">o título de a 19ª Copa_Africana_de_Nações </arg>
+                <arg f="tmp" n="m">a o derrotar Zâmbia por 2 a 1 , em Túnis ( Tunísia ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s510: Um exemplo é o técnico norte-americano , Taras_Liskevich , que não esconde seu objetivo : conquistar a medalha de ouro olímpica . </text>
+                <rel f="">conquistar</rel>
+                <arg f="" n="1">a medalha de ouro olímpica </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s388: Em o clima de sinistrose , as fragilidades de o PT não ficaram tão visíveis a a opinião_pública : a dificuldade de se fazerem alianças capazes de sustentar Lula quando virasse presidente ; os aloprados que conquistaram posições estratégicas em o partido ; a falta de generalizada convicção sobre o valor de a democracia . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">conquistaram</rel>
+                <arg f="" n="1">posições estratégicas </arg>
+                <arg f="loc" n="m">em o partido </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

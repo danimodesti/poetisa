@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="dilacerar">
+        <roleset framnet="lacerate.01" id="dilacerar.01"
+            name="estraçalhar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2439: Em a Rússia , serei dilacerado por os acontecimentos e por as tragédias de as pessoas » . </text>
+                <arg f="loc" n="m">Em a Rússia </arg>
+                <rel f="">dilacerado</rel>
+                <arg f="" n="0">por os acontecimentos e por as tragédias de as pessoas </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

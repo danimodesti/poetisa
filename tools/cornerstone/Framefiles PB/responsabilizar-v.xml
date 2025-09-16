@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="responsabilizar">
+        <roleset framnet="blame.01" id="responsabilizar.01"
+            name="culpar; atribuir responsabilidade" vncls="33">
+            <roles>
+                <role descr="blamer" n="0">
+                    <vnrole vncls="33" vntheta="Agent"/>
+                </role>
+                <role descr="entity blamed" n="1">
+                    <vnrole vncls="33" vntheta="Theme"/>
+                </role>
+                <role descr="blamed for what?" n="2">
+                    <vnrole vncls="33" vntheta="Predicate"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2719: A diretoria de o Banerj responsabilizou o Banco_Central por a perda de liquidez de o banco e informou que o Banerj tem dinheiro para receber de o BC : R$ 100 milhões pagos a mais desde 1992 , R$ 30 milhões de multa e mais R$ 600 milhões recolhidos como depósito compulsório , depois de o Plano_Real </text>
+                <arg f="" n="0">A diretoria de o Banerj </arg>
+                <rel f="">responsabilizou</rel>
+                <arg f="" n="1">o Banco_Central </arg>
+                <arg f="" n="2">por a perda de liquidez de o banco </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

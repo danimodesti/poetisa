@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="ajeitar-se">
+        <roleset framnet="settle.02" id="ajeitar.01"
+            name="alternância incoativa de &quot;ajeitar&quot;: ficar resolvido" vncls="-">
+            <roles>
+                <role descr="entity making resolution" n="0"/>
+                <role descr="thing being resolved" n="1"/>
+                <role descr="comitative, resolved with" n="2"/>
+                <role descr="attribute, resolved to or at" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s594: Por_que não ousar ainda_que ingenuamente esperar que as coisas desta_vez se ajeitem ? </text>
+                <arg f="" n="1">as coisas </arg>
+                <arg f="tmp" n="m">desta_vez </arg>
+                <rel f="">ajeitem</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

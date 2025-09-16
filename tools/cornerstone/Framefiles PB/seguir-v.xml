@@ -1,0 +1,169 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="seguir">
+        <roleset framnet="keep.02" id="seguir.04" name="continuar; manter-se; prosseguir" vncls="55.1">
+            <roles>
+                <role descr="causer of continued action" f="" n="0">
+                    <vnrole vncls="55.1" vntheta="agent"/>
+                </role>
+                <role descr="continuing action or state" f="" n="1">
+                    <vnrole vncls="55.1" vntheta="theme"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s1454: O Opala durou 23 anos , o Chevette , 20 , a Kombi segue firme desde 1957 .</text>
+                <arg f="" n="0">a Kombi</arg>
+                <rel f="">segue</rel>
+                <arg f="tmp" n="m">desde 1957</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="go.01" id="seguir.01" name="ir de um lugar a outro ou ir em determinada direção" vncls="47.7 51.1-2">
+            <roles>
+                <role descr="entity in motion/goer" f="" n="1">
+                    <vnrole vncls="47.7" vntheta="theme"/>
+                    <vnrole vncls="51.1-2" vntheta="theme"/>
+                </role>
+                <role descr="extent" f="" n="2"/>
+                <role descr="start point" f="" n="3"/>
+                <role descr="end point, end state of arg1" f="" n="4"/>
+                <role descr="medium" f="" n="m"/>
+                <role descr="direction (usually up or down)" f="" n="m"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s4157: A Rodovia Castelo_Branco , que segue para o oeste de o Estado , apresenta vários pontos com neblina .</text>
+                <arg f="" n="0">que</arg>
+                <rel f="">segue</rel>
+                <arg f="" n="1">para o oeste de o Estado</arg>
+                
+            <note>"to lead" pode ser adequado aqui, mas os sentidos de "lead" no PB não prevêem arg1 sujeito</note>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s1367: Ele permaneceu em o velório por aproximadamente uma hora e seguiu para descansar em o hotel Glória até o horário de o enterro .</text>
+                <arg f="" n="0">Ele</arg>
+                <rel f="">seguiu</rel>
+                <arg f="pnc" n="m">para descansar em o hotel Glória até o horário de o enterro</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="follow.02" id="seguir.02" name="acompanhar; ir de acordo com" vncls="51.6">
+            <roles>
+                <role descr="acceptor, pursuer" f="" n="0">
+                    <vnrole vncls="51.6" vntheta="agent"/>
+                </role>
+                <role descr="thing followed" f="" n="1">
+                    <vnrole vncls="51.6" vntheta="theme"/>
+                </role>
+                <role descr="benefactive" f="" n="2"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosC.s3049: Se a Bienal for até o dia 11 de dezembro , deverá ter um público total de em o máximo 250 mil pagantes , além_de quase 200 mil crianças , seguindo a projeção .</text>
+                <rel f="">seguindo</rel>
+                <arg f="" n="2">a projeção</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s2229: Pesquisas têm mostrado que o fenilcetonúrico deve seguir a dieta durante toda a vida .</text>
+                <arg f="" n="0">o fenilcetonúrico</arg>
+                <rel f="">seguir</rel>
+                <arg f="" n="1">a dieta</arg>
+                <arg f="tmp" n="m">durante toda a vida</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s2228: Crianças mais velhas que nunca seguiram a dieta podem ter retardo mental , desenvolvimento motor prejudicado e alterações significativas de o comportamento ( isolamento e agressividade ) .</text>
+                <arg f="" n="0">que</arg>
+                <arg f="tmp" n="m">nunca</arg>
+                <rel f="">seguiram</rel>
+                <arg f="" n="1">a dieta</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s2151: Segundo a consultora de cores Renata_Lourenção , o trabalho pode ser feito por qualquer pessoa seguindo as instruções de a lata , sem a necessidade de um pintor profissional .</text>
+                <rel f="">seguindo</rel>
+                <arg f="" n="1">as instruções de a lata , sem a necessidade de um pintor profissional</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s1588: Mesmo_assim , o governador eleito tem seguido a dieta hipocalórica de a clínica , onde a ingestão diária é de 350 calorias .</text>
+                <arg f="dis" n="m">Mesmo_assim</arg>
+                <arg f="" n="0">o governador eleito</arg>
+                <rel f="">seguido</rel>
+                <arg f="" n="1">a dieta hipocalórica de a clínica , onde a ingestão diária é de 350 calorias</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s40: O futebol precisa seguir o exemplo de a CPI de o orçamento e apresentar todos os podres .</text>
+                <rel f="">seguir</rel>
+                <arg f="" n="1">o exemplo de a CPI de o orçamento</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="follow.01" id="seguir.03" name="ocorrer após" vncls="47.8">
+            <roles>
+                <role descr="causal agent" f="" n="0"/>
+                <role descr="thing following, coming after" f="" n="1">
+                    <vnrole vncls="47.8" vntheta="theme1"/>
+                </role>
+                <role descr="thing followed, coming before" f="" n="2">
+                    <vnrole vncls="47.8" vntheta="theme2"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s2595: Em o processo que seguiu a a derrubada de a ditadura , o poder caiu em a rua .</text>
+                <arg f="" n="1">que</arg>
+                <rel f="">seguiu</rel>
+                <arg f="" n="2">a a derrubada de a ditadura</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+    <note/>
+</predicate>
+    
+<note/>
+</frameset>

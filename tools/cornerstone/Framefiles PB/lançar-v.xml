@@ -1,0 +1,224 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="lançar">
+        <roleset framnet="launch.01" id="lançar.01"
+            name="introduzir no mercado; estrear" vncls="55.5-1">
+            <roles>
+                <role descr="starter, agent" n="0">
+                    <vnrole vncls="55.5-1" vntheta="Agent"/>
+                </role>
+                <role descr="thing being launched" n="1">
+                    <vnrole vncls="55.5-1" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2895: O presidente argentino , Carlos_Menem , disse que lançará sua candidatura para a eleição de 2003 se for eleito em 1995 . </text>
+                <arg f="" n="0">O presidente argentino , Carlos_Menem , </arg>
+                <rel f="">lançará</rel>
+                <arg f="" n="1">sua candidatura para a eleição de 2003 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2894: Menem se lança candidato em 2003 </text>
+                <arg f="" n="0">Menem </arg>
+                <arg f="" n="1">se </arg>
+                <rel f="">lança</rel>
+                <arg f="" n="2">candidato </arg>
+                <arg f="tmp" n="m">em 2003 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2881: Além_de isso , deve lançar mais cinco novidades até o final de o ano , além_de aumentar sua distribuição . </text>
+                <arg f="dis" n="m">Além_de isso </arg>
+                <rel f="">lançar</rel>
+                <arg f="" n="1">mais cinco novidades </arg>
+                <arg f="tmp" n="m">até o final de o ano </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2832: O atentado teria sido planejado por o grupo radical islâmico Gama'a_al-Islamiya , que lançou campanha contra o governo egípcio em 1992 para a criação de um Estado Islâmico fundamentalista . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">lançou</rel>
+                <arg f="" n="1">campanha contra o governo egípcio em 1992 para a criação de um Estado Islâmico fundamentalista </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2406: O médico e pescador profissional Gilberto_Fernandes vai lançar em Manaus o livro « A_Pesca_no_Amazonas_-_Segredos,_Roteiros_e_Estórias » </text>
+                <arg f="" n="0">O médico e pescador profissional Gilberto_Fernandes </arg>
+                <rel f="">lançar</rel>
+                <arg f="loc" n="m">em Manaus </arg>
+                <arg f="" n="1">o livro « A_Pesca_no_Amazonas_-_Segredos,_Roteiros_e_Estórias </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2345: A disciplina de cirurgia plástica de a Faculdade_de_Medicina de a USP está lançando um programa de cirurgia plástica em crianças com a colaboração de o Banco_Real . </text>
+                <arg f="" n="0">A disciplina de cirurgia plástica de a Faculdade_de_Medicina de a USP </arg>
+                <rel f="">lançando</rel>
+                <arg f="" n="1">um programa de cirurgia plástica em crianças com a colaboração de o Banco_Real </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2282: « Deixamos claro a Havelange que a Uefa só consideraria a possibilidade de lançar um candidato se ele declinasse de sua candidatura . » </text>
+                <rel f="">lançar</rel>
+                <arg f="" n="1">um candidato </arg>
+                <arg f="adv" n="m">se ele declinasse de sua candidatura </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1954: A Reuters_Holdings , baseada em Londres , pretende lançar um serviço financeiro por TV em meados de o ano . </text>
+                <rel f="">lançar</rel>
+                <arg f="" n="1">um serviço financeiro por TV </arg>
+                <arg f="tmp" n="m">em meados de o ano </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1900: Então eu vou lançar o Prêmio_Simbólico ! </text>
+                <arg f="dis" n="m">Então </arg>
+                <arg f="" n="0">eu </arg>
+                <rel f="">lançar</rel>
+                <arg f="" n="1">o Prêmio_Simbólico </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1892: Péssima Notícia : o Brizola lançou sua biografia em vídeo . </text>
+                <arg f="" n="0">o Brizola </arg>
+                <rel f="">lançou</rel>
+                <arg f="" n="1">sua biografia em vídeo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1422: A American_Express estuda também lançar cartões de afinidade . </text>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">lançar</rel>
+                <arg f="" n="1">cartões de afinidade </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1401: « Strip-tease » , que a Companhia_das_Letras lança hoje em o Brasil , é o último romance de Hiaasen . </text>
+                <arg f="" n="1">que </arg>
+                <arg f="" n="0">a Companhia_das_Letras </arg>
+                <rel f="">lança</rel>
+                <arg f="tmp" n="m">hoje </arg>
+                <arg f="loc" n="m">em o Brasil </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1352: Será lançado em o próximo dia 9 , em o auditório de a Folha , a_partir_de as 19h30 , o livro « Tributação_no_Brasil_e_o_Imposto_Único » , organizado por o economista Marcos_Cintra . </text>
+                <rel f="">lançado</rel>
+                <arg f="tmp" n="m">em o próximo dia 9 </arg>
+                <arg f="loc" n="m">em o auditório de a Folha </arg>
+                <arg f="tmp" n="m">a_partir_de as 19h30 </arg>
+                <arg f="" n="1">o livro « Tributação_no_Brasil_e_o_Imposto_Único » , organizado por o economista Marcos_Cintra </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1351: Livro sobre Imposto_Único é lançado dia 9 </text>
+                <arg f="" n="1">Livro sobre Imposto_Único </arg>
+                <rel f="">lançado</rel>
+                <arg f="tmp" n="m">dia 9 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1258: A Cartilha_da_Segurança_Escolar foi lançada anteontem , em Porto_Alegre . </text>
+                <arg f="" n="1">A Cartilha_da_Segurança_Escolar </arg>
+                <rel f="">lançada</rel>
+                <arg f="tmp" n="m">anteontem </arg>
+                <arg f="loc" n="m">em Porto_Alegre </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s944: Não há hipótese de o Plano ser lançado antes de o Congresso votar , primeiro , a emenda constitucional que cria o Fundo_Social_de_Emergência e , em_seguida , o Orçamento federal para 1994 com deficit zero . </text>
+                <arg f="" n="1">o Plano </arg>
+                <rel f="">lançado</rel>
+                <arg f="tmp" n="m">antes de o Congresso votar , primeiro , a emenda constitucional que cria o Fundo_Social_de_Emergência e , em_seguida , o Orçamento federal para 1994 com deficit zero </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s683: A emissora pretende lançar o « remake » em janeiro de 95 , a as 18h , em o lugar de « Tropicaliente » . </text>
+                <rel f="">lançar</rel>
+                <arg f="" n="1">o « remake » </arg>
+                <arg f="tmp" n="m">em janeiro de 95 </arg>
+                <arg f="tmp" n="m">a as 18h </arg>
+                <arg f="loc" n="m">em o lugar de « Tropicaliente » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s225: Lançado dentro_de o projeto « Asia_Classics » , um subselo de o Luaka_Bop ( o mesmo que lançou Tom_Zé em o exterior ) , essa coletânea é mais um passo de Byrne em a sua busca de o sublime em a música . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">lançou</rel>
+                <arg f="" n="1">Tom_Zé </arg>
+                <arg f="loc" n="m">em o exterior </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s151: EUA Lançam Nave A a Lua Após 21 Anos , Carlos_EDUARDO_LINS_da_Silva ( De Washington ) </text>
+                <arg f="" n="0">EUA </arg>
+                <rel f="">Lançam</rel>
+                <arg f="" n="1">Nave </arg>
+                <arg f="loc" n="m">A a Lua </arg>
+                <arg f="tmp" n="m">Após 21 Anos </arg>
+                <arg f="dis" n="m">Carlos_EDUARDO_LINS_da_Silva ( De Washington ) </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="throw.07" id="lançar.02"
+            name="arremessar; estrear" vncls="-">
+            <roles>
+                <role descr="thrower" n="0"/>
+                <role descr="thing gotten rid of" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3451: O corpo de Camila foi lançado para_fora_de o carro . </text>
+                <arg f="" n="1">O corpo de Camila </arg>
+                <rel f="">lançado</rel>
+                <arg f="loc" n="m">para_fora_de o carro </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

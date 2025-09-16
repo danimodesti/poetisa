@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="forjar">
+        <roleset framnet="forge.02" id="forjar.01" name="elaborar" vncls="26.1">
+            <roles>
+                <role descr="builder" n="0">
+                    <vnrole vncls="26.1" vntheta="Agent"/>
+                </role>
+                <role descr="construction" n="1">
+                    <vnrole vncls="26.1" vntheta="Product"/>
+                </role>
+                <role descr="material, start state" n="2">
+                    <vnrole vncls="26.1" vntheta="Material"/>
+                </role>
+                <role descr="end state" n="4">
+                    <vnrole vncls="26.1" vntheta="Product"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3157: Em essa época , o cantor forjou alguns de seus maiores sucessos como , para ficar em um só exemplo , « It's_Now_or_Never » . </text>
+                <arg f="tmp" n="m">Em essa época </arg>
+                <arg f="" n="0">o cantor </arg>
+                <rel f="">forjou</rel>
+                <arg f="" n="1">alguns de seus maiores sucessos como , para ficar em um só exemplo , « It's_Now_or_Never » </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

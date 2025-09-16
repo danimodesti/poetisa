@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="desengavetar">
+        <roleset framnet="reactivate.01" id="desengavetar.01"
+            name="tirar da gaveta; reativar" vncls="-">
+            <roles>
+                <role descr="reactivator" n="0"/>
+                <role descr="thing now active" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2105: O aquecimento de as vendas em os últimos dois meses fez com que o empresário carioca Arthur_Sendas desengavetasse antigo projeto de construção de shopping_center , hipermercado e conjunto residencial em área de o grupo localizada em a Via_Dutra , em o final de a Linha_Vermelha . </text>
+                <arg f="" n="0">o empresário carioca Arthur_Sendas </arg>
+                <rel f="">desengavetasse</rel>
+                <arg f="" n="1">antigo projeto de construção de shopping_center , hipermercado e conjunto residencial em área de o grupo localizada em a Via_Dutra , em o final de a Linha_Vermelha </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="comunicar">
+        <roleset framnet="communicate.01" id="comunicar.01"
+            name="informar, trocar informação" vncls="36.1">
+            <roles>
+                <role descr="first (or all) communicator" n="0">
+                    <vnrole vncls="36.1" vntheta="Actor1"/>
+                </role>
+                <role descr="utterance" n="1">
+                    <vnrole vncls="36.1" vntheta="Topic"/>
+                </role>
+                <role descr="other communicator(s)" n="2">
+                    <vnrole vncls="36.1" vntheta="Actor2"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1868: Um dia Juscelino comunicou a Alkimin que estava namorando a moça Sara_Lemos , filha de o político Jayme_Lemos . </text>
+                <arg f="tmp" n="m">Um dia </arg>
+                <arg f="" n="0">Juscelino </arg>
+                <rel f="">comunicou</rel>
+                <arg f="" n="2">a Alkimin </arg>
+                <arg f="" n="1">que estava namorando a moça Sara_Lemos , filha de o político Jayme_Lemos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1785: Em algumas cidades , onde os pais têm poder de decisão em o sistema educacional , os projetos de novas escolas incorporam computadores , CD-ROM , modem e linhas telefônicas para permitir que os estudantes se comuniquem on_line . </text>
+                <arg f="" n="0">os estudantes </arg>
+                <arg f="" n="1">se </arg>
+                <rel f="">comuniquem</rel>
+                <arg f="mnr" n="m">on_line </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s964: João_Paulo_Bordon , vice- presidente de a Swift-Armour , alega não ter sido comunicado sobre a realização de a assembléia de a empresa para ratificar a concordata . </text>
+                <rel f="">comunicado</rel>
+                <arg f="" n="1">sobre a realização de a assembléia de a empresa para ratificar a concordata </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s220: Com medo de perder poderes , Modiano chamou Mourão e , em uma atitude mesquinha , comunicou- lhe que , como o financiamento de o projeto seria bancado por o BNDES , ele iria para lá , mas em a qualidade de representante de o banco . </text>
+                <arg f="" n="0">Modiano </arg>
+                <arg f="mnr" n="m">em uma atitude mesquinha </arg>
+                <rel f="">comunicou-</rel>
+                <arg f="" n="2">lhe </arg>
+                <arg f="" n="1">que , como o financiamento de o projeto seria bancado por o BNDES , ele iria para lá , mas em a qualidade de representante de o banco </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s43: A maioria de as empresas que produzem leite de as marcas interditadas não tinha sido comunicada ontem sobre a liberação de o produto . </text>
+                <arg f="" n="2">A maioria de as empresas que produzem leite de as marcas interditadas </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">comunicada</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">sobre a liberação de o produto </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

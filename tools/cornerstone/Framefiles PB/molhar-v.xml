@@ -1,0 +1,15 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    
+    <note>teste</note>
+    <predicate lemma="molhar">
+        <note/>
+        <roleset framnet="" id="molhar.01" name="" source="" vncls="">
+            <roles>
+                <role descr="" f="" n=""/>
+                <note/>
+            </roles>
+            <note/>
+        </roleset>
+    </predicate>
+</frameset>

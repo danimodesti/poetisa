@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="gravar">
+        <roleset framnet="record.01" id="gravar.01"
+            name="registrar dados em suporte que permita armazenamento" vncls="25.4">
+            <roles>
+                <role descr="recorder" n="0">
+                    <vnrole vncls="25.4" vntheta="Agent"/>
+                </role>
+                <role descr="record" n="1">
+                    <vnrole vncls="25.4" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1899: Aí a gente tirava a fita e gravava em_cima ! </text>
+                <rel f="">gravava</rel>
+                <arg f="loc" n="m">em_cima </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

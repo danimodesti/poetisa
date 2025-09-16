@@ -1,0 +1,60 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="fornecer">
+        <roleset framnet="provide.01" id="fornecer.01" name="dar" vncls="13.4.1">
+            <roles>
+                <role descr="provider" n="0">
+                    <vnrole vncls="13.4.1" vntheta="Agent"/>
+                </role>
+                <role descr="thing provided" n="1">
+                    <vnrole vncls="13.4.1" vntheta="Theme"/>
+                </role>
+                <role descr="entity provided for (benefactive)" n="2">
+                    <vnrole vncls="13.4.1" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3011: Em o início de cada corrida , por_exemplo , as principais dicas de o circuito são fornecidas por o piloto . </text>
+                <arg f="tmp" n="m">Em o início de cada corrida </arg>
+                <arg f="dis" n="m">por_exemplo </arg>
+                <arg f="" n="1">as principais dicas de o circuito </arg>
+                <rel f="">fornecidas</rel>
+                <arg f="" n="0">por o piloto </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2278: Sobre o controle antidoping , a Fifa estabelecerá uma « fax_hotline » , em operação 24 horas por dia , para que os médicos de as delegações consultem a organização de a Copa antes de fornecer qualquer medicamento a seus jogadores . </text>
+                <rel f="">fornecer</rel>
+                <arg f="" n="1">qualquer medicamento </arg>
+                <arg f="" n="2">a seus jogadores </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s378: Em o início de o mês , o presidente Carlos_Menem criou um fundo especial de US$ 1 milhão para recompensar quem fornecesse informações que ajudem em as investigações . </text>
+                <arg f="" n="0">quem </arg>
+                <rel f="">fornecesse</rel>
+                <arg f="" n="1">informações que ajudem em as investigações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s31: Essas medidas reduziram a disponibilidade de dinheiro em o sistema bancário e os grandes bancos passaram a não fornecer recursos para as pequenas instituições . </text>
+                <arg f="" n="0">os grandes bancos </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">fornecer</rel>
+                <arg f="" n="1">recursos para as pequenas instituições </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

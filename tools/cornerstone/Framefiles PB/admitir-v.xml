@@ -1,0 +1,140 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="admitir">
+        <roleset framnet="admit.01" id="admitir.01"
+            name="confessar, reconhecer a verdade" vncls="29.5">
+            <roles>
+                <role descr="admitter" n="0">
+                    <vnrole vncls="29.5" vntheta="Agent"/>
+                </role>
+                <role descr="truth" n="1">
+                    <vnrole vncls="29.5" vntheta="Predicate"/>
+                </role>
+                <role descr="Hearer" n="2">
+                    <vnrole vncls="29.5" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3749: Os documentos indicam que a primeira-dama de os EUA estava mais envolvida em o dia-a-dia de a administração de a firma do_que fora admitido até agora . </text>
+                <rel f="">admitido</rel>
+                <arg f="tmp" n="m">até agora </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2947: A ONU admitiu que os sérvios não haviam cumprido as exigências , mas recusou autorização para bombardeio . </text>
+                <arg f="" n="0">A ONU </arg>
+                <rel f="">admitiu</rel>
+                <arg f="" n="1">que os sérvios não haviam cumprido as exigências </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2823: Os deputados que negociam o plano de estabilização econômica de o governo criticaram o ministro Fernando_Henrique_Cardoso , que admitiu ontem a possibilidade de disputar a Presidência de a República . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">admitiu</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">a possibilidade de disputar a Presidência de a República </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2727: O IRA ( Exército_Republicano_Irlandês separatista ) admitiu o envolvimento de seus militantes em o assassinato de um funcionário de o correio durante um roubo em a cidade de Newry ( Irlanda_do_Norte ) . </text>
+                <arg f="" n="0">O IRA ( Exército_Republicano_Irlandês separatista ) </arg>
+                <rel f="">admitiu</rel>
+                <arg f="" n="1">o envolvimento de seus militantes em o assassinato de um funcionário de o correio durante um roubo em a cidade de Newry ( Irlanda_do_Norte ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s799: Essa proposta permitiria a o governo negociar em posição favorável o resgate de os títulos públicos , já_que o programa admite o « não-pagamento parcial de a dívida , assegurada a poupança » . </text>
+                <arg f="" n="0">o programa </arg>
+                <rel f="">admite</rel>
+                <arg f="" n="1">o « não-pagamento parcial de a dívida , assegurada a poupança » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s543: Em a sua defesa encaminhada ontem a o TSE , ela admitiu ter cometido um « erro de interpretação » em a produção de a reportagem em a_qual Franco afirma que o PT , caso ganhe as eleições presidenciais , pode dar « um calote em a dívida interna » . </text>
+                <arg f="loc" n="m">Em a sua defesa encaminhada ontem a o TSE </arg>
+                <arg f="" n="0">ela </arg>
+                <rel f="">admitiu</rel>
+                <arg f="" n="1">ter cometido um « erro de interpretação » em a produção de a reportagem em a_qual Franco afirma que o PT , caso ganhe as eleições presidenciais , pode dar « um calote em a dívida interna » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s535: O embargo é uma medida para que o TSE admita a constitucionalidade de a questão o_que permite que o assunto seja levado a o STF . </text>
+                <arg f="" n="0">o TSE </arg>
+                <rel f="">admita</rel>
+                <arg f="" n="1">a constitucionalidade de a questão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s212: Cutler admitiu que as conversas entre funcionários de a Casa_Branca e de o Tesouro sobre investigações sobre o banco de McDougal não eram « recomendáveis » , mas não constituíram crime . </text>
+                <arg f="" n="0">Cutler </arg>
+                <rel f="">admitiu</rel>
+                <arg f="" n="1">que as conversas entre funcionários de a Casa_Branca e de o Tesouro sobre investigações sobre o banco de McDougal não eram « recomendáveis » , mas não constituíram crime </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s205: O escritor , identificado com a cultura beatnik , admitia somente ter sido inspirado por um outro autor de a Califórnia , John_Fante ( « Pergunte_ao_Pó » , entre outros ) , que Bukowski descobriu em as suas leituras em bibliotecas públicas quando jovem . </text>
+                <arg f="" n="0">O escritor , identificado com a cultura beatnik , </arg>
+                <rel f="">admitia</rel>
+                <arg f="adv" n="m">somente </arg>
+                <arg f="" n="1">ter sido inspirado por um outro autor de a Califórnia , John_Fante ( « Pergunte_ao_Pó » , entre outros ) , que Bukowski descobriu em as suas leituras em bibliotecas públicas quando jovem </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="agree.01" id="admitir.02"
+            name="concordar em fazer " vncls="36.1">
+            <roles>
+                <role descr="agreer" n="0">
+                    <vnrole vncls="36.1" vntheta="Actor1"/>
+                </role>
+                <role descr="proposition" n="1">
+                    <vnrole vncls="36.1" vntheta="Theme"/>
+                </role>
+                <role descr="other entity agreeing" n="2">
+                    <vnrole vncls="36.1" vntheta="Actor2"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2597: Secretaria admite rever decreto sobre contratação de funcionários </text>
+                <arg f="" n="0">Secretaria </arg>
+                <rel f="">admite</rel>
+                <arg f="" n="1">rever decreto sobre contratação de funcionários </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1467: Apesar_de seu discurso duro contra eventuais aumentos de preços , Ciro admitiu , pela_primeira_vez , rever a estratégia de redução de as alíquotas de importação . </text>
+                <arg f="" n="0">Ciro </arg>
+                <rel f="">admitiu</rel>
+                <arg f="tmp" n="m">pela_primeira_vez </arg>
+                <arg f="" n="1">rever a estratégia de redução de as alíquotas de importação </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

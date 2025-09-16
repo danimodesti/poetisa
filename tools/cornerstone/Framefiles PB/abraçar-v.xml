@@ -1,0 +1,105 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+            
+    
+    <predicate lemma="abraçar">
+                        
+        
+        <roleset framnet="embrace.02" id="abraçar.01" name="envolver com os braços" source="" vncls="36.2">
+                                    
+            
+            <roles>
+                                                
+                
+                <role descr="hugger" f="" n="0">
+                                                            
+                    
+                    <vnrole vncls="36.2" vntheta="actor1"/>
+                                                        
+                
+                </role>
+                                                
+                
+                <role descr="person hugged" f="" n="1">
+                                                            
+                    
+                    <vnrole vncls="36.2" vntheta="actor2"/>
+                                                        
+                
+                </role>
+                                                
+            
+                
+            
+                <note/>
+            </roles>
+                                    
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                                
+                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                                
+                
+                <text>bosA.s3184: Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .</text>
+                                                
+                
+                <rel f="">abraçou</rel>
+                                                
+                
+                <arg f="tmp" n="m">duas vezes</arg>
+                                                
+                
+                <arg f="" n="1">o conterrâneo presidente</arg>
+                                                
+            
+                
+            
+                <note/>
+            </example>
+                                    
+            
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                                
+                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                                
+                
+                <text>bosA.s560: « Ele já está abraçando a candidatura Quércia » , disse Itamar_Borges ( PMDB ) , de Santa_Fé_do_Sul .</text>
+                                                
+                
+                <arg f="" n="0">Ele</arg>
+                                                
+                
+                <arg f="adv" n="m">já</arg>
+                                                
+                
+                <rel f="">abraçando</rel>
+                                                
+                
+                <arg f="" n="1">a candidatura Quércia</arg>
+                                                
+            
+                
+            
+                <note/>
+            </example>
+                                    
+        
+            
+        
+            <note/>
+        </roleset>
+                        
+    
+        
+    
+        <note/>
+    </predicate>
+            
+
+    
+
+    <note/>
+</frameset>

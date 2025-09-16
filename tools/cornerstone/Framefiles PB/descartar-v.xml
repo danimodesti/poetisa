@@ -1,0 +1,54 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="descartar">
+        <roleset framnet="discard.01" id="descartar.01"
+            name="desconsiderar; jogar fora" vncls="17.1">
+            <roles>
+                <role descr="discarder, remover" n="0">
+                    <vnrole vncls="17.1" vntheta="Agent"/>
+                </role>
+                <role descr="thing discarded" n="1">
+                    <vnrole vncls="17.1" vntheta="Theme"/>
+                </role>
+                <role descr="removed from, source" n="2">
+                    <vnrole vncls="17.1" vntheta="Source"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3337: Mais que isso : os papéis de a segurança afirmavam que , em_razão_de a inflação alta , não se deveria descartar sequer o risco de o público atirar objetos em o camarote presidencial . </text>
+                <arg f="cau" n="m">em_razão_de a inflação alta </arg>
+                <arg f="neg" n="m">não </arg>
+                <arg f="" n="0">se </arg>
+                <rel f="">descartar</rel>
+                <arg f="" n="1">sequer o risco de o público atirar objetos em o camarote presidencial </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1206: Embora ainda não possa ser definitivamente descartada , a hipótese de a candidatura de o ex- presidente José_Sarney encontra- se pelo_menos momentaneamente bastante afastada , abrindo espaço para que a campanha comece a deslanchar com base em o atual grid de largada . </text>
+                <arg f="neg" n="m">ainda não </arg>
+                <arg f="mnr" n="m">definitivamente </arg>
+                <rel f="">descartada</rel>
+                <arg f="" n="1">a hipótese de a candidatura de o ex- presidente José_Sarney </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s180: Passarinho já descarta claramente a candidatura a o Planalto . </text>
+                <arg f="" n="0">Passarinho </arg>
+                <arg f="adv" n="m">já </arg>
+                <rel f="">descarta</rel>
+                <arg f="adv" n="m">claramente </arg>
+                <arg f="" n="1">a candidatura a o Planalto </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

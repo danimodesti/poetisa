@@ -1,0 +1,100 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="dispor-se">
+        <roleset framnet="" id="dispor.02"
+            name="dispor-se a: oferecer-se para; mostrar disposição para" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2332: Para viabilizar a viagem de pelo_menos parte de os 20 integrantes de o coral advogados , bancários , secretárias , estudantes , aposentados e apenas um padre , a diretora diz que se uma empresa se dispuser a cobrir os custos de a viagem , o coral oferece em troca a gravação de um disco promocional . </text>
+                <arg f="" n="0">uma empresa </arg>
+                <rel f="">dispuser</rel>
+                <arg f="" n="1">a cobrir os custos de a viagem </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1274: Acrescenta que o cinquentenário instituto que , a_exemplo de a Nielsen , tem atuação internacional , se dispõe a oferecer eventuais relatórios diferenciados de o concorrente . </text>
+                <arg f="" n="0">o cinquentenário instituto que , a_exemplo de a Nielsen , tem atuação internacional , </arg>
+                <rel f="">dispõe</rel>
+                <arg f="" n="1">a oferecer eventuais relatórios diferenciados de o concorrente </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="dispor">
+        <roleset framnet="possess.01" id="dispor.01" name="ter, possuir" vncls="-">
+            <roles>
+                <role descr="possessor" n="0"/>
+                <role descr="possession" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3707: Nenhum município brasileiro , nem_mesmo São_Paulo , « dispõe de um sistema adequado de esgotos » . </text>
+                <arg f="" n="0">Nenhum município brasileiro , nem_mesmo São_Paulo , </arg>
+                <rel f="">dispõe</rel>
+                <arg f="" n="1">de um sistema adequado de esgotos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3705: « Sobral , embora seja uma de as principais cidades de o Ceará , ainda não dispõe de um sistema adequado de esgotos . </text>
+                <arg f="" n="0">Sobral </arg>
+                <arg f="prd" n="m">embora seja uma de as principais cidades de o Ceará </arg>
+                <arg f="neg" n="m">ainda não </arg>
+                <rel f="">dispõe</rel>
+                <arg f="" n="1">de um sistema adequado de esgotos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2693: O Brasil dispõe de um de os mais modernos sistemas bancários privados de o mundo . </text>
+                <arg f="" n="0">O Brasil </arg>
+                <rel f="">dispõe</rel>
+                <arg f="" n="1">de um de os mais modernos sistemas bancários privados de o mundo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s354: Como aceitar que , depois de uma passagem tão ruim por a Presidência , Sarney dispusesse de espaço privilegiado em o jornal ? </text>
+                <arg f="tmp" n="m">depois de uma passagem tão ruim por a Presidência </arg>
+                <arg f="" n="0">Sarney </arg>
+                <rel f="">dispusesse</rel>
+                <arg f="" n="1">de espaço privilegiado em o jornal </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="" id="dispor.03" name="fazer uso de" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s450: Tem que se pensar , para o Brasil , em uma empresa com modelo acionário flexível , que permita incorporar , em uma única marca , os esforços individuais de esses criadores e dispor de a sinergia necessária para investir em o mercado internacional . </text>
+                <rel f="">dispor</rel>
+                <arg f="" n="1">de a sinergia necessária para investir em o mercado internacional </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

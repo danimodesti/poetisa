@@ -1,0 +1,66 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+        
+    <predicate lemma="abrigar">
+                
+        <roleset framnet="house.01" id="abrigar.01" name="dar abrigo, hospedar, sediar" source="" vncls="9.10 54.3">
+                        
+            <roles>
+                                
+                <role descr="provider of housing" f="" n="0">
+                                        
+                    <vnrole vncls="9.10" vntheta="agent"/>
+                                        
+                    <vnrole vncls="54.3" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="entity housed" f="" n="1">
+                                        
+                    <vnrole vncls="9.10" vntheta="theme"/>
+                                        
+                    <vnrole vncls="54.3" vntheta="attribute"/>
+                                    
+                </role>
+                                
+                <role descr="location" f="" n="2">
+                                        
+                    <vnrole vncls="9.10" vntheta="location"/>
+                                        
+                    <vnrole vncls="54.3" vntheta="location"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2075: A_partir_de hoje a área de convivência de o Sesc_Pompéia abriga instalação inédita de o artista plástico Nuno_Ramos , « Montes » .</text>
+                                
+                <arg f="tmp" n="m">A_partir_de hoje</arg>
+                                
+                <arg f="" n="2">a área de convivência de o Sesc_Pompéia</arg>
+                                
+                <rel f="">abriga</rel>
+                                
+                <arg f="" n="1">instalação inédita de o artista plástico Nuno_Ramos , « Montes »</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+
+    <note/>
+</frameset>

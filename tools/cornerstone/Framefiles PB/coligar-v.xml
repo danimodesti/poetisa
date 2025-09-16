@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="coligar">
+        <roleset framnet="coalesce.01" id="coligar.01"
+            name="fazer coligação; associar " vncls="22.1-1-1">
+            <roles>
+                <role descr="agent, mixer" n="0">
+                    <vnrole vncls="22.1-1-1" vntheta="Agent"/>
+                </role>
+                <role descr="ingredient one" n="1">
+                    <vnrole vncls="22.1-1-1" vntheta="Patient1"/>
+                </role>
+                <role descr="ingredient two-1" n="2">
+                    <vnrole vncls="22.1-1-1" vntheta="Patient2"/>
+                </role>
+                <role descr="end product" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2874: Além_de o PSDB e de o PFL , coligou- se em_torno_de a candidatura Covas o pequeno PV . </text>
+                <arg f="adv" n="m">Além_de o PSDB e de o PFL </arg>
+                <rel f="">coligou-</rel>
+                <arg f="" n="1">se </arg>
+                <arg f="" n="2">em_torno_de a candidatura Covas </arg>
+                <arg f="" n="0">o pequeno PV </arg>
+                <note>reflexivo: coligar-se</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

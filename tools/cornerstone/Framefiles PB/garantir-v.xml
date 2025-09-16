@@ -1,0 +1,161 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="garantir">
+        <roleset framnet="assure.01" id="garantir.01"
+            name="afirmar com certeza (verbo de elocução)" vncls="37.9 37.13">
+            <roles>
+                <role descr="causer of assurance" n="0">
+                    <vnrole vncls="37.9" vntheta="Agent"/>
+                    <vnrole vncls="37.13" vntheta="Agent"/>
+                </role>
+                <role descr="assured one" n="1">
+                    <vnrole vncls="37.9" vntheta="Recipient"/>
+                    <vnrole vncls="37.13" vntheta="Recipient"/>
+                </role>
+                <role descr="assurance, utterance" n="2">
+                    <vnrole vncls="37.9" vntheta="Topic"/>
+                    <vnrole vncls="37.13" vntheta="Topic"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3846: O governo vai usar a URV para corrigir impostos , garantiu FHC . </text>
+                <arg f="" n="1">O governo vai usar a URV para corrigir impostos </arg>
+                <rel f="">garantiu</rel>
+                <arg f="" n="0">FHC </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3295: Não explica como , mas garante que não vai perder a próxima eleição em Itabaiana . </text>
+                <rel f="">garante</rel>
+                <arg f="" n="1">que não vai perder a próxima eleição em Itabaiana </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1675: « Em o último jogo , nós teremos um prazer , ou de sermos campeões ou de dar o título a o São_Paulo » , garantiu Moacir . </text>
+                <arg f="" n="1">« Em o último jogo , nós teremos um prazer , ou de sermos campeões ou de dar o título a o São_Paulo » </arg>
+                <rel f="">garantiu</rel>
+                <arg f="" n="0">Moacir </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1330: Ele garante que o aumento real em as mensalidades não vai superar os 22 % propostos por a Abramge . </text>
+                <arg f="" n="0">Ele </arg>
+                <rel f="">garante</rel>
+                <arg f="" n="1">que o aumento real em as mensalidades não vai superar os 22 % propostos por a Abramge </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="ensure.01" id="garantir.02"
+            name="tornar possível; dar certeza de" vncls="99">
+            <roles>
+                <role descr="entity making guarantee" n="0">
+                    <vnrole vncls="99" vntheta="Cause"/>
+                </role>
+                <role descr="guarantee" n="1">
+                    <vnrole vncls="99" vntheta="Theme"/>
+                </role>
+                <role descr="benefactive, guaranteed-to" n="2">
+                    <vnrole vncls="99" vntheta="Beneficiary"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3493: A tumorectomia « garante sobrevida comparável e melhor qualidade de vida do_que a mastectomia total » , escreveu a chefe de o novo estudo , Anna_Lee-Feldstein . </text>
+                <arg f="" n="0">A tumorectomia </arg>
+                <rel f="">garante</rel>
+                <arg f="" n="1">sobrevida comparável e melhor qualidade de vida do_que a mastectomia total </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3003: O governo promete a a sociedade que , de_agora_em_diante , vai mudar de vida , vai garantir o equilíbrio de as contas públicas e vai parar de abusar de o seu monopólio de criação de moeda . </text>
+                <arg f="" n="0">O governo </arg>
+                <arg f="tmp" n="m">de_agora_em_diante </arg>
+                <rel f="">garantir</rel>
+                <arg f="" n="1">o equilíbrio de as contas públicas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2981: Acordo em a Câmara_Setorial garante crédito de US$ 650 milhões para o Finame_Rural . </text>
+                <arg f="" n="0">Acordo em a Câmara_Setorial </arg>
+                <rel f="">garante</rel>
+                <arg f="" n="1">crédito de US$ 650 milhões para o Finame_Rural </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2308: Com o resultado , o time perdeu a chance de garantir antecipadamente a vaga em as quartas-de-final . </text>
+                <rel f="">garantir</rel>
+                <arg f="tmp" n="m">antecipadamente </arg>
+                <arg f="" n="1">a vaga em as quartas-de-final </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1674: Segundo o jogador , o Palmeiras só terá dificuldades para garantir o título em a partida contra o Corinthians pois deve enfrentar antes adversários teoricamente fáceis ( Mogi_Mirim , Ituano e Santo_André ) . </text>
+                <rel f="">garantir</rel>
+                <arg f="" n="1">o título </arg>
+                <arg f="loc" n="m">em a partida contra o Corinthians </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1267: Manoel_Carlos_Marques_Beato , de o restaurante Fasano e José_Sebastião_Figueiredo , sommelier e proprietário de o La_Bicocca , garantiram suas vagas em o Concurso_Brasileiro_de_Sommeliers . </text>
+                <arg f="" n="0">Manoel_Carlos_Marques_Beato , de o restaurante Fasano e José_Sebastião_Figueiredo , sommelier e proprietário de o La_Bicocca , </arg>
+                <rel f="">garantiram</rel>
+                <arg f="" n="1">suas vagas </arg>
+                <arg f="loc" n="m">em o Concurso_Brasileiro_de_Sommeliers </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1189: « Não garantiram casa , carro , assistência médica e passe livre depois de quatro anos » , disse o diretor Kalef_João_Francisco , que falou ontem com Muller . </text>
+                <arg f="neg" n="m">Não </arg>
+                <rel f="">garantiram</rel>
+                <arg f="" n="1">casa , carro , assistência médica e passe livre </arg>
+                <arg f="prd" n="m">depois de quatro anos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1120: Pela_primeira_vez em este século , vastos setores de as classes médias ocidentais não conseguirão efetivar a proeza social -- cimento de a democracia e de o capitalismo -- realizada por as gerações precedentes : garantir a seus filhos um nível de vida igual ou superior a o que seus pais haviam desfrutado . </text>
+                <rel f="">garantir</rel>
+                <arg f="" n="2">a seus filhos </arg>
+                <arg f="" n="1">um nível de vida igual ou superior a o que seus pais haviam desfrutado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s261: « A Justiça foi aplicada porque o Estatuto_da_Criança_e_do_Adolescente garante o direito de escolas a todas as crianças » , disse Márcia_Mendes , presidente de a Associaçãos_dos_Pais_de_Alunos de o Pitágoras , um de os seis colégios acusados de recusar as matrículas . </text>
+                <arg f="" n="0">o Estatuto_da_Criança_e_do_Adolescente </arg>
+                <rel f="">garante</rel>
+                <arg f="" n="1">o direito de escolas </arg>
+                <arg f="" n="2">a todas as crianças </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

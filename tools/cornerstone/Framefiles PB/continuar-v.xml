@@ -1,0 +1,180 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="continuar">
+        <roleset framnet="continue.02" id="continuar.04"
+            name="prosseguir (verbo de elocução)" vncls="-">
+            <roles>
+                <role descr="sayer" n="0"/>
+                <role descr="utterance" n="1"/>
+                <role descr="hearer" n="2"/>
+                <role descr="attributive" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2490: « De aí os nomes de insetos para nós » , continua Ann_Marie . </text>
+                <arg f="" n="1">De aí os nomes de insetos para nós </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="0">Ann_Marie </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="remain.01" id="continuar.01"
+            name="permanecer em um estado ou em um lugar" vncls="47.1-1">
+            <roles>
+                <role descr="Thing remaining" n="1">
+                    <vnrole vncls="47.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="benefactive, entity who gets the remainder" n="2"/>
+                <role descr="attribute of arg1" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3751: A japonesa NEC continua em a liderança . </text>
+                <arg f="" n="1">A japonesa NEC </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="3">em a liderança </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3607: Apesar_de a declaração de os separatistas , o governo britânico continua disposto a iniciar as negociações com o Sinn_Fein , braço político de o IRA , antes de o Natal . </text>
+                <arg f="" n="1">o governo britânico </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="3">disposto a iniciar as negociações com o Sinn_Fein , braço político de o IRA , antes de o Natal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2812: O país convive com o novo indexador há um mês , o ministro virou candidato e os preços chamados de « abusivos » continuam em_vigor . </text>
+                <arg f="" n="1">os preços chamados de « abusivos » </arg>
+                <rel f="">continuam</rel>
+                <arg f="" n="3">em_vigor </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2327: Aberto desde 1948 em o Beverly_Boulevard quando os clientes eram Errol_Flynn , Frank_Sinatra e Billy_Wilder , o restaurante Dominick's continua em a moita . </text>
+                <arg f="prd" n="m">Aberto desde 1948 em o Beverly_Boulevard quando os clientes eram Errol_Flynn , Frank_Sinatra e Billy_Wilder </arg>
+                <arg f="" n="1">o restaurante Dominick's </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="3">em a moita </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1694: Apesar_de ninguém lá ser mais amigo de o rei , a turma continua em a ativa . </text>
+                <arg f="dis" n="m">Apesar_de ninguém lá ser mais amigo de o rei </arg>
+                <arg f="" n="1">a turma </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="3">em a ativa </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1598: O talento de Barros continua lá , apesar_de Marilia_Pêra se empenhar em tomar conta de o filme com um histrionismo fora_de lugar . </text>
+                <arg f="" n="1">O talento de Barros </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="3">lá </arg>
+                <arg f="dis" n="m">apesar_de Marilia_Pêra se empenhar em tomar conta de o filme com um histrionismo fora_de lugar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1575: Mesmo_assim os bancos continuam entre os setores de a economia que recolhem menos tributos . </text>
+                <arg f="dis" n="m">Mesmo_assim </arg>
+                <arg f="" n="1">os bancos </arg>
+                <rel f="">continuam</rel>
+                <arg f="" n="3">entre os setores de a economia que recolhem menos tributos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1167: A as 11h30 de ontem , em o escritório de a Fittipaldi_Promoções , empresa de a família , Christian afirmou que , enquanto estiver motivado e achar boas as condições de segurança , continuará em a Fórmula_1 . </text>
+                <arg f="tmp" n="m">A as 11h30 de ontem </arg>
+                <arg f="loc" n="m">em o escritório de a Fittipaldi_Promoções , empresa de a família , </arg>
+                <arg f="" n="1">Christian </arg>
+                <arg f="tmp" n="m">enquanto estiver motivado e achar boas as condições de segurança </arg>
+                <rel f="">continuará</rel>
+                <arg f="" n="3">em a Fórmula_1 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s559: A declaração de Fleury de que continua candidato não convenceu alguns prefeitos que o acompanhavam . </text>
+                <arg f="" n="1">Fleury </arg>
+                <rel f="">continua</rel>
+                <arg f="" n="3">candidato </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s209: Em a sua opinião , o Estado não pode continuar em setores onde a iniciativa privada já comprovou sua eficiência . </text>
+                <arg f="dis" n="m">Em a sua opinião </arg>
+                <arg f="" n="1">o Estado </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">continuar</rel>
+                <arg f="" n="3">em setores onde a iniciativa privada já comprovou sua eficiência </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="continue.01" id="continuar.02"
+            name="ter continuidade durante determinado período de tempo" vncls="55.3 55.6">
+            <roles>
+                <role descr="causer of continuation" n="0">
+                    <vnrole vncls="55.3" vntheta="Agent"/>
+                    <vnrole vncls="55.6" vntheta="Agent"/>
+                </role>
+                <role descr="thing continuing" n="1">
+                    <vnrole vncls="55.3" vntheta="Theme"/>
+                    <vnrole vncls="55.6" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2958: As negociações para a volta de Mansell a a F-1 tiveram início logo após as 500 Milhas de Indianápolis , realizada em o mês passado , e continuaram durante as 200 Milhas de Milwaukee , disputada em o último dia 5 , quando recebeu a visita de alguns engenheiros de a Williams . </text>
+                <arg f="" n="1">As negociações para a volta de Mansell a a F-1 </arg>
+                <rel f="">continuaram</rel>
+                <arg f="tmp" n="m">durante as 200 Milhas de Milwaukee , disputada em o último dia 5 , quando recebeu a visita de alguns engenheiros de a Williams </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="">
+        <roleset framnet="" id="continuar.03" name="" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3503: Para o futuro , o plano é continuar em o Cruzeiro : </text>
+                <rel f="">continuar</rel>
+                <arg f="" n="3">em o Cruzeiro </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

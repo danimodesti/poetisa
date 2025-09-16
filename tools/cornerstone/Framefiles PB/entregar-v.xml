@@ -1,0 +1,120 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="entregar-se">
+        <roleset framnet="surrender.01" id="entregar.02"
+            name="doar-se; envolver-se; render-se" vncls="13.2">
+            <roles>
+                <role descr="one surrendering" n="0">
+                    <vnrole vncls="13.2" vntheta="Agent"/>
+                </role>
+                <role descr="fight" n="1">
+                    <vnrole vncls="13.2" vntheta="Theme"/>
+                </role>
+                <role descr="victor" n="2">
+                    <vnrole vncls="13.2" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1112: « Procure saber se você se entrega , ou se você foge de suas emoções . </text>
+                <arg f="" n="0">você </arg>
+                <rel f="">entrega</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s907: Entregar- se , com a garantia de redução de a pena , seria um bom negócio » , disse Maciel . </text>
+                <rel f="">Entregar-</rel>
+                <arg f="mnr" n="m">com a garantia de redução de a pena </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="entregar">
+        <roleset framnet="deliver.01" id="entregar.01" name="dar" vncls="11.1">
+            <roles>
+                <role descr="sender" n="0">
+                    <vnrole vncls="11.1" vntheta="Agent"/>
+                </role>
+                <role descr="sent" n="1">
+                    <vnrole vncls="11.1" vntheta="Theme"/>
+                </role>
+                <role descr="sent-to" n="2">
+                    <vnrole vncls="11.1" vntheta="Destination"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3779: Os dois foram presos quando o taxista José_Fioravanti , 61 , foi entregar US$ 1.000 a Romanioli como ágio de a compra de um Santana_Quantum . </text>
+                <arg f="" n="0">o taxista José_Fioravanti , 61 , </arg>
+                <rel f="">entregar</rel>
+                <arg f="" n="1">US$ 1.000 </arg>
+                <arg f="" n="2">a Romanioli </arg>
+                <arg f="cau" n="m">como ágio de a compra de um Santana_Quantum </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2314: O sushiman Oscar_Tadaioshi_Izumi baixa com hashi e raiz forte hoje em os domínios de Wilma_Kovesi para entregar os segredos de a cozinha japonesa . </text>
+                <rel f="">entregar</rel>
+                <arg f="" n="1">os segredos de a cozinha japonesa </arg>
+                <note>uso figurado: revelar</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s914: Os animais foram entregues a a custódia de o zoológico de o Bronx . </text>
+                <arg f="" n="1">Os animais </arg>
+                <rel f="">entregues</rel>
+                <arg f="" n="2">a a custódia de o zoológico de o Bronx </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s364: Em a segunda seguinte , o dia 4 a o dia 8 , os bancos ficarão abertos até uma hora após o expediente normal , apenas dez delegacias regionais de o Banco_Central e em agências de o Banco_do_Brasil encarregadas de entregar o real a os demais bancos . </text>
+                <rel f="">entregar</rel>
+                <arg f="" n="1">o real </arg>
+                <arg f="" n="2">a os demais bancos </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="submit.01" id="entregar.03"
+            name="submeter à autoridade competente" vncls="13.2">
+            <roles>
+                <role descr="giver" n="0">
+                    <vnrole vncls="13.2" vntheta="Agent"/>
+                </role>
+                <role descr="given" n="1">
+                    <vnrole vncls="13.2" vntheta="Theme"/>
+                </role>
+                <role descr="given-to" n="2">
+                    <vnrole vncls="13.2" vntheta="Recipient"/>
+                </role>
+                <role descr="purpose" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s368: Apenas 5 milhões de contribuintes haviam entregue sua declaração de Imposto_de_Renda até ontem pela_manhã . </text>
+                <arg f="" n="0">Apenas 5 milhões de contribuintes </arg>
+                <rel f="">entregue</rel>
+                <arg f="" n="1">sua declaração de Imposto_de_Renda </arg>
+                <arg f="tmp" n="m">até ontem </arg>
+                <arg f="tmp" n="m">pela_manhã </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

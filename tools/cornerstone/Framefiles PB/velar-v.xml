@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="velar">
+        <roleset framnet="watch.03" id="velar.01" name="zelar; proteger" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3326: Considerando ser competência comum de a União e de os Estados velar por a guarda de a Constituição , de as Leis e de as instituições democráticas ; </text>
+                <rel f="">velar</rel>
+                <arg f="" n="1">por a guarda de a Constituição , de as Leis e de as instituições democráticas </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

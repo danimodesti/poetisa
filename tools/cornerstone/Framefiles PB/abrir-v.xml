@@ -1,0 +1,294 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="abrir_mão">
+        <roleset framnet="give.07" id="abrir.02"
+            name="desistir, abdicar " vncls="">
+            <roles>
+                <role descr="abandoner" n="0"/>
+                <role descr="project" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s270: Os empresários abriram mão de posições históricas , eventualmente visando sua proteção , para construir e defender idéias exclusivamente de interesse coletivo para o desenvolvimento global . </text>
+                <arg f="" n="0">Os empresários </arg>
+                <rel f="">abriram</rel>
+                <arg f="" n="1">de posições históricas </arg>
+                <arg f="pnc" n="m">eventualmente visando sua proteção </arg>
+                <arg f="pnc" n="m">para construir e defender idéias exclusivamente de interesse coletivo para o desenvolvimento global </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="abrir">
+        <roleset framnet="open.01" id="abrir.01"
+            name="abrir, iniciar, inaugurar" vncls="40.3.2 45.4 47.6">
+            <roles>
+                <role descr="opener" n="0">
+                    <vnrole vncls="47.6" vntheta="Agent"/>
+                    <vnrole vncls="40.3.2" vntheta="Agent"/>
+                    <vnrole vncls="45.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing opening" n="1">
+                    <vnrole vncls="47.6" vntheta="Theme"/>
+                    <vnrole vncls="40.3.2" vntheta="Patient"/>
+                    <vnrole vncls="45.4" vntheta="Patient"/>
+                </role>
+                <role descr="instrument" n="2">
+                    <vnrole vncls="45.4" vntheta="Instrument"/>
+                </role>
+                <role descr="benefactive" n="3">
+                    <vnrole vncls="40.3.2" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4106: Apesar_de haver anunciado que o treino de a Bulgária seria aberto a o público , os dirigentes mudaram de idéia pouco antes de o início de o treinamento e proibiram a presença de torcedores em o campo de a Southern_Methodist_University , em Dallas . </text>
+                <arg f="" n="1">o treino de a Bulgária </arg>
+                <rel f="">aberto</rel>
+                <arg f="" n="3">a o público </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4038: Os irmãos Osny_Silveira_Neto e Guilherme_Silveira abrem hoje o bar Horácio em o Itaim . </text>
+                <arg f="" n="0">Os irmãos Osny_Silveira_Neto e Guilherme_Silveira </arg>
+                <rel f="">abrem</rel>
+                <arg f="tmp" n="m">hoje </arg>
+                <arg f="" n="1">o bar Horácio </arg>
+                <arg f="loc" n="m">em o Itaim </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3477: Abre a perspectiva de aplicações por prazo mais longos . </text>
+                <rel f="">Abre</rel>
+                <arg f="" n="1">a perspectiva de aplicações por prazo mais longos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3427: Assim , se abre espaço em a arquibancada para fumar maconha . » </text>
+                <arg f="dis" n="m">Assim </arg>
+                <arg f="" n="0">se </arg>
+                <rel f="">abre</rel>
+                <arg f="loc" n="m">em a arquibancada </arg>
+                <arg f="" n="1">espaço para fumar maconha </arg>
+                <note>com SE apassivador: anotar o SE como arg0 para marcar a supressão do agente</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2950: Já em as primeiras palavras a Medida_Provisória que institui a Unidade_Real_de_Valor incorre em erro e abre brecha para contestações em a Justiça . </text>
+                <arg f="" n="0">a Medida_Provisória que institui a Unidade_Real_de_Valor </arg>
+                <rel f="">abre</rel>
+                <arg f="" n="1">brecha para contestações em a Justiça </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2785: Donna_Karan abre a temporada 94 em NY </text>
+                <arg f="" n="0">Donna_Karan </arg>
+                <rel f="">abre</rel>
+                <arg f="" n="1">a temporada 94 </arg>
+                <arg f="loc" n="m">em NY </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2623: O delegado informa que foi aberta sindicância interna em o ministério para tentar apurar o caso e que a Polícia_Federal deverá também abrir um inquérito . </text>
+                <arg f="" n="0">a Polícia_Federal </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">abrir</rel>
+                <arg f="" n="1">um inquérito </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2612: Os arquivos de as pastas também podem ser abertos a_partir_de o menu , facilitando o uso de arquivos e aplicações . </text>
+                <arg f="" n="1">Os arquivos de as pastas </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">abertos</rel>
+                <arg f="loc" n="m">a_partir_de o menu </arg>
+                <arg f="adv" n="m">facilitando o uso de arquivos e aplicações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosF.s2364: Já assessores de o federalista Delors , que em dez anos em a presidência de a CE aumentou os poderes de o cargo e entrou em conflito com Margaret_Thatcher ( antecessora de Major ) , temem que a escolha de Santer sirva para enfraquecer os poderes de o presidente , o_que abriria caminho para o eixo Alemanha-França consolidar o seu domínio . </text>
+                <arg f="" n="0">o_que </arg>
+                <rel f="">abriria</rel>
+                <arg f="" n="1">caminho para o eixo Alemanha-França consolidar o seu domínio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2338: 10h45 -- a visitação pública é aberta ; ao_mesmo_tempo , algumas ambulâncias entram em o pátio de a assembléia para socorrer eventuais emergências ; </text>
+                <arg f="tmp" n="m">10h45 </arg>
+                <arg f="" n="1">a visitação pública </arg>
+                <rel f="">aberta</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2039: Geralmente procurados por estudantes adolescentes , esses serviços são abertos a qualquer interessado e têm a vantagem de ser gratuitos ou cobrar preços baixos se comparados a os de empresas de consultoria . </text>
+                <arg f="" n="1">esses serviços </arg>
+                <rel f="">abertos</rel>
+                <arg f="" n="3">a qualquer interessado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1692: E abre só para almoço e drinks a o cair de a tarde . </text>
+                <rel f="">abre</rel>
+                <arg f="adv" n="m">só </arg>
+                <arg f="pnc" n="m">para almoço e drinks a o cair de a tarde </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1346: A Cosmética'94 acontece em o Parque_Anhembi ( zona norte de SP ) e é aberta a o público . </text>
+                <arg f="" n="1">A Cosmética'94 </arg>
+                <rel f="">aberta</rel>
+                <arg f="" n="3">a o público </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1206: Embora ainda não possa ser definitivamente descartada , a hipótese de a candidatura de o ex- presidente José_Sarney encontra- se pelo_menos momentaneamente bastante afastada , abrindo espaço para que a campanha comece a deslanchar com base em o atual grid de largada . </text>
+                <rel f="">abrindo</rel>
+                <arg f="" n="1">espaço </arg>
+                <arg f="pnc" n="m">para que a campanha comece a deslanchar com base em o atual grid de largada </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s972: Em a ocasião , Fidel_Castro permitiu a saída de milhares de pessoas insatisfeitas com seu regime e abriu um novo espaço para se manter em o poder . </text>
+                <arg f="tmp" n="m">Em a ocasião </arg>
+                <arg f="" n="0">Fidel_Castro </arg>
+                <rel f="">abriu</rel>
+                <arg f="" n="1">um novo espaço para se manter em o poder </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s940: O zagueiro Elijah_Litana abriu o placar para Zâmbia a os 3 min de jogo . </text>
+                <arg f="" n="0">O zagueiro Elijah_Litana </arg>
+                <rel f="">abriu</rel>
+                <arg f="" n="1">o placar </arg>
+                <arg f="" n="3">para Zâmbia </arg>
+                <arg f="tmp" n="m">a os 3 min de jogo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s888: M2.000 abre amanhã a temporada 94 de shows </text>
+                <arg f="" n="0">M2.000 </arg>
+                <rel f="">abre</rel>
+                <arg f="tmp" n="m">amanhã </arg>
+                <arg f="" n="1">a temporada 94 de shows </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s778: A TVs_Bandeirantes e TVA/ESPN abrem espaço para o futebol americano hoje . </text>
+                <arg f="" n="0">A TVs_Bandeirantes e TVA/ESPN </arg>
+                <rel f="">abrem</rel>
+                <arg f="" n="1">espaço para o futebol americano </arg>
+                <arg f="tmp" n="m">hoje </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s764: Um programa capaz de combater a inflação , o desemprego e que abra uma corrente de investimentos para o país » , disse Maluf . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">abra</rel>
+                <arg f="" n="1">uma corrente de investimentos para o país </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s662: Ele fechou um tempo de divergências para abrir uma era de convergências . </text>
+                <rel f="">abrir</rel>
+                <arg f="" n="1">uma era de convergências </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s521: Souza , ponta-esquerda de o time de Americana , abriu o marcador a os 25 min . </text>
+                <arg f="" n="0">Souza , ponta-esquerda de o time de Americana , </arg>
+                <rel f="">abriu</rel>
+                <arg f="" n="1">o marcador </arg>
+                <arg f="tmp" n="m">a os 25 min </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s484: A o justificar sua necessidade , o presidente de a República abriu uma fresta para a realidade em a propaganda sobre as virtudes de a URV . </text>
+                <arg f="tmp" n="m">A o justificar sua necessidade </arg>
+                <arg f="" n="0">o presidente de a República </arg>
+                <rel f="">abriu</rel>
+                <arg f="" n="1">uma fresta para a realidade em a propaganda sobre as virtudes de a URV </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="open.01" id="abrir.03"
+            name="alternância incoativa de &quot;abrir&quot;: ser aberto, tornar-se aberto" vncls="40.3.2 45.4 47.6">
+            <roles>
+                <role descr="opener" n="0">
+                    <vnrole vncls="47.6" vntheta="Agent"/>
+                    <vnrole vncls="40.3.2" vntheta="Agent"/>
+                    <vnrole vncls="45.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing opening" n="1">
+                    <vnrole vncls="47.6" vntheta="Theme"/>
+                    <vnrole vncls="40.3.2" vntheta="Patient"/>
+                    <vnrole vncls="45.4" vntheta="Patient"/>
+                </role>
+                <role descr="instrument" n="2">
+                    <vnrole vncls="45.4" vntheta="Instrument"/>
+                </role>
+                <role descr="benefactive" n="3">
+                    <vnrole vncls="40.3.2" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1721: Refúgios de pesca se abrem para o turismo </text>
+                <arg f="" n="1">Refúgios de pesca </arg>
+                <rel f="">abrem</rel>
+                <arg f="" n="3">para o turismo </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

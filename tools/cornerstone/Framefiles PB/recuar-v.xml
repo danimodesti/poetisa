@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="recuar">
+        <roleset framnet="retreat.01" id="recuar.01"
+            name="retroceder; andar para trás" vncls="">
+            <roles>
+                <role descr="causal agent" n="A"/>
+                <role descr="retreater" n="0"/>
+                <role descr="scary thing" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3576: A_partir_de agora , a taxa deve sempre recuar . </text>
+                <arg f="tmp" n="m">A_partir_de agora </arg>
+                <arg f="" n="1">a taxa </arg>
+                <arg f="adv" n="m">sempre </arg>
+                <rel f="">recuar</rel>
+                <note>"decrease.01" seria adequado no que diz respeito a "taxas"</note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3484: « Um ataque agora não faz mais sentido , desde_que os sérvios continuem a recuar » , disse a a Folha o coronel Andrew_Duncan , de o IIEE . </text>
+                <arg f="" n="0">os sérvios </arg>
+                <rel f="">recuar</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1517: Outra pesquisa de o Datafolha mostra que estes alimentos recuaram 0,47 % em a última semana de novembro . </text>
+                <arg f="" n="1">estes alimentos </arg>
+                <rel f="">recuaram</rel>
+                <arg f="" n="2">0,47 % </arg>
+                <arg f="tmp" n="m">em a última semana de novembro </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

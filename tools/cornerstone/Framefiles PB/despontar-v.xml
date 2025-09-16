@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="despontar">
+        <roleset framnet="emerge.02" id="despontar.01"
+            name="sobressair-se; destacar-se" vncls="-">
+            <roles>
+                <role descr="thing emerging" n="0"/>
+                <role descr="as what" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2713: Já em o capítulo de os goles decididamente rubros , desponta o João_Pato ( 75 % Baga , 25 % Cabernet_Sauvignon ) . </text>
+                <arg f="loc" n="m">Já em o capítulo de os goles decididamente rubros </arg>
+                <rel f="">desponta</rel>
+                <arg f="" n="1">o João_Pato ( 75 % Baga , 25 % Cabernet_Sauvignon ) </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

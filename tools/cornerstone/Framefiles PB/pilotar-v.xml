@@ -1,0 +1,29 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="pilotar">
+        <roleset framnet="pilot.01" id="pilotar.01"
+            name="dirigir meio de transporte" vncls="29.8">
+            <roles>
+                <role descr="pilot; tester" n="0">
+                    <vnrole vncls="29.8" vntheta="Agent"/>
+                </role>
+                <role descr="plane; program" n="1">
+                    <vnrole vncls="29.8" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3682: Fábio_Igel , João_Herreras e Marcelo_Loureiro pilotam festa em o Cabral . </text>
+                <arg f="" n="0">Fábio_Igel , João_Herreras e Marcelo_Loureiro </arg>
+                <rel f="">pilotam</rel>
+                <arg f="" n="1">festa </arg>
+                <arg f="loc" n="m">em o Cabral </arg>
+                <note>uso figurativo</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

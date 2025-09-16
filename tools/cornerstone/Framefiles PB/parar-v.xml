@@ -1,0 +1,115 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="parar">
+        <roleset framnet="stop.01" id="parar.01"
+            name="interromper; não continuar" vncls="55.1">
+            <roles>
+                <role descr="Agent" n="0">
+                    <vnrole vncls="55.1" vntheta="Agent"/>
+                </role>
+                <role descr="Theme (action or object being stopped)" n="1">
+                    <vnrole vncls="55.1" vntheta="Theme"/>
+                </role>
+                <role descr="Instrument" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3561: « Como eles aumentaram 6,28 % em as duas semanas , acertamos que eles iriam parar os aumentos . </text>
+                <arg f="" n="0">eles </arg>
+                <rel f="">parar</rel>
+                <arg f="" n="1">os aumentos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3374: O trânsito em as avenidas Paulista e Brigadeiro_Luís_Antônio ( zona central de São_Paulo ) parou em o dia 9 de setembro de 86 . </text>
+                <arg f="" n="1">O trânsito em as avenidas Paulista e Brigadeiro_Luís_Antônio ( zona central de São_Paulo ) </arg>
+                <rel f="">parou</rel>
+                <arg f="tmp" n="m">em o dia 9 de setembro de 86 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3311: O veto impediu a declaração que pedia a os sérvios de a Bósnia que parassem ataques em o encrave muçulmano de Bihac . </text>
+                <arg f="" n="0">os sérvios de a Bósnia </arg>
+                <rel f="">parassem</rel>
+                <arg f="" n="1">ataques </arg>
+                <arg f="loc" n="m">em o encrave muçulmano de Bihac </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3160: E é justamente por isso que não se deve parar , preparando terreno a o futuro presidente . </text>
+                <arg f="cau" n="m">justamente por isso </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">parar</rel>
+                <arg f="adv" n="m">preparando terreno a o futuro presidente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1631: « Nós temos que parar por um momento e perguntar a nós mesmos : De quanto ar limpo precisamos ? » </text>
+                <arg f="" n="0">Nós </arg>
+                <rel f="">parar</rel>
+                <arg f="tmp" n="m">por um momento </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s525: Parar esse ataque em o bloqueio é uma missão quase impossível . </text>
+                <rel f="">Parar</rel>
+                <arg f="" n="1">esse ataque em o bloqueio </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="ir_parar_em">
+        <roleset framnet="end.03" id="parar.02"
+            name="acabar em (um lugar)" vncls="-">
+            <roles>
+                <role descr="entity changing" n="1"/>
+                <role descr="new state" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1533: O piloto holandês , em sua primeira volta , perdeu o controle de o Benetton e foi parar em a brita . </text>
+                <arg f="" n="1">O piloto holandês </arg>
+                <rel f="">parar</rel>
+                <arg f="loc" n="m">em a brita </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s955: Calliari explicou que a posição de as embalagens permitiu a queda de dois sacos , que depois foram parar em a lata de o lixo . </text>
+                <arg f="" n="1">que </arg>
+                <arg f="tmp" n="m">depois </arg>
+                <rel f="">parar</rel>
+                <arg f="loc" n="m">em a lata de o lixo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s379: Quando os britânicos retomaram o Egito em 1801 a pedra foi parar em o Museu_Britânico , mas os franceses fizeram cópias de ela . </text>
+                <arg f="tmp" n="m">Quando os britânicos retomaram o Egito em 1801 </arg>
+                <arg f="" n="1">a pedra </arg>
+                <rel f="">parar</rel>
+                <arg f="loc" n="m">em o Museu_Britânico </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

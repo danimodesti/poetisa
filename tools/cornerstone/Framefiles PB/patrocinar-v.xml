@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="patrocinar">
+        <roleset framnet="sponsor.01" id="patrocinar.01"
+            name="suportar financeiramente" vncls="29.8">
+            <roles>
+                <role descr="sponsor" n="0">
+                    <vnrole vncls="29.8" vntheta="Agent"/>
+                </role>
+                <role descr="thing sponsored" n="1">
+                    <vnrole vncls="29.8" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2493: Projeto é patrocinado por 3 empresas </text>
+                <arg f="" n="1">Projeto </arg>
+                <rel f="">patrocinado</rel>
+                <arg f="" n="0">por 3 empresas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1855: Os termos de a reforma foram assinados quarta-feira por o prefeito Paulo_Maluf , por o abade Dom_Isidoro_Oliveira_Preto ( mosteiro ) e por representantes de o Banco_de_Boston Philips e Akzo/Tintas_Ypiranga , empresas que patrocinam as obras . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">patrocinam</rel>
+                <arg f="" n="1">as obras </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s154: Ele é patrocinado por a Organização_de_Defesa_de_Mísseis_Balísticos e por a Nasa , em uma de as primeiras operações espacais com fins civis e militares . </text>
+                <arg f="" n="1">Ele </arg>
+                <rel f="">patrocinado</rel>
+                <arg f="" n="0">por a Organização_de_Defesa_de_Mísseis_Balísticos e por a Nasa </arg>
+                <arg f="loc" n="m">em uma de as primeiras operações espacais com fins civis e militares </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="rebater">
+        <roleset framnet="rebut.01" id="rebater.01"
+            name="revidar; combater" vncls="">
+            <roles>
+                <role descr="entity making a rebuttal" n="0"/>
+                <role descr="in response to" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2737: Caciques de o PFL já preparam o discurso para rebater uma possível tentativa tucana de atrair apoios de outros partidos para « diluir » a influência pefelista em um eventual governo FHC : </text>
+                <rel f="">rebater</rel>
+                <arg f="" n="1">uma possível tentativa tucana de atrair apoios de outros partidos para « diluir » a influência pefelista em um eventual governo FHC </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

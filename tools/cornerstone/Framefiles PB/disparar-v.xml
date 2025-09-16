@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="disparar">
+        <roleset framnet="" id="disparar.01" name="atirar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2709: Já as submetralhadoras disparam balas semelhantes a as de os revólveres , mas podem fazer- lo em rajadas , a um alcance curto , de dezenas de metros . </text>
+                <arg f="dis" n="m">Já </arg>
+                <arg f="" n="3">as submetralhadoras </arg>
+                <rel f="">disparam</rel>
+                <arg f="" n="1">balas semelhantes a as de os revólveres </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

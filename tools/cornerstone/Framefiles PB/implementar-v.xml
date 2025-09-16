@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="implementar">
+        <roleset framnet="implement.01" id="implementar.01"
+            name="por em execução" vncls="">
+            <roles>
+                <role descr="implementer" n="0"/>
+                <role descr="thing implemented" n="1"/>
+                <role descr="instrument" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4190: O projeto vem sendo implementado , em caráter experimental , em três escolas : Morumbi , Visconde_de_Porto_Seguro ( particulares ) e Godofredo_Furtado ( estadual ) . </text>
+                <arg f="" n="1">O projeto </arg>
+                <rel f="">implementado</rel>
+                <arg f="mnr" n="m">em caráter experimental </arg>
+                <arg f="loc" n="m">em três escolas : Morumbi , Visconde_de_Porto_Seguro ( particulares ) e Godofredo_Furtado ( estadual ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2222: Executivos em cargos de liderança assumem seus cargos com mais uma pesada função : implementar cada passo de a estratégia que eles próprios esboçaram . </text>
+                <rel f="">implementar</rel>
+                <arg f="" n="1">cada passo de a estratégia que eles próprios esboçaram </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

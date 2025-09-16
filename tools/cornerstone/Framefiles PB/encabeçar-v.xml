@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="encabeçar">
+        <roleset framnet="head.01" id="encabeçar.01"
+            name="comandar, chefiar" vncls="47.8">
+            <roles>
+                <role descr="leader" n="0">
+                    <vnrole vncls="47.8" vntheta="Theme1"/>
+                </role>
+                <role descr="organization" n="1">
+                    <vnrole vncls="47.8" vntheta="Theme2"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s2447: Não preciso repetir , agora , quem era o homem que Fernando_Henrique apresentava como adequado a o plano , sob o argumento de que tinha trânsito em as esquerdas para encabeçar um pacto conciliador . </text>
+                <rel f="">encabeçar</rel>
+                <arg f="" n="1">um pacto conciliador </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

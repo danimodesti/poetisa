@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="personificar">
+        <roleset framnet="personify.01" id="personificar.01"
+            name="ser a representação de" vncls="-">
+            <roles>
+                <role descr="abstraction" n="1"/>
+                <role descr="person-form" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1249: Apoiada em os travesseiros , o busto levantado em a animação de a conversa , o rosto concentrado em o jogo de os búzios , em o instante de a adivinhação , Menininha_do_Gantois personificava a verdade de o Brasil , de um Brasil mais profundo e mais belo , situado além_de a corrupção , de a injustiça , de a violência , de a mentira , de as pequenezes , de a delação transformada por os pobres homens de a baixa política em suprema virtude nacional . </text>
+                <arg f="prd" n="m">Apoiada em os travesseiros , o busto levantado em a animação de a conversa , o rosto concentrado em o jogo de os búzios , em o instante de a adivinhação </arg>
+                <arg f="" n="0">Menininha_do_Gantois </arg>
+                <rel f="">personificava</rel>
+                <arg f="" n="1">a verdade de o Brasil , de um Brasil mais profundo e mais belo , situado além_de a corrupção , de a injustiça , de a violência , de a mentira , de as pequenezes , de a delação transformada por os pobres homens de a baixa política em suprema virtude nacional </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

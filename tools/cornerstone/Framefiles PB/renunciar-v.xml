@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="renunciar ">
+        <roleset framnet="relinquish.01" id="renunciar.01"
+            name="abrir mão de; desistir de" vncls="13.2">
+            <roles>
+                <role descr="abandoner" n="0">
+                    <vnrole vncls="13.2" vntheta="Agent"/>
+                </role>
+                <role descr="project" n="1">
+                    <vnrole vncls="13.2" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s1673: Os discursos de a frugalidade , de a austeridade ficaram para as repúblicas gregas e romanas , aquelas que Montesquieu ainda celebrava , em meados de o século 18 , quando dizia que o regime republicano se caracteriza por a disposição de seus cidadãos a renunciar a o bem privado em_favor_de o bem comum e por isso , acrescentava ele , trata- se de regime impossível em a modernidade , em a_qual se busca a vantagem pessoal . </text>
+                <rel f="">renunciar</rel>
+                <arg f="" n="1">a o bem privado </arg>
+                <arg f="" n="2">em_favor_de o bem comum </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1207: A única alternativa que resta a Sarney de_fato é que o Superior_Tribunal_de_Justiça acate a denúncia de estelionato apresentada por o Ministério_Público_Federal contra Orestes_Quércia e que , em este caso , o ex- governador de São_Paulo renuncie a a candidatura de o PMDB . </text>
+                <arg f="loc" n="m">em este caso </arg>
+                <arg f="" n="0">o ex- governador de São_Paulo </arg>
+                <rel f="">renuncie</rel>
+                <arg f="" n="1">a a candidatura de o PMDB </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosF.s1097: O mal residia , enfim , em o fato de que a política real de a UDN se traduzia em o que conspirava entre quatro paredes , sem uma antena parabólica que lhe pusesse termo e sem uma imprensa independente que revelasse , livre de paixões partidárias , sua vocação para renunciar a o Estado de Direito a o toque de a primeira corneta . </text>
+                <rel f="">renunciar</rel>
+                <arg f="" n="1">a o Estado de Direito </arg>
+                <arg f="tmp" n="m">a o toque de a primeira corneta </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

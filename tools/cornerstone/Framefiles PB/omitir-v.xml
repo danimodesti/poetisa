@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="omitir">
+        <roleset framnet="omit.01" id="omitir.01"
+            name="esconder; deixar de dizer ou mostrar" vncls="10.1 75-1">
+            <roles>
+                <role descr="omitter" n="0">
+                    <vnrole vncls="10.1" vntheta="Agent"/>
+                    <vnrole vncls="75-1" vntheta="Agent"/>
+                </role>
+                <role descr="thing left out" n="1">
+                    <vnrole vncls="10.1" vntheta="Theme"/>
+                    <vnrole vncls="75-1" vntheta="Theme"/>
+                </role>
+                <role descr="left out of what" n="2">
+                    <vnrole vncls="10.1" vntheta="Source"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2396: Em a sua primeira declaração , Queiroz omitiu US$ 1,7 milhão em bens . </text>
+                <arg f="loc" n="m">Em a sua primeira declaração </arg>
+                <arg f="" n="0">Queiroz </arg>
+                <rel f="">omitiu</rel>
+                <arg f="" n="1">US$ 1,7 milhão em bens </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s719: De que adiantaria os jornais de o dia seguinte omitirem os nomes , se eles já haviam sido arrastados a a lama por um noticiário que atinge cerca_de 60 milhões de pessoas , certamente mais do_que a tiragem conjunta de todos os jornais brasileiros ? </text>
+                <arg f="" n="0">os jornais de o dia seguinte </arg>
+                <rel f="">omitirem</rel>
+                <arg f="" n="1">os nomes </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

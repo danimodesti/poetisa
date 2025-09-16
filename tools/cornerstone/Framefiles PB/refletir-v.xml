@@ -1,0 +1,93 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="refletir">
+        <roleset framnet="reflect.01" id="refletir.01"
+            name="provocar reflexo; deixar transparecer (figurativo)" vncls="">
+            <roles>
+                <role descr="thing casting a reflection" n="1"/>
+                <role
+                    descr="surface casting the reflection, image being reflected" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3604: Ele disse , no_entanto , que a lei antitruste aprovada por o Congresso reflete o clima que o país está vivendo em essa fase que antecede o lançamento de o real . </text>
+                <arg f="" n="2">a lei antitruste aprovada por o Congresso </arg>
+                <rel f="">reflete</rel>
+                <arg f="" n="1">o clima que o país está vivendo em essa fase que antecede o lançamento de o real </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3573: Esta taxa , no_entanto , não reflete o_que está acontecendo de_fato com os preços em as últimas semanas . </text>
+                <arg f="" n="2">Esta taxa </arg>
+                <arg f="dis" n="m">no_entanto </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">reflete</rel>
+                <arg f="" n="1">o_que está acontecendo de_fato com os preços em as últimas semanas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3508: Parágrafo 3º. -- Em os contratos celebrados ou convertidos em URV , em que haja cláusula de reajuste de valor por índice de preços ou por índice que reflita a variação ponderada de os custos de os insumos utilizados , o cálculo de esses índices , para efeitos de reajuste , deverá ser em esta moeda até a emissão de o real e , daí_em_diante , em real , observado o art. 38 de a lei nº. 8.880 de 27.05.94 . </text>
+                <arg f="" n="2">que </arg>
+                <rel f="">reflita</rel>
+                <arg f="" n="1">a variação ponderada de os custos de os insumos utilizados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3141: Durante o passeio , escutávamos os ruídos de a movimentação lenta de este enorme rio de gelo e contemplávamos os contrastes cromáticos de a superfície congelada refletindo o céu azul . </text>
+                <arg f="" n="2">os contrastes cromáticos de a superfície congelada </arg>
+                <rel f="">refletindo</rel>
+                <arg f="" n="1">o céu azul </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2939: Doucet se inspirava muito em suas viagens e refletia isso em o título de vários de seus trabalhos , como « Guatemala_Blues » e « Mostar_Sarajevo » . </text>
+                <arg f="" n="0">Doucet </arg>
+                <rel f="">refletia</rel>
+                <arg f="" n="1">isso </arg>
+                <arg f="" n="2">em o título de vários de seus trabalhos , como « Guatemala_Blues » e « Mostar_Sarajevo » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2626: De uma ponta a outra , as variações são imensas e refletem a instabilidade de uma economia em inflação crônica e alta . </text>
+                <arg f="loc" n="m">De uma ponta a outra </arg>
+                <arg f="" n="2">as variações </arg>
+                <rel f="">refletem</rel>
+                <arg f="" n="1">a instabilidade de uma economia em crônica e alta </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2485: As letras de o Digable_Planets não refletem este radicalismo . </text>
+                <arg f="" n="2">As letras de o Digable_Planets </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">refletem</rel>
+                <arg f="" n="1">este radicalismo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s301: Por as razões alinhadas , que não refletem apenas conjeturas teóricas , mas a experiência duramente vivida por a nação em as últimas duas décadas , se impõe dar um basta definitivo a todos os remanescentes de indexação formal , sejam eles em as taxas de juros nominais ( TR ) , em o recolhimento de os tributos ( Ufir e correlatos ) e em os salários ( IPC-r ) . </text>
+                <arg f="" n="2">que </arg>
+                <arg f="" n="1">não apenas conjeturas teóricas a experiência duramente vivida por a nação em as últimas duas décadas </arg>
+                <rel f="">refletem</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

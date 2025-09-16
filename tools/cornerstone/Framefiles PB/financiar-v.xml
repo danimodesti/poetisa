@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="financiar">
+        <roleset framnet="finance.01" id="financiar.01"
+            name="dar dinheiro para; suportar financeiramente" vncls="">
+            <roles>
+                <role descr="financ(i)er" n="0"/>
+                <role descr="thing financed" n="1"/>
+                <role descr="money" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2393: A Tejofran e a Power são acusadas por Rui_Ramos , ex- integrante de a campanha tucana , de financiar a estrutura política de o candidato de o PSDB a o governo , Mário_Covas . </text>
+                <rel f="">financiar</rel>
+                <arg f="" n="1">a estrutura política de o candidato de o PSDB a o governo , Mário_Covas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s500: Até agora , o Bradesco_VISA financiava em até quatro parcelas , com os juros cobrados sobre os cruzeiros reais . </text>
+                <arg f="tmp" n="m">Até agora </arg>
+                <arg f="" n="0">o Bradesco_VISA </arg>
+                <rel f="">financiava</rel>
+                <arg f="mnr" n="m">em até quatro parcelas , com os juros cobrados sobre os cruzeiros reais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s32: Quebraram aquelas que estavam « descasadas » , ou_seja , que financiavam em o mercado interbancário de um dia ( CDI ) os empréstimos e carteiras de títulos estaduais e municipais com prazos longos . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">financiavam</rel>
+                <arg f="loc" n="m">em o mercado interbancário de um dia ( CDI ) </arg>
+                <arg f="" n="1">os empréstimos e carteiras de títulos estaduais e municipais com prazos longos </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

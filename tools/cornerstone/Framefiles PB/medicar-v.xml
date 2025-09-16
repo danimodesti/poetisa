@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="medicar">
+        <roleset framnet="medicate.01" id="medicar.01"
+            name="receber medicamento" vncls="-">
+            <roles>
+                <role descr="doctor" n="0"/>
+                <role descr="patient" n="1"/>
+                <role descr="medication" n="2"/>
+                <role descr="illness" n="3"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1742: Beth_Tebele , 62 , filha de Carmelita , foi medicada junto_com a mãe . </text>
+                <arg f="" n="1">Beth_Tebele , 62 , filha de Carmelita , </arg>
+                <rel f="">medicada</rel>
+                <arg f="mnr" n="m">junto_com a mãe </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

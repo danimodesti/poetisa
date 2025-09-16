@@ -1,0 +1,59 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="comparecer">
+        <roleset framnet="" id="comparecer.01"
+            name="estar presente em um local" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3873: Stephen_Freehill , 16 ( foto ) , compareceu ontem a um tribunal de Cingapura para uma audiência preliminar . </text>
+                <arg f="" n="0">Stephen_Freehill , 16 ( foto ) , </arg>
+                <rel f="">compareceu</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">a um tribunal de Cingapura </arg>
+                <arg f="pnc" n="m">para uma audiência preliminar </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2913: Nenhum dirigente de o PMDB compareceu ontem , em São_Paulo , a a cerimônia de instalação de o Instituto_Ulysses_Guimarães_de_Estudos_Políticos_e_Sociais . </text>
+                <arg f="" n="0">Nenhum dirigente de o PMDB </arg>
+                <rel f="">compareceu</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="loc" n="m">em São_Paulo </arg>
+                <arg f="" n="1">a a cerimônia de instalação de o Instituto_Ulysses_Guimarães_de_Estudos_Políticos_e_Sociais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2398: O presidente de o partido em o Rio , Sá_Freire , disse que o pedido de cassação foi feito porque Walter_Queiroz não teria comparecido a as reuniões marcadas para que ele explicasse sua nova declaração de renda . </text>
+                <arg f="" n="0">Walter_Queiroz </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">comparecido</rel>
+                <arg f="" n="1">a as reuniões marcadas para que ele explicasse sua nova declaração de renda </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s901: Eles têm que comparecer em o Juquery de segunda a sexta-feira , de as 8h a as 17h . </text>
+                <arg f="" n="0">Eles </arg>
+                <rel f="">comparecer</rel>
+                <arg f="" n="1">em o Juquery </arg>
+                <arg f="tmp" n="m">de segunda a sexta-feira </arg>
+                <arg f="tmp" n="m">de as 8h a as 17h </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

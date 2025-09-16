@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="fingir">
+        <roleset framnet="pretend.01" id="fingir.01"
+            name="agir como se fosse verdade" vncls="-">
+            <roles>
+                <role descr="pretender" n="0"/>
+                <role descr="premise" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s772: Devo fingir que enxergo a figura ou sento a as margens de o Rio_Piedra e choro ? » </text>
+                <rel f="">fingir</rel>
+                <arg f="" n="1">que enxergo a figura </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

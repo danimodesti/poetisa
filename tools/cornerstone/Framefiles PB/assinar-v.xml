@@ -1,0 +1,133 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="assinar">
+        <roleset framnet="sign.04" id="assinar.04"
+            name="comprometer-se com" vncls="-">
+            <roles>
+                <role descr="signer" n="0"/>
+                <role descr="entity associated with" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s247: Acabou assinando com o Interscope , ligado a a Warner , por US$ 1 milhão por três discos . </text>
+                <rel f="">assinando</rel>
+                <arg f="" n="3">com o Interscope , ligado a a Warner , </arg>
+                <arg f="" n="4">por US$ 1 milhão </arg>
+                <arg f="" n="5">por três discos </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="sign.02" id="assinar.01"
+            name="firmar (acordo) com" vncls="37.4">
+            <roles>
+                <role descr="signer, agreer" n="0">
+                    <vnrole vncls="37.4" vntheta="Agent"/>
+                </role>
+                <role descr="agreement" n="1">
+                    <vnrole vncls="37.4" vntheta="Topic"/>
+                </role>
+                <role descr="co-signer" n="2">
+                    <vnrole vncls="37.4" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s4041: Os EUA entram em a vida japonesa em meados de o século 19 , quando obrigam o « shogun » a assinar um tratado de comércio . </text>
+                <rel f="">assinar</rel>
+                <arg f="" n="1">um tratado de comércio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3753: A NEC tem mais_de 55 $% ( US$ 455 milhões ) de os contratos assinados por as concessionárias de a Telebrás , incluindo aí a segunda fase de a implantação de o sistema móvel em São_Paulo e a terceira em o Rio , previstas para 94 . </text>
+                <arg f="" n="1">US$ 455 milhões </arg>
+                <rel f="">assinados</rel>
+                <arg f="" n="0">por as concessionárias de a Telebrás </arg>
+                <arg f="adv" n="m">incluindo aí a segunda fase de a implantação de o sistema móvel em São_Paulo e a terceira em o Rio , previstas para 94 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1161: Assinaram o acordo Luxemburgo , Bélgica , Holanda , Itália , França , Alemanha , Espanha , Grécia e Portugal . </text>
+                <rel f="">Assinaram</rel>
+                <arg f="" n="1">o acordo </arg>
+                <arg f="" n="0">Luxemburgo , Bélgica , Holanda , Itália , França , Alemanha , Espanha , Grécia e Portugal </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="sign.01" id="assinar.02"
+            name="apor assinatura em documento" vncls="25.1">
+            <roles>
+                <role descr="signer" n="0">
+                    <vnrole vncls="25.1" vntheta="Agent"/>
+                </role>
+                <role descr="document" n="1">
+                    <vnrole vncls="25.1" vntheta="Destination"/>
+                </role>
+                <role descr="signature" n="2">
+                    <vnrole vncls="25.1" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1855: Os termos de a reforma foram assinados quarta-feira por o prefeito Paulo_Maluf , por o abade Dom_Isidoro_Oliveira_Preto ( mosteiro ) e por representantes de o Banco_de_Boston Philips e Akzo/Tintas_Ypiranga , empresas que patrocinam as obras . </text>
+                <arg f="" n="1">Os termos de a reforma </arg>
+                <rel f="">assinados</rel>
+                <arg f="tmp" n="m">quarta-feira </arg>
+                <arg f="" n="0">por o prefeito Paulo_Maluf , por o abade Dom_Isidoro_Oliveira_Preto ( mosteiro ) e por representantes de o Banco_de_Boston Philips e Akzo/Tintas_Ypiranga , empresas que patrocinam as obras </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s969: Sem acesso a as contas de o grupo , elas informam que não assinaram o balanço . </text>
+                <arg f="adv" n="m">Sem acesso a as contas de o grupo </arg>
+                <arg f="" n="0">elas </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">assinaram</rel>
+                <arg f="" n="1">o balanço </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="author.01" id="assinar.03"
+            name="assumir a autoria de obra " vncls="-">
+            <roles>
+                <role descr="author, agent" n="0"/>
+                <role descr="text authored" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s680: A novela que Janete_Clair assinou entre junho de 70 e julho de 71 ganhará nova versão em a Globo em 95 </text>
+                <arg f="" n="1">que </arg>
+                <arg f="" n="0">Janete_Clair </arg>
+                <rel f="">assinou</rel>
+                <arg f="tmp" n="m">entre junho de 70 e julho de 71 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s15: A direção de o novo semanal será assinada por Ewaldo_Ruy . </text>
+                <arg f="" n="1">A direção de o novo semanal </arg>
+                <rel f="">assinada</rel>
+                <arg f="" n="0">por Ewaldo_Ruy </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

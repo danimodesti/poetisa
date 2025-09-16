@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reverenciar">
+        <roleset framnet="revere.01" id="reverenciar.01"
+            name="fazer reverência; homenagear" vncls="31.2">
+            <roles>
+                <role descr="admirer" n="0">
+                    <vnrole vncls="31.2" vntheta="Experiencer"/>
+                </role>
+                <role descr="admired" n="1">
+                    <vnrole vncls="31.2" vntheta="Cause"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1251: Aqui , em este espaço onde se reverencia sua memória , eu a recordo amiga de toda uma vida , nossas longas vidas vividas em a intensidade de a paixão : com ela aprendi a bondade e o povo . </text>
+                <arg f="loc" n="m">onde </arg>
+                <rel f="">reverencia</rel>
+                <arg f="" n="1">sua memória </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

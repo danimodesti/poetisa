@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="adequar-se">
+        <roleset framnet="suit.01" id="adequar.01"
+            name="alternância incoativa de &quot;adequar&quot;: ficar apropriado, tornar-se apropriado" vncls="-">
+            <roles>
+                <role descr="suitable thing" n="1"/>
+                <role descr="suitable to/for" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3086: Às_vezes sugeria a George uma mudança em o andamento , para que este se adequasse melhor a a letra . </text>
+                <arg f="" n="1">este </arg>
+                <rel f="">adequasse</rel>
+                <arg f="mnr" n="m">melhor </arg>
+                <arg f="" n="2">a a letra </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="adequar">
+        <roleset framnet="suit.01" id="adequar.02"
+            name="tornar apropriado" vncls="-">
+            <roles>
+                <role descr="suitable thing" n="1"/>
+                <role descr="suitable to/for" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2667: Ontem , os bancos já se adequaram a as novas regras . </text>
+                <arg f="tmp" n="m">Ontem </arg>
+                <arg f="" n="0">os bancos </arg>
+                <arg f="adv" n="m">já </arg>
+                <arg f="" n="1">se </arg>
+                <rel f="">adequaram</rel>
+                <arg f="" n="2">a as novas regras </arg>
+                <note>se o sujeito é animado, o SE é reflexivo (não se trata de alternância incoativa)</note>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

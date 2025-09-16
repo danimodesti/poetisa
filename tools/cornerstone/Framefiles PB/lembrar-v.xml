@@ -1,0 +1,101 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="lembrar-se">
+        <roleset framnet="remember.01" id="lembrar.01" name="recordar" vncls="29.2">
+            <roles>
+                <role descr="rememberer" n="0">
+                    <vnrole vncls="29.2" vntheta="Agent"/>
+                </role>
+                <role descr="memory" n="1">
+                    <vnrole vncls="29.2" vntheta="Theme"/>
+                </role>
+                <role descr="secondary attribute" n="2">
+                    <vnrole vncls="29.2" vntheta="Predicate"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2479: Senão eu não ia mais conseguir discutir salário com ele sem me lembrar de o episódio e rir . » </text>
+                <arg f="rec" n="m">me </arg>
+                <rel f="">lembrar</rel>
+                <arg f="" n="1">de o episódio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s776: Quando Ricupero foi pinçado de a sua missão amazônica , lembrei Osvaldo_Aranha , que dizia que o Brasil é um deserto de homens e de idéias . </text>
+                <arg f="tmp" n="m">Quando Ricupero foi pinçado de a sua missão amazônica </arg>
+                <rel f="">lembrei</rel>
+                <arg f="" n="1">Osvaldo_Aranha , que dizia que o Brasil é um deserto de homens e de idéias </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <predicate lemma="lembrar">
+        <roleset framnet="resemble.01" id="lembrar.02"
+            name="trazer à lembrança pelo fato de ser semelhante; assemelhar-se" vncls="-">
+            <roles>
+                <role descr="copy" n="1"/>
+                <role descr="original" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2224: As construções lembram vagamente uma verdadeira vila de pescadores . </text>
+                <arg f="" n="1">As construções </arg>
+                <rel f="">lembram</rel>
+                <arg f="ext" n="m">vagamente </arg>
+                <arg f="" n="2">uma verdadeira vila de pescadores </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="remind.01" id="lembrar.03"
+            name="fazer lembrar" vncls="-">
+            <roles>
+                <role descr="cause, agent" n="0"/>
+                <role descr="thing reminded" n="1"/>
+                <role descr="recipient" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2168: Todos lembraram a importância de os dois treinadores em a história de o futebol e em o cenário atual mundial . </text>
+                <arg f="" n="0">Todos </arg>
+                <rel f="">lembraram</rel>
+                <arg f="" n="1">a importância de os dois treinadores em a história de o futebol e em o cenário atual mundial </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1994: Em os discursos de agradecimento em Wimbledon e Us_Open , meses antes , a alemã lembrara o público de que não ficava feliz em vencer torneios em a ausência de Monica_Seles , afastada de as quadras depois de ser esfaqueada em a quadra . </text>
+                <arg f="loc" n="m">Em os discursos de agradecimento em Wimbledon e Us_Open </arg>
+                <arg f="tmp" n="m">meses antes </arg>
+                <arg f="" n="0">a alemã </arg>
+                <rel f="">lembrara</rel>
+                <arg f="" n="2">o público </arg>
+                <arg f="" n="1">de que não ficava feliz em vencer torneios em a ausência de Monica_Seles , afastada de as quadras depois de ser esfaqueada em a quadra </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1463: Em os últimos cinco anos , só em a Argentina , a Coca-Cola investiu US$ 800 milhões em a aquisição de novos equipamentos e desenvolvimento de novas tecnologias , lembrou Ivester após encontro com o presidente argentino Carlos_Menem . </text>
+                <arg f="" n="1">Em os últimos cinco anos , só em a Argentina , a Coca-Cola investiu US$ 800 milhões em a aquisição de novos equipamentos e desenvolvimento de novas tecnologias </arg>
+                <rel f="">lembrou</rel>
+                <arg f="" n="0">Ivester </arg>
+                <arg f="tmp" n="m">após encontro com o presidente argentino Carlos_Menem </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

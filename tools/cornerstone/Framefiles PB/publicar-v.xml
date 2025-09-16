@@ -1,0 +1,108 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="publicar">
+        <roleset framnet="publish.01" id="publicar.01"
+            name="divulgar sob forma impressa ou virtual" vncls="">
+            <roles>
+                <role descr="publisher" n="0"/>
+                <role descr="book, report" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3748: Publica documentos comprados de James_McDougal , ex- sócio de Bill e Hillary_Clinton em a empresa Whitewater . </text>
+                <rel f="">Publica</rel>
+                <arg f="" n="1">documentos comprados de James_McDougal , ex- sócio de Bill e Hillary_Clinton em a empresa Whitewater </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3494: Cientistas de a Universidade_da_Califórnia em Irvine ( EUA ) publicaram a pesquisa em a última edição de a revista de a Associação_Médica_Norte-americana , ( « Jama » ) . </text>
+                <arg f="" n="0">Cientistas de a Universidade_da_Califórnia em Irvine ( EUA ) </arg>
+                <rel f="">publicaram</rel>
+                <arg f="" n="1">a pesquisa </arg>
+                <arg f="loc" n="m">em a última edição de a revista de a Associação_Médica_Norte-americana , ( « Jama » ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3421: Por_que não publicar que o PT fez um seminário em o Nordeste sobre ela e concluiu por a necessidade de sua construção ? </text>
+                <arg f="tmp" n="m">Por_que </arg>
+                <rel f="">publicar</rel>
+                <arg f="" n="1">que o PT fez um seminário em o Nordeste sobre ela </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2599: O decreto foi publicado em o « Diário_Oficial » de o dia 29 de julho . </text>
+                <arg f="" n="1">O decreto </arg>
+                <rel f="">publicado</rel>
+                <arg f="loc" n="m">em o « Diário_Oficial » de o dia 29 de julho </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1634: A resposta para as palavras cruzadas de hoje foram publicadas ontem . </text>
+                <arg f="" n="1">A resposta para as palavras cruzadas de hoje </arg>
+                <rel f="">publicadas</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1402: A mesma editora publicou , em 93 , o livro de estréia de o escritor , « Caça_aos_Turistas » . </text>
+                <arg f="" n="0">A mesma editora </arg>
+                <rel f="">publicou</rel>
+                <arg f="tmp" n="m">em 93 </arg>
+                <arg f="" n="1">o livro de estréia de o escritor , « Caça_aos_Turistas » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s965: O anúncio legal foi publicado recentemente . </text>
+                <arg f="" n="1">O anúncio legal </arg>
+                <rel f="">publicado</rel>
+                <arg f="tmp" n="m">recentemente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s839: Em 1962 , publica « Capitalismo_e_Escravidão_no_Brasil_Meridional » , primeira obra de sua autoria a se tornar referência em as ciências sociais de o país . </text>
+                <arg f="tmp" n="m">Em 1962 </arg>
+                <rel f="">publica</rel>
+                <arg f="" n="1">« Capitalismo_e_Escravidão_no_Brasil_Meridional » , primeira obra de sua autoria a se tornar referência em as ciências sociais de o país </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s407: Segundo o jornal « USA_Today » , a revista publicará fotos em as_quais Harding aparece mantendo relações sexuais com seu ex- marido , Jeff_Gillooly . </text>
+                <arg f="dis" n="m">Segundo o jornal « USA_Today » </arg>
+                <arg f="" n="0">a revista </arg>
+                <rel f="">publicará</rel>
+                <arg f="" n="1">fotos em as_quais Harding aparece mantendo relações sexuais com seu ex- marido , Jeff_Gillooly </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s93: Pocock , que publicou os resultados em o último número de a revista « British_Medical_Journal » , de o Reino_Unido , estudou a influência de o chumbo desde a gestação . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">publicou</rel>
+                <arg f="" n="1">os resultados </arg>
+                <arg f="loc" n="m">em o último número de a revista « British_Medical_Journal » , de o Reino_Unido </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

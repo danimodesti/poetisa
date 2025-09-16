@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="diminuir">
+        <roleset framnet="decrease.01" id="diminuir.01" name="reduzir" vncls="45.4 45.6">
+            <roles>
+                <role descr="causer of decline, agent" n="0">
+                    <vnrole vncls="45.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing decreasing" n="1">
+                    <vnrole vncls="45.4" vntheta="Patient"/>
+                    <vnrole vncls="45.6" vntheta="Patient"/>
+                </role>
+                <role descr="amount decreased by, EXT or MNR" n="2">
+                    <vnrole vncls="45.6" vntheta="Extent"/>
+                </role>
+                <role descr="start point" n="3"/>
+                <role descr="end point" n="4"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1712: As taxas de juros equivalentes de os CDBs diminuíram 2,31 pontos percentuais em_relação_a a média de a última segunda-feira . </text>
+                <arg f="" n="1">As taxas de juros equivalentes de os CDBs </arg>
+                <rel f="">diminuíram</rel>
+                <arg f="" n="2">2,31 pontos percentuais </arg>
+                <arg f="mnr" n="m">em_relação_a a média de a última segunda-feira </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s747: Em 95 , no_entanto , a participação de os pequenos subsidiados por o Sebrae em a Fenit vai diminuir . </text>
+                <arg f="tmp" n="m">Em 95 </arg>
+                <arg f="dis" n="m">no_entanto </arg>
+                <arg f="" n="1">a participação de os pequenos subsidiados por o Sebrae em a Fenit </arg>
+                <rel f="">diminuir</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s538: Não estamos diminuindo investimentos de o setor privado e , em o setor público , o BNDES está mudando a orientação de investimentos de o Nordeste . </text>
+                <arg f="neg" n="m">Não </arg>
+                <rel f="">diminuindo</rel>
+                <arg f="" n="1">investimentos de o setor privado </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

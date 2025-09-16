@@ -1,0 +1,80 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="estimar">
+        <roleset framnet="estimate.01" id="estimar.01"
+            name="fazer estimativa; calcular" vncls="54.4">
+            <roles>
+                <role descr="estimator" n="0">
+                    <vnrole vncls="54.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing estimated" n="1">
+                    <vnrole vncls="54.4" vntheta="Theme"/>
+                </role>
+                <role descr="estimated-to-be, attribute of arg1" n="2">
+                    <vnrole vncls="54.4" vntheta="Attribute"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4090: Ele estima em dez horas o tempo necessário para classificar as áreas e culturas plantadas em uma extensão de 180 quilômetros . </text>
+                <arg f="" n="0">Ele </arg>
+                <rel f="">estima</rel>
+                <arg f="" n="2">em dez horas </arg>
+                <arg f="" n="1">o tempo necessário para classificar as áreas e culturas plantadas em uma extensão de 180 quilômetros </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3142: « É preciso ter em_conta que a elevação de as importações com a redução de as alíquotas é estimada em 1 % de a pauta de as importações brasileira . </text>
+                <arg f="" n="1">a elevação de as importações com a redução de as alíquotas </arg>
+                <rel f="">estimada</rel>
+                <arg f="" n="2">em 1 % de a pauta de as importações brasileira </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2882: Apesar_de os esforços , estima fechar o ano vendendo 75 milhões de litros de sorvetes ( US$ 120 milhões ) . </text>
+                <arg f="adv" n="m">Apesar_de os esforços </arg>
+                <rel f="">estima</rel>
+                <arg f="" n="1">fechar o ano vendendo 75 milhões de litros de sorvetes ( US$ 120 milhões ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2161: Em o mercado , estima- se que as dívidas de o grupo superam os nove bilhões de marcos . </text>
+                <arg f="loc" n="m">Em o mercado </arg>
+                <rel f="">estima-</rel>
+                <arg f="" n="0">se </arg>
+                <arg f="" n="1">que as dívidas de o grupo superam os nove bilhões de marcos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1344: Os 160 expositores de a mostra de a indústria de cosméticos estimam vendas de US$ 150 milhões até a próxima segunda-feira . </text>
+                <arg f="" n="0">Os 160 expositores de a mostra de a indústria de cosméticos </arg>
+                <rel f="">estimam</rel>
+                <arg f="" n="1">vendas de US$ 150 milhões </arg>
+                <arg f="tmp" n="m">até a próxima segunda-feira </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s703: Seria inviável estimar , por_exemplo , com a acuidade necessária para a concessão de crédito fiscal , qual a incidência efetiva de PIS e Cofins em cada etapa de o processo produtivo anterior a a produção de os insumos usados diretamente em a produção para exportações . </text>
+                <rel f="">estimar</rel>
+                <arg f="dis" n="m">por_exemplo </arg>
+                <arg f="mnr" n="m">com a acuidade necessária para a concessão de crédito fiscal </arg>
+                <arg f="" n="1">qual a incidência efetiva de PIS e Cofins em cada etapa de o processo produtivo anterior a a produção de os insumos usados diretamente em a produção para exportações </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

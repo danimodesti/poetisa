@@ -1,0 +1,263 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="aumentar">
+        <roleset framnet="increase.01" id="aumentar.01"
+            name="ficar maior" vncls="45.4 45.6">
+            <roles>
+                <role descr="causer of increase" n="0">
+                    <vnrole vncls="45.4" vntheta="Agent"/>
+                </role>
+                <role descr="thing increasing" n="1">
+                    <vnrole vncls="45.4" vntheta="Patient"/>
+                    <vnrole vncls="45.6" vntheta="Patient"/>
+                </role>
+                <role descr="amount increased by, EXT or MNR" n="2">
+                    <vnrole vncls="45.6" vntheta="Extent"/>
+                </role>
+                <role descr="start point" n="3"/>
+                <role descr="end point" n="4"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4161: O índice deve aumentar , segundo 45 $% de os entrevistados por o DataFolha . </text>
+                <arg f="" n="1">O índice </arg>
+                <rel f="">aumentar</rel>
+                <arg f="dis" n="m">segundo 45 $% de os entrevistados por o DataFolha </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4159: Para 45 $% de os paulistanos , inflação aumenta </text>
+                <arg f="dis" n="m">Para 45 $% de os paulistanos </arg>
+                <arg f="" n="1">inflação </arg>
+                <rel f="">aumenta</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3792: Depois de um tempo , as vozes aumentam e acabo ficando atordoada e não consigo terminar o_que comecei » . </text>
+                <arg f="tmp" n="m">Depois de um tempo </arg>
+                <arg f="" n="1">as vozes </arg>
+                <rel f="">aumentam</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3561: « Como eles aumentaram 6,28 % em as duas semanas , acertamos que eles iriam parar os aumentos . </text>
+                <arg f="" n="0">eles </arg>
+                <rel f="">aumentaram</rel>
+                <arg f="" n="2">6,28 % </arg>
+                <arg f="tmp" n="m">em as duas semanas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3327: Valores médios de as locações comerciais aumentam 50,16 % . </text>
+                <arg f="" n="1">Valores médios de as locações comerciais </arg>
+                <rel f="">aumentam</rel>
+                <arg f="" n="2">50,16 % </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3228: Agora estou trabalhando em o desenvolvimento de um programa para aumentar a contribuição de as políticas públicas para o capital social . </text>
+                <rel f="">aumentar</rel>
+                <arg f="" n="1">a contribuição de as políticas públicas para o capital social </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3161: Além_de aumentar o número de cassações , deve- se estimular as demais CPIs sobre Empreiteiras , financiamentos eleitorais e CUT a CPI de a CUT terá o dom de trazer a a tona possíveis desvios de a burocracia e de a praga de o corporativismo , o_que , acreditem , vai acabar ajudando não apenas o PT mas a democracia . </text>
+                <arg f="dis" n="m">Além_de </arg>
+                <rel f="">aumentar</rel>
+                <arg f="" n="1">o número de cassações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2993: Os níveis de os depósitos aumentaram 440 % , em 1993 , basicamente em_função_de depósitos interfinanceiros e a prazo . </text>
+                <arg f="" n="1">Os níveis de os depósitos </arg>
+                <rel f="">aumentaram</rel>
+                <arg f="" n="2">440 % </arg>
+                <arg f="tmp" n="m">em 1993 </arg>
+                <arg f="cau" n="m">basicamente em_função_de depósitos interfinanceiros e a prazo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2960: Em os últimos dias , aumentaram as especulações sobre quem ocuparia o lugar de Mansell em a Newmann/Hass . </text>
+                <arg f="tmp" n="m">Em os últimos dias </arg>
+                <rel f="">aumentaram</rel>
+                <arg f="" n="1">as especulações sobre quem ocuparia o lugar de Mansell em a Newmann/Hass </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2881: Além_de isso , deve lançar mais cinco novidades até o final de o ano , além_de aumentar sua distribuição . </text>
+                <arg f="tmp" n="m">até o final de o ano </arg>
+                <arg f="dis" n="m">além_de </arg>
+                <rel f="">aumentar</rel>
+                <arg f="" n="1">sua distribuição </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2852: Os franqueados brasileiros começam a utilizar uma nova « arma » para aumentar seu poder de influência junto a a cúpula de as empresas franqueadoras . </text>
+                <arg f="" n="0">Os franqueados brasileiros </arg>
+                <rel f="">aumentar</rel>
+                <arg f="" n="1">seu poder de influência </arg>
+                <arg f="loc" n="m">junto a a cúpula de as empresas franqueadoras </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2848: « Isto foi fundamental , pois conseguimos aumentar nossos criatórios e agora usamos como garanhões selecionadores apenas aqueles realmente de ponta » , diz . </text>
+                <rel f="">aumentar</rel>
+                <arg f="" n="1">nossos criatórios </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2678: A participação aumentaria 3 % até meados de 95 . </text>
+                <arg f="" n="1">A participação </arg>
+                <rel f="">aumentaria</rel>
+                <arg f="" n="2">3 % </arg>
+                <arg f="tmp" n="m">até meados de 95 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2430: Com isso , dizem , aumentam os custos de contratação de os jovens . </text>
+                <arg f="cau" n="m">Com isso </arg>
+                <rel f="">aumentam</rel>
+                <arg f="" n="1">os custos de contratação de os jovens </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2364: Já assessores de o federalista Delors , que em dez anos em a presidência de a CE aumentou os poderes de o cargo e entrou em conflito com Margaret_Thatcher ( antecessora de Major ) , temem que a escolha de Santer sirva para enfraquecer os poderes de o presidente , o_que abriria caminho para o eixo Alemanha-França consolidar o seu domínio . </text>
+                <arg f="" n="0">que </arg>
+                <arg f="tmp" n="m">em dez anos em a presidência de a CE </arg>
+                <rel f="">aumentou</rel>
+                <arg f="" n="1">os poderes de o cargo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2160: Além_de isso , a companhia pede que os bancos aumentem suas linhas de crédito em 500 milhões de marcos ( US$ 287,1 milhões ) e concedam uma moratória de três meses em o pagamento de as dívidas . </text>
+                <arg f="" n="0">os bancos </arg>
+                <rel f="">aumentem</rel>
+                <arg f="" n="1">suas linhas de crédito </arg>
+                <arg f="" n="2">em 500 milhões de marcos ( US$ 287,1 milhões ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1754: Preço médio aumenta 10,27 % em a 3ª semana em São_Paulo </text>
+                <arg f="" n="1">Preço médio </arg>
+                <rel f="">aumenta</rel>
+                <arg f="" n="2">10,27 % </arg>
+                <arg f="tmp" n="m">em a 3ª semana </arg>
+                <arg f="loc" n="m">em São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1574: A carga tributária de as instituições financeiras poderá aumentar em 73 % caso o Congresso_Nacional aprove o aumento de a contribuição social sobre o lucro de os bancos e a inclusão de a obrigatoriedade de recolhimento de o PIS ( Programa_de_Integração_Social ) . </text>
+                <arg f="" n="1">A carga tributária de as instituições financeiras </arg>
+                <rel f="">aumentar</rel>
+                <arg f="" n="2">em 73 % </arg>
+                <arg f="adv" n="m">caso o Congresso_Nacional aprove o aumento de a contribuição social sobre o lucro de os bancos e a inclusão de a obrigatoriedade de recolhimento de o PIS ( Programa_de_Integração_Social ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1468: Ele disse a os empresários -- que mantiveram suas críticas a a política de abertura comercial indiscriminada -- que o governo pode aumentar de_novo as alíquotas de importação em todos os setores . </text>
+                <arg f="" n="0">o governo </arg>
+                <rel f="">aumentar</rel>
+                <arg f="adv" n="m">de_novo </arg>
+                <arg f="" n="1">as alíquotas de importação em todos os setores </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1227: Em a realidade , ela aumenta à_medida_que as pessoas ascendem a escada socioeconômica » . </text>
+                <arg f="adv" n="m">Em a realidade </arg>
+                <arg f="" n="1">ela </arg>
+                <rel f="">aumenta</rel>
+                <arg f="mnr" n="m">à_medida_que as pessoas ascendem a escada socioeconômica </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1225: Em o texto publicado em o Mais! , os autores de o livro afirmam que « as pontuações de QI aumentam com o status econômico , em ambas as raças . </text>
+                <arg f="" n="1">as pontuações de QI </arg>
+                <rel f="">aumentam</rel>
+                <arg f="" n="0">com o status econômico </arg>
+                <arg f="loc" n="m">em ambas as raças </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1073: A produção de petróleo em a Argentina aumentou 30 % entre 1991 e 1993 . </text>
+                <arg f="" n="1">A produção de petróleo em a Argentina </arg>
+                <rel f="">aumentou</rel>
+                <arg f="" n="2">30 % </arg>
+                <arg f="tmp" n="m">entre 1991 e 1993 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosE.s667: Um , o convencional , é o que o Plano_Real contempla e tem como instrumentos essenciais a importação a a taxa cambial fixa e baixa e quase sem tarifa aduaneira de mercadorias , tornando impossível por a competição os produtores e comerciantes brasileiros aumentarem seus preços ; e a redução de a demanda por bens de consumo e de investimento , mediante juros altos e corte de o gasto público , impedindo as remarcações de preços por o excesso de oferta suscitado . </text>
+                <arg f="" n="0">os produtores e comerciantes brasileiros </arg>
+                <rel f="">aumentarem</rel>
+                <arg f="" n="1">seus preços </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s410: O objetivo de a campanha é aumentar a arrecadação de os impostos . </text>
+                <rel f="">aumentar</rel>
+                <arg f="" n="1">a arrecadação de os impostos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s30: Posteriormente , diante_de a ameaça de o tribunal de entrar com uma ação judicial , o governo mandou a o Congresso uma alteração a o projeto , aumentando para R$ 452,7 milhões a dotação de o TSE . </text>
+                <arg f="" n="0">o governo </arg>
+                <rel f="">aumentando</rel>
+                <arg f="" n="4">para R$ 452,7 milhões </arg>
+                <arg f="" n="1">a dotação de o TSE </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="mexer">
+        <roleset framnet="tinker.01" id="mexer.01"
+            name="alterar; fazer mudança ou provocar movimento em " vncls="-">
+            <roles>
+                <role descr="tinkerer, agent" n="0"/>
+                <role descr="entity tinkered with" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2887: Por dois motivos : a eventual queda em a arrecadação e problemas jurídicos que impedem mexer em a base de cálculo de o imposto por_meio_de MP , já_que ela foi fixada em emenda constitucional . </text>
+                <rel f="">mexer</rel>
+                <arg f="" n="1">em a base de cálculo de o imposto </arg>
+                <arg f="" n="2">por_meio_de MP </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

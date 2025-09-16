@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="escorar">
+        <roleset framnet="" id="escorar.01"
+            name="termo do futebol: receber e dominar a bola para prosseguir a jogada" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2200: Nélio teve apenas o trabalho de escorar para o gol vazio . </text>
+                <rel f="">escorar</rel>
+                <arg f="dir" n="m">para o gol vazio </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

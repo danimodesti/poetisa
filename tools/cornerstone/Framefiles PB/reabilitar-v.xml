@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reabilitar">
+        <roleset framnet="rehabilitate.01" id="reabilitar.01"
+            name="recuperar; fazer algo voltar ao estado original" vncls="-">
+            <roles>
+                <role descr="restorer, agent" n="0"/>
+                <role descr="entity rehabilitated" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1003: « Foram reabilitados 65 pontos de a cidades , usados como pontos de venda de drogas e que viraram quiosques de flores » , conta Maia . </text>
+                <rel f="">reabilitados</rel>
+                <arg f="" n="1">65 pontos de a cidades , usados como pontos de venda de drogas e que viraram quiosques de flores </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

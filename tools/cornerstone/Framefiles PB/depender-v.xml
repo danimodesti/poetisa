@@ -1,0 +1,168 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="depender">
+        <roleset framnet="depend.01" id="depender.01"
+            name="estar na dependência de" vncls="47.1-1 70">
+            <roles>
+                <role descr="depender" n="0">
+                    <vnrole vncls="47.1-1" vntheta="Theme"/>
+                    <vnrole vncls="70" vntheta="Agent"/>
+                </role>
+                <role descr="depended on" n="1">
+                    <vnrole vncls="70" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3977: O momento e a forma escolhidos para mudar o sistema financeiro , entretanto , dependem fortemente de variáveis políticas . </text>
+                <arg f="" n="0">O momento e a forma escolhidos para mudar o sistema financeiro </arg>
+                <arg f="dis" n="m">entretanto </arg>
+                <rel f="">dependem</rel>
+                <arg f="ext" n="m">fortemente </arg>
+                <arg f="" n="1">de variáveis políticas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3644: Em o Brasil , essa atitude ainda depende de a iniciativa de cada_um . </text>
+                <arg f="loc" n="m">Em o Brasil </arg>
+                <arg f="" n="0">essa atitude </arg>
+                <arg f="adv" n="m">ainda </arg>
+                <rel f="">depende</rel>
+                <arg f="" n="1">de a iniciativa de cada_um </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3473: A uma pergunta sobre se a volta de os investimentos externos não dependeria de o selo de aprovação de o Plano_Real através de um acordo formal entre o FMI e o Brasil , Camdessus disse que o_que vai fazer a taxa de juros cair não é um acordo com o FMI , mas a credibilidade interna e externa de o Plano_Real . </text>
+                <arg f="" n="0">a volta de os investimentos externos </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">dependeria</rel>
+                <arg f="" n="1">de o selo de aprovação de o Plano_Real através de um acordo formal entre o FMI e o Brasil </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3416: Tudo depende de a capacidade que o Parlamento tiver de transmitir as suas idéias a a imprensa , a o rádio e a a televisão . </text>
+                <arg f="" n="0">Tudo </arg>
+                <rel f="">depende</rel>
+                <arg f="" n="1">de a capacidade que o Parlamento tiver de transmitir as suas idéias a a imprensa , a o rádio e a a televisão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3414: José_Saramago -- A contribuição vai depender de o eco que o Parlamento possa ter em a opinião pública . </text>
+                <arg f="" n="0">A contribuição </arg>
+                <rel f="">depender</rel>
+                <arg f="" n="1">de o eco que o Parlamento possa ter em a opinião pública </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3241: A rentabilidade líquida , para saque em 1º de setembro , vai depender de a variação de a Ufir . </text>
+                <arg f="" n="0">A rentabilidade líquida </arg>
+                <arg f="pnc" n="m">para saque em 1º de setembro </arg>
+                <rel f="">depender</rel>
+                <arg f="" n="1">de a variação de a Ufir </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2932: Confiante em uma eventual vitória de o candidato Fernando_Henrique_Cardoso , a cúpula de o PSDB já articula a formação de um superpartido para não depender de o PFL em o Congresso . </text>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">depender</rel>
+                <arg f="" n="1">de o PFL </arg>
+                <arg f="loc" n="m">em o Congresso </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2931: Lideranças de o PSDB dizem apostar em uma grande legenda social-democrata para não ter de depender de o PFL </text>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">depender</rel>
+                <arg f="" n="1">de o PFL </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2767: Corte de os salários de os deputados depende de a Câmara ; congressistas recebem CR$ 83 mil por dia de trabaho </text>
+                <arg f="" n="0">Corte de os salários de os deputados </arg>
+                <rel f="">depende</rel>
+                <arg f="" n="1">de a Câmara </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2743: O bom uso de os modems e fax/modem depende de os programas para gerenciamento e transmissão de dados que acompanham os equipamentos . </text>
+                <arg f="" n="0">O bom uso de os modems e fax/modem </arg>
+                <rel f="">depende</rel>
+                <arg f="" n="1">de os programas para gerenciamento e transmissão de dados que acompanham os equipamentos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2606: Como julgar em consciência contratos escritos ou implícitos que dependem de uma moeda como meio de pagamento e de outra como unidade de conta ? </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">dependem</rel>
+                <arg f="" n="1">de uma moeda como meio de pagamento </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2366: Elas dependem em boa parte de emendas constitucionais , o_que está longe de ser simples de fazer . </text>
+                <arg f="" n="0">Elas </arg>
+                <rel f="">dependem</rel>
+                <arg f="ext" n="m">em boa parte </arg>
+                <arg f="" n="1">de emendas constitucionais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2132: « Pessoalmente prefiro um tribunal internacional a dependermos de os tribunais nacionais ( de Ruanda ) , que terão dificuldade em ser imparciais » , disse o professor de direito de a Costa_do_Marfim . </text>
+                <rel f="">dependermos</rel>
+                <arg f="" n="1">de os tribunais nacionais ( de Ruanda ) , que terão dificuldade em ser imparciais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1677: « Vai depender de o resultado . » </text>
+                <rel f="">depender</rel>
+                <arg f="" n="1">de o resultado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1051: O advogado Waldir_de_Arruda_Miranda_Carneiro , especializado em locação diz que a conversão espontânea pode ser interessante dependendo de a negociação entre as partes . </text>
+                <rel f="">dependendo</rel>
+                <arg f="" n="1">de a negociação entre as partes </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s881: Se depender de assinatura , terá longa vida o bar-café todo envidraçado que estréia este mês dentro_de a Livraria_da_Vila </text>
+                <rel f="">depender</rel>
+                <arg f="" n="1">de assinatura </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

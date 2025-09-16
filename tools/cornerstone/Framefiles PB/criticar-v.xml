@@ -1,0 +1,108 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="criticar">
+        <roleset framnet="criticize.01" id="criticar.01"
+            name="expor opinião sobre (normalmente negativa)" vncls="33">
+            <roles>
+                <role descr="critic" n="0">
+                    <vnrole vncls="33" vntheta="Agent"/>
+                </role>
+                <role descr="entity being criticized" n="1">
+                    <vnrole vncls="33" vntheta="Theme"/>
+                </role>
+                <role descr="on what grounds?" n="2">
+                    <vnrole vncls="33" vntheta="Cause"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4126: Em a semana passada , o jogador Buchwald criticou a escalação de Matthaeus como líbero , pedindo que ele jogasse em o meio-campo . </text>
+                <arg f="tmp" n="m">Em a semana passada </arg>
+                <arg f="" n="0">o jogador Buchwald </arg>
+                <rel f="">criticou</rel>
+                <arg f="" n="1">a escalação de Matthaeus </arg>
+                <arg f="prd" n="m">como líbero </arg>
+                <arg f="mnr" n="m">pedindo que ele jogasse em o meio-campo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3907: O caso Effenberg , jogador cortado por ter feito gesto obsceno a a torcida , também foi criticado . </text>
+                <arg f="" n="1">Effenberg </arg>
+                <arg f="prd" n="m">jogador cortado por ter feito gesto obsceno a a torcida </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">criticado</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2823: Os deputados que negociam o plano de estabilização econômica de o governo criticaram o ministro Fernando_Henrique_Cardoso , que admitiu ontem a possibilidade de disputar a Presidência de a República . </text>
+                <arg f="" n="0">Os deputados que negociam o plano de estabilização econômica de o governo </arg>
+                <rel f="">criticaram</rel>
+                <arg f="" n="1">o ministro Fernando_Henrique_Cardoso , que admitiu ontem a possibilidade de disputar a Presidência de a República </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2817: Suas atribuições são criticar o jornal sob a perspectiva de o leitor recebendo e checando as reclamações que ele encaminha a a Redação e comentar , a os domingos , o noticiário de os meios de comunicação . </text>
+                <rel f="">criticar</rel>
+                <arg f="" n="1">o jornal </arg>
+                <arg f="mnr" n="m">sob a perspectiva de o leitor </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1272: Criticou a Fifa até por as diretrizes sobre suprimento de água durante as partidas . </text>
+                <rel f="">Criticou</rel>
+                <arg f="" n="1">a Fifa </arg>
+                <arg f="" n="2">até por as diretrizes sobre suprimento de água durante as partidas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1134: Não estamos concluindo que este comportamento é intencional , mas sim que há uma forte predisposição cultural ( preconceito ) em criticar o Legislativo antes mesmo de conhecer tudo que cerca algumas decisões . </text>
+                <rel f="">criticar</rel>
+                <arg f="" n="1">o Legislativo </arg>
+                <arg f="tmp" n="m">antes mesmo de conhecer tudo que cerca algumas decisões </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1125: Adelaide critica Emília por esta sair pouco de casa e , em_seguida , deixa a sala irritada por a pouca atenção que lhe é dispensada por a mãe . </text>
+                <arg f="" n="0">Adelaide </arg>
+                <rel f="">critica</rel>
+                <arg f="" n="1">Emília </arg>
+                <arg f="" n="2">por esta sair pouco de casa </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s691: A nova reivindicação irritou os partidos favoráveis a a revisão , que criticaram a proposta . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">criticaram</rel>
+                <arg f="" n="1">a proposta </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s563: A o visitar a ponte rodoferroviária de Rubinéia , criticou o deputado quercista Alberto_Goldman ( PMDB-SP ) , ex- ministro de os Transportes . </text>
+                <arg f="tmp" n="m">A o visitar a ponte rodoferroviária de Rubinéia </arg>
+                <rel f="">criticou</rel>
+                <arg f="" n="1">o deputado quercista Alberto_Goldman ( PMDB-SP ) , ex- ministro de os Transportes </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

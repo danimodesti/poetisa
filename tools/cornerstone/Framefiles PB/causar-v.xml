@@ -1,0 +1,140 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="causar">
+        <roleset framnet="cause.01" id="causar.01"
+            name="provocar; ser a causa de" vncls="27">
+            <roles>
+                <role descr="forcer, causer" n="0">
+                    <vnrole vncls="27" vntheta="Theme1"/>
+                </role>
+                <role descr="impelled action" n="1">
+                    <vnrole vncls="27" vntheta="Theme2"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4026: Julie_Halard causa a primeira surpresa de o Masters de o tênis feminino </text>
+                <arg f="" n="0">Julie_Halard </arg>
+                <rel f="">causa</rel>
+                <arg f="" n="1">a primeira surpresa de o Masters de o tênis feminino </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3982: Causou má impressão , em a quarta , a participação de o ministro de a Justiça , Alexandre_Dupeyrat , em a reunião que tratou de o projeto sobre abuso de o poder econômico . </text>
+                <rel f="">Causou</rel>
+                <arg f="" n="1">má impressão </arg>
+                <arg f="tmp" n="m">em a quarta </arg>
+                <arg f="" n="0">a participação de o ministro de a Justiça , Alexandre_Dupeyrat , em a reunião que tratou de o projeto sobre abuso de o poder econômico </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3703: O acidente causou a morte de o menino René_Scorsa , que estava em o Logus dirigido por Sérgio_Duran , 33 , que bateu em o caminhão . </text>
+                <arg f="" n="0">O acidente </arg>
+                <rel f="">causou</rel>
+                <arg f="" n="1">a morte de o menino René_Scorsa , que estava em o Logus dirigido por Sérgio_Duran , 33 , que bateu em o caminhão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3701: Caminhão tomba e causa morte e engarrafamento </text>
+                <arg f="" n="0">Caminhão </arg>
+                <rel f="">causa</rel>
+                <arg f="" n="1">morte e engarrafamento </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3464: Seu álbum de estréia , lançado em o último verão americano , causou pouco ou nenhum impacto em a parada . </text>
+                <arg f="" n="0">Seu álbum de estréia , lançado em o último verão americano , </arg>
+                <rel f="">causou</rel>
+                <arg f="" n="1">pouco ou nenhum impacto em a parada </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3402: Em Física , ganhou a Agência_Meteorológica_Japonesa por um estudo de sete anos sobre a hipótese de terremotos serem causados por peixes rebolando suas caudas . </text>
+                <arg f="" n="1">terremotos </arg>
+                <rel f="">causados</rel>
+                <arg f="" n="0">por peixes rebolando suas caudas </arg>
+                <note>na passiva </note>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3378: O apelo pop de o evento já está causando reações . </text>
+                <arg f="" n="0">O apelo pop de o evento </arg>
+                <arg f="adv" n="m">já </arg>
+                <rel f="">causando</rel>
+                <arg f="" n="1">reações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2349: Um novo protocolo desenvolvido por um grupo de médicos de quatro instituições públicas de São_Paulo está trazendo para o Brasil o Interferon_Beta , para o tratamento de pacientes com esclerose múltipla ( doença degenerativa que causa enrijecimento muscular , debilidade de as funções motoras e perda parcial de a visão ) . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">causa</rel>
+                <arg f="" n="1">enrijecimento muscular , debilidade de as funções motoras e perda parcial de a visão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2079: A obra vai causar um impacto tão grande em a região que deve ser analisada por o Estado » , disse Horácio_Galvanese , de o Pinheiros_Vivo . </text>
+                <arg f="" n="0">A obra </arg>
+                <rel f="">causar</rel>
+                <arg f="loc" n="m">em a região </arg>
+                <arg f="" n="1">um impacto tão grande que deve ser analisada por o Estado </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1750: O diretor de a DRFVAT , Leonilson_Ribeiro , disse que a presença de militares e policiais em as ruas causou a diminuição de o número de carros roubados e furtados . </text>
+                <arg f="" n="0">a presença de militares e policiais em as ruas </arg>
+                <rel f="">causou</rel>
+                <arg f="" n="1">a diminuição de o número de carros roubados e furtados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1285: 24 de novembro de 92 -- Um Boeing_737 , de a China_Southern_Airlines , bate em um morro pouco antes de aterrissar em a cidade turística de Guilin , causando a morte de 141 pessoas . </text>
+                <rel f="">causando</rel>
+                <arg f="" n="1">a morte de 141 pessoas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s117: O derramamento de óleo de o petroleiro Exxon_Váldez , em março de 1989 , causou estragos em o valor de US$ 286,8 milhões , segundo um júri em Anchorage ( Alaska ) . </text>
+                <arg f="" n="0">O derramamento de óleo de o petroleiro Exxon_Váldez </arg>
+                <arg f="tmp" n="m">em março de 1989 </arg>
+                <rel f="">causou</rel>
+                <arg f="" n="1">estragos em o valor de US$ 286,8 milhões </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s91: A seca que atingiu as áreas produtoras de grãos não deve causar grandes estragos em a safra 1994/95 . </text>
+                <arg f="" n="0">A seca que atingiu as áreas produtoras de grãos </arg>
+                <arg f="neg" n="m">não </arg>
+                <rel f="">causar</rel>
+                <arg f="" n="1">grandes estragos em a safra 1994/95 </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

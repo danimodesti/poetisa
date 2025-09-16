@@ -1,0 +1,61 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="expulsar">
+        <roleset framnet="expel.01" id="expulsar.01"
+            name="enxotar; mandar embora" vncls="10.1 10.2">
+            <roles>
+                <role descr="expeller, agent" n="0">
+                    <vnrole vncls="10.2" vntheta="Agent"/>
+                    <vnrole vncls="10.1" vntheta="Agent"/>
+                </role>
+                <role descr="entity expelled" n="1">
+                    <vnrole vncls="10.2" vntheta="Theme"/>
+                    <vnrole vncls="10.1" vntheta="Theme"/>
+                </role>
+                <role descr="expelled from" n="2">
+                    <vnrole vncls="10.2" vntheta="Source"/>
+                    <vnrole vncls="10.1" vntheta="Source"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3917: Documento de o Ministério_das_Relações_Exteriores de o Canadá , obtido por a Folha , dá apoio a o lobby ( grupo de pressão ) feito por a Embaixada de o Canadá junto a senadores e deputados brasileiros para que os canadenses sejam expulsos . </text>
+                <arg f="" n="1">os canadenses </arg>
+                <rel f="">expulsos</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2704: O partido expulsou ontem Walter_Queiroz por considerar que ele « faltou com a verdade » em o episódio de a dupla declaração de renda . </text>
+                <arg f="" n="0">O partido </arg>
+                <rel f="">expulsou</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="" n="1">Walter_Queiroz </arg>
+                <arg f="cau" n="m">por considerar que ele « faltou com a verdade » em o episódio de a dupla declaração de renda </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2702: PRN decide expulsar candidato a presidente </text>
+                <rel f="">expulsar</rel>
+                <arg f="" n="1">candidato a presidente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s80: Outra maneira de um partido forçar a substituição seria expulsar o candidato , com_base_em seu estatuto . </text>
+                <rel f="">expulsar</rel>
+                <arg f="" n="1">o candidato </arg>
+                <arg f="mnr" n="m">com_base_em seu estatuto </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

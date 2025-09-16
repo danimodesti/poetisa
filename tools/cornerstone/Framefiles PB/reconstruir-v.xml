@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reconstruir">
+        <roleset framnet="reconstruct.01" id="reconstruir.01"
+            name="reconstituir; construir de novo o que foi destruído" vncls="-">
+            <roles>
+                <role descr="rebuilder" n="0"/>
+                <role descr="former ruins" n="1"/>
+                <role descr="material, start state" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2024: A Ensec , brasileira , foi uma de as cinco empresas pré-qualificadas para participar de concorrência de US$ 11 milhões para reconstruir o sistema de segurança de o estacionamento de o World_Trade_Center , em Nova_York , destruído com a explosão de um carro-bomba . </text>
+                <rel f="">reconstruir</rel>
+                <arg f="loc" n="m">em Nova_York </arg>
+                <arg f="" n="1">o sistema de segurança de o estacionamento de o World_Trade_Center destruído com a explosão de um carro-bomba </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1479: A praça deveria ser reconstruída após a construção de o « Piscinão » . </text>
+                <arg f="" n="1">A praça </arg>
+                <rel f="">reconstruída</rel>
+                <arg f="tmp" n="m">após a construção de o « Piscinão » </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

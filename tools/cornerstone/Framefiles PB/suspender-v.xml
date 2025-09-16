@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="suspender">
+        <roleset framnet="suspend.01" id="suspender.01" name="interromper" vncls="-">
+            <roles>
+                <role descr="Agent" f="" n="0"/>
+                <role descr="Theme (action or object being stopped)" f="" n="1"/>
+                <role descr="attribute of arg1" f="" n="2"/>
+                <role descr="Instrument" f="" n="3"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s4130: Boutros-Ghali teme que as potências se retirem e suspendam sanções contra a Sérvia pondo em risco outras partes de a ex-Iugoslávia se o plano for aceito .</text>
+                <arg f="" n="0">as potências</arg>
+                <rel f="">suspendam</rel>
+                <arg f="" n="1">sanções contra a Sérvia</arg>
+                <arg f="adv" n="m">pondo em risco outras partes de a ex-Iugoslávia se o plano for aceito</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s2252: Lamentavelmente , mais_uma_vez , um país de o subcontinente sul-americano suspende as garantias de o Estado_de_Direito .</text>
+                <arg f="adv" n="m">Lamentavelmente</arg>
+                <arg f="tmp" n="m">mais_uma_vez</arg>
+                <arg f="" n="0">um país de o subcontinente sul-americano</arg>
+                <rel f="">suspende</rel>
+                <arg f="" n="1">as garantias de o Estado_de_Direito</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosC.s211: Em entrevista a a Folha , Angarita elogiou a iniciativa de o Sindicato de os Eletricitários de São_Paulo , que articulou uma ação judicial para tentar suspender a venda de ações de a Eletropaulo .</text>
+                <rel f="">suspender</rel>
+                <arg f="" n="1">a venda de ações de a Eletropaulo</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="suspend.01" id="suspender.02" name="punir alguém com a suspensão da frequência" vncls="-">
+            <roles>
+                <role descr="Agent" f="" n="0"/>
+                <role descr="Theme (action or object being stopped)" f="" n="1"/>
+                <role descr="attribute of arg1" f="" n="2"/>
+                <role descr="Instrument" f="" n="3"/>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s143: Caio entra em o lugar de Catê , caso ele seja suspenso hoje pela_manhã</text>
+                <arg f="" n="1">ele</arg>
+                <rel f="">suspenso</rel>
+                <arg f="tmp" n="m">hoje</arg>
+                <arg f="tmp" n="m">pela_manhã</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+    <note/>
+</predicate>
+    
+<note/>
+</frameset>

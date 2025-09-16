@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="imperar">
+        <roleset framnet="reign.01" id="imperar.01"
+            name="dominar; prevalecer" vncls="-">
+            <roles>
+                <role descr="entity reigning" n="0"/>
+                <role descr="empire" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3834: Era uma época em que os cariocas imperavam em campo e fora_de ele . </text>
+                <arg f="tmp" n="m">em que </arg>
+                <arg f="" n="0">os cariocas </arg>
+                <rel f="">imperavam</rel>
+                <arg f="loc" n="m">em campo e fora_de ele </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

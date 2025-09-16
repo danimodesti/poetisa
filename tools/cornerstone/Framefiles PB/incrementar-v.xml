@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="incrementar">
+        <roleset framnet="increment.01" id="incrementar.01"
+            name="aumentar" vncls="">
+            <roles>
+                <role descr="" n="">
+                    <vnrole vncls="" vntheta=""/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1082: Uma pesquisa de a Associação_Nacional_de_Agências_de_Viagens ( Abav ) revelou que o setor foi incrementado 29 % em média desde a implantação de o Plano_Real . </text>
+                <arg f="" n="1">o setor </arg>
+                <rel f="">incrementado</rel>
+                <arg f="" n="2">29 % em média </arg>
+                <arg f="tmp" n="m">desde a implantação de o Plano_Real </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

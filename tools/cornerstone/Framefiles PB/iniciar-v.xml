@@ -1,0 +1,93 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="iniciar">
+        <roleset framnet="start.01" id="iniciar.01" name="começar" vncls="55.1">
+            <roles>
+                <role descr="Agent" n="0">
+                    <vnrole vncls="55.1" vntheta="Agent"/>
+                </role>
+                <role descr="Theme(-Creation)" n="1">
+                    <vnrole vncls="55.1" vntheta="Theme"/>
+                </role>
+                <role descr="Instrument" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3947: A reprodução assistida está regulamentada em o Brasil desde novembro de 1992 , embora sua prática tenha sido iniciada oito anos antes . </text>
+                <arg f="" n="1">sua prática </arg>
+                <rel f="">iniciada</rel>
+                <arg f="tmp" n="m">oito anos antes </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3607: Apesar_de a declaração de os separatistas , o governo britânico continua disposto a iniciar as negociações com o Sinn_Fein , braço político de o IRA , antes de o Natal . </text>
+                <rel f="">iniciar</rel>
+                <arg f="" n="1">as negociações </arg>
+                <arg f="prd" n="m">com o Sinn_Fein , braço político de o IRA , </arg>
+                <arg f="tmp" n="m">antes de o Natal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2985: O produtor iniciou a colheita , em fevereiro passado , de 170 hectares de amendoim e 240 hectares de soja . </text>
+                <arg f="" n="0">O produtor </arg>
+                <rel f="">iniciou</rel>
+                <arg f="tmp" n="m">em fevereiro passado </arg>
+                <arg f="" n="1">a colheita de 170 hectares de amendoim e 240 hectares de soja </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2907: Comandado por o advogado Luiz_Antonio_Siqueira_Dias , o grupo defendeu as obras , que foram iniciadas recentemente . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">iniciadas</rel>
+                <arg f="tmp" n="m">recentemente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2130: A organização também iniciou um inquérito para averiguar o massacre de cerca_de 500 mil pessoas . </text>
+                <arg f="" n="0">A organização </arg>
+                <arg f="dis" n="m">também </arg>
+                <rel f="">iniciou</rel>
+                <arg f="" n="1">um inquérito para averiguar o massacre de cerca_de 500 mil pessoas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1815: Recentemente , o Banco_Mundial constituiu um grupo independente de inspeção para analisar queixas sobre seus projetos , iniciou uma nova política de informações e o Gatt organizou o primeiro seminário com a participação de ONGs . </text>
+                <arg f="" n="0">o Banco_Mundial </arg>
+                <rel f="">iniciou</rel>
+                <arg f="" n="1">uma nova política de informações </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1076: Última dica : não espere subir a o cesto de o balão para iniciar suas fotos . </text>
+                <rel f="">iniciar</rel>
+                <arg f="" n="1">suas fotos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s550: O grupo Pão-de-açúcar , 2ª maior rede de supermercados de o país , iniciou negociações para a aquisição de as 27 lojas G.Aronson , todas localizadas em São_Paulo . </text>
+                <arg f="" n="0">O grupo Pão-de-açúcar , 2ª maior rede de supermercados de o país , </arg>
+                <rel f="">iniciou</rel>
+                <arg f="" n="1">negociações para a aquisição de as 27 lojas G.Aronson , todas localizadas em São_Paulo </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

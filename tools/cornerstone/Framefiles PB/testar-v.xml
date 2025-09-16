@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="testar">
+        <roleset framnet="test.01" id="testar.01"
+            name="submeter a testes; experimentar" vncls="-">
+            <roles>
+                <role descr="examiner" n="0"/>
+                <role descr="examined" n="1"/>
+                <role descr="in search of, for what" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2232: Tecnologia de os EUA , que usa microorganismos devoradores de material orgânico , está sendo testada por a Petrobrás </text>
+                <arg f="" n="1">Tecnologia de os EUA , que usa microorganismos devoradores de material orgânico , </arg>
+                <rel f="">testada</rel>
+                <arg f="" n="0">por a Petrobrás </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1159: Juan_Manuel_Fangio , sobrinho de o argentino pentacampeão de Fórmula_1 , está testando em a Califórnia um novo protótipo que vai dar o_que falar em a Fórmula_Indy . </text>
+                <arg f="" n="0">Juan_Manuel_Fangio , sobrinho de o argentino pentacampeão de Fórmula_1 , </arg>
+                <rel f="">testando</rel>
+                <arg f="loc" n="m">em a Califórnia </arg>
+                <arg f="" n="1">um novo protótipo que vai dar o_que falar em a Fórmula_Indy </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

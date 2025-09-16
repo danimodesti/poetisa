@@ -1,0 +1,1977 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+        
+    <predicate lemma="dar_em_troca">
+                
+        <roleset framnet="exchange.01" id="dar.09" name="trocar" source="" vncls="13.6">
+                        
+            <roles>
+                                
+                <role descr="agent, entity trading" f="" n="0">
+                                        
+                    <vnrole vncls="13.6" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing being traded (away)" f="" n="1">
+                                        
+                    <vnrole vncls="13.6" vntheta="theme1"/>
+                                    
+                </role>
+                                
+                <role descr="other exchanger" f="" n="2"/>
+                                
+                <role descr="other item in exchange, price, or premium, traded for or at" f="" n="3">
+                                        
+                    <vnrole vncls="13.6" vntheta="theme2"/>
+                                    
+                </role>
+                                
+                <role descr="benefactive" f="" n="4"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2559: « Durante 15 dias , os bancos vão lhe dar reais em_troca de cruzeiros reais .</text>
+                                
+                <arg f="tmp" n="m">Durante 15 dias</arg>
+                                
+                <arg f="" n="0">os bancos</arg>
+                                
+                <arg f="" n="2">lhe</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">reais</arg>
+                                
+                <arg f="" n="3">de cruzeiros reais</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_calote">
+                
+        <roleset framnet="default.01" id="dar.22" name="não pagar; deixar de pagar" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="entity failing" f="" n="1"/>
+                                
+                <role descr="task" f="" n="2"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosE.s543: Em a sua defesa encaminhada ontem a o TSE , ela admitiu ter cometido um « erro de interpretação » em a produção de a reportagem em a_qual Franco afirma que o PT , caso ganhe as eleições presidenciais , pode dar « um calote em a dívida interna » .</text>
+                                
+                <arg f="" n="0">o PT</arg>
+                                
+                <arg f="adv" n="m">caso ganhe as eleições presidenciais</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="2">em a dívida interna »</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_tratos_à_bola">
+                
+        <roleset framnet="endeavor.01" id="dar.17" name="fazer esforço para" source="" vncls="-">
+                        
+            <roles>
+                                
+                <role descr="tryer, agent" f="" n="0"/>
+                                
+                <role descr="proposition" f="" n="1"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1068: Os agentes de turismo de o Japão estão dando tratos a a bola para novo tour em solo brasileiro .</text>
+                                
+                <rel f="">dando</rel>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_conta.01">
+                
+        <roleset framnet="" id="dar.04" name="ser capaz de" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="" f="" n="">
+                                        
+                    <vnrole vncls="" vntheta=""/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s3881: « Não damos conta de atendê- los .</text>
+                                
+                <arg f="neg" n="m">Não</arg>
+                                
+                <rel f="">damos</rel>
+                                
+                <arg f="" n="1">de atendê- los</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_de_ombros">
+                
+        <roleset framnet="" id="dar.23" name="gesto que significa &quot;não se importar&quot; ou &quot;ser indiferente a&quot;" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="" f="" n="">
+                                        
+                    <vnrole vncls="" vntheta=""/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s557: « Meu passado muito me orgulha » , dá de ombros Maciel .</text>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="0">Maciel</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar-se">
+                
+        <roleset framnet="occur.01" id="dar.05" name="ocorrer; acontecer" source="" vncls="48.3">
+                        
+            <roles>
+                                
+                <role descr="event" f="" n="1">
+                                        
+                    <vnrole vncls="48.3" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="benefactive" f="" n="2"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s3708: Enchentes dão- se por o país inteiro .</text>
+                                
+                <arg f="" n="1">Enchentes</arg>
+                                
+                <rel f="">dão-</rel>
+                                
+                <arg f="loc" n="m">por o país inteiro</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_conta">
+                
+        <roleset framnet="report.01" id="dar.16" name="relatar, contar" source="" vncls="29.1 37.7">
+                        
+            <roles>
+                                
+                <role descr="Reporter" f="" n="0">
+                                        
+                    <vnrole vncls="29.1" vntheta="agent"/>
+                                        
+                    <vnrole vncls="37.7" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing reported" f="" n="1">
+                                        
+                    <vnrole vncls="29.1" vntheta="predicate"/>
+                                        
+                    <vnrole vncls="37.7" vntheta="topic"/>
+                                    
+                </role>
+                                
+                <role descr="entity reported to" f="" n="2">
+                                        
+                    <vnrole vncls="29.1" vntheta="theme"/>
+                                        
+                    <vnrole vncls="37.7" vntheta="recipient"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosD.s1209: Não só a expectativa é de uma tramitação demorada até a decisão de o STJ o_que pode inviabilizar uma eventual candidatura Sarney por falta de tempo até as eleições , como também há informações dando conta de que o ex- presidente poderá em_breve anunciar seu apoio a Fernando_Henrique_Cardoso , de o PSDB .</text>
+                                
+                <rel f="">dando</rel>
+                                
+                <arg f="" n="1">de que o ex- presidente poderá em_breve anunciar seu apoio a Fernando_Henrique_Cardoso , de o PSDB</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s493: A demissão de o ministro é dada como praticamente certa .</text>
+                                
+                <arg f="" n="1">A demissão de o ministro</arg>
+                                
+                <rel f="">dada</rel>
+                                
+                <arg f="" n="2">como praticamente certa</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_início">
+                
+        <roleset framnet="initiate" id="dar.13" name="iniciar" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="" f="" n="">
+                                        
+                    <vnrole vncls="" vntheta=""/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s2255: Eleito em 1988 , o ex- presidente Carlos_Andrés_Pérez ( social-democrata ) encetou uma política econômica neoliberal que impôs sacrifícios a a população dando início a uma série de violentos protestos .</text>
+                                
+                <rel f="">dando</rel>
+                                
+                <arg f="" n="1">a uma série de violentos protestos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar">
+                
+        <roleset framnet="give.01" id="dar.08" name="Verbo suporte: aplicar gesto em alguém ou em algo" source="" vncls="13.1-1">
+                        
+            <roles>
+                                
+                <role descr="giver" f="" n="0">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing given" f="" n="1">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="entity given to" f="" n="2">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="recipient"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2975: Ele compensou em Aspen , dando um malho em aquela flor de nome Rosane , casualmente , na_frente_de fotógrafos .</text>
+                                
+                <rel f="">dando</rel>
+                                
+                <arg f="" n="1">um malho</arg>
+                                
+                <arg f="" n="2">em aquela flor de nome Rosane</arg>
+                                
+                <arg f="mnr" n="m">casualmente</arg>
+                                
+                <arg f="loc" n="m">na_frente_de fotógrafos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="make.01" id="dar.18" name="fazer" source="" vncls="26.1-1">
+                        
+            <roles>
+                                
+                <role descr="creator" f="" n="0">
+                                        
+                    <vnrole vncls="26.1-1" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="creation" f="" n="1">
+                                        
+                    <vnrole vncls="26.1-1" vntheta="product"/>
+                                    
+                </role>
+                                
+                <role descr="created-from, thing changed" f="" n="2">
+                                        
+                    <vnrole vncls="26.1-1" vntheta="material"/>
+                                    
+                </role>
+                                
+                <role descr="benefactive" f="" n="3">
+                                        
+                    <vnrole vncls="26.1-1" vntheta="beneficiary"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s904: Uma vez por mês , dá plantão em o fim-de-semana .</text>
+                                
+                <arg f="tmp" n="m">Uma vez por mês</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">plantão</arg>
+                                
+                <arg f="tmp" n="m">em o fim-de-semana</arg>
+                                
+            
+                <note>"dar plantão" equivale a "to be on duty" ou "to be on call"</note>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="" id="dar.15" name="considerar" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="" f="" n="">
+                                        
+                    <vnrole vncls="" vntheta=""/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s1584: Caio_Gorentzvaig , cotista de a Petroplastic , disse que o arresto cairá automaticamente quando seu pai , Boris , « se der por citado e oferecer bens imóveis a a penhora » .</text>
+                                
+                <arg f="" n="0">Boris</arg>
+                                
+                <arg f="" n="1">se</arg>
+                                
+                <rel f="">der</rel>
+                                
+                <arg f="" n="2">por citado</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="take.01" id="dar.06" name="executar" source="" vncls="10.5 11.3">
+                        
+            <roles>
+                                
+                <role descr="Taker" f="" n="0">
+                                        
+                    <vnrole vncls="10.5" vntheta="agent"/>
+                                        
+                    <vnrole vncls="11.3" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing taken" f="" n="1">
+                                        
+                    <vnrole vncls="10.5" vntheta="theme"/>
+                                        
+                    <vnrole vncls="11.3" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="entity taken from, or prepositional complement of arg1" f="" n="2">
+                                        
+                    <vnrole vncls="10.5" vntheta="source"/>
+                                        
+                    <vnrole vncls="11.3" vntheta="source"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s3629: Se o sr._Cedras não tomar os passos apropriados , nós vamos dizer em um clima de respeito que passos ele deve dar .</text>
+                                
+                <arg f="" n="1">que passos</arg>
+                                
+                <arg f="" n="0">ele</arg>
+                                
+                <rel f="">dar</rel>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2263: O Mogi_Mirim venceu ontem o União_São_João de Araras por 2 a 0 em Mogi e deu mais um passo para conquistar uma vaga em a Copa_Bandeirantes .</text>
+                                
+                <arg f="" n="0">O Mogi_Mirim</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">mais um passo para conquistar uma vaga em a Copa_Bandeirantes</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s589: Rio_De_Janeiro Aos_trancos_e_barrancos eis_que mais_uma_vez o país tenta dar um passo em_direção_a um futuro mais feliz .</text>
+                                
+                <arg f="" n="0">o país</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">um passo em_direção_a um futuro mais feliz</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="give.01" id="dar.07" name="verbo suporte: fornecer/conceder algo (sobre tópico) a alguém" source="" vncls="13.1-1">
+                        
+            <roles>
+                                
+                <role descr="giver" f="" n="0">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing given" f="" n="1">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="entity given to" f="" n="2">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="recipient"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s3084: George fazia a música , Ira a letra , embora , como em toda parceria , cada_qual desse palpites em a especialidade de o outro .</text>
+                                
+                <arg f="adv" n="m">como em toda parceria</arg>
+                                
+                <arg f="" n="0">cada_qual</arg>
+                                
+                <rel f="">desse</rel>
+                                
+                <arg f="" n="1">palpites em a especialidade de o outro</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="give.01" id="dar.01" name="Verbo pleno: fornecer, produzir, gerar, oferecer, proporcionar, conferir, atribuir" source="" vncls="13.1-1">
+                        
+            <roles>
+                                
+                <role descr="giver" f="" n="0">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing given" f="" n="1">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="entity given to" f="" n="2">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="recipient"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s3593: Parece que a Universidade_Yale , aquela que nos deu o inesquecível George_Bush , comprovou a existência de « superdegustadores » , ou_seja pessoas que possuem um número de papilas gustativas muito além_de o normal .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <arg f="" n="2">nos</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">o inesquecível George_Bush</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s3454: A famíla voltava para casa , em Americanópolis , depois de participar de casamento em a Barra_Funda e deu carona a amigos .</text>
+                                
+                <arg f="" n="0">A famíla</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">carona</arg>
+                                
+                <arg f="" n="2">a amigos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s3046: Vendendo cada sala especial para um patrocinador exclusivo , demos a ele um retorno muito mais palpável , com anúncios em meios de comunicação e o abatimento de impostos .</text>
+                                
+                <arg f="mnr" n="m">Vendendo cada sala especial para um patrocinador exclusivo</arg>
+                                
+                <rel f="">demos</rel>
+                                
+                <arg f="" n="2">a ele</arg>
+                                
+                <arg f="" n="1">um retorno muito mais palpável , com anúncios em meios de comunicação e o abatimento de impostos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s3021: « Ele reclamou de que não lhe pagariam o prometido , não lhe dariam um carro e que só bancariam seis meses de aluguel de sua casa e não os quatro anos , como esperava » , disse o dirigente .</text>
+                                
+                <arg f="neg" n="m">não</arg>
+                                
+                <arg f="" n="2">lhe</arg>
+                                
+                <rel f="">dariam</rel>
+                                
+                <arg f="" n="1">um carro</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2925: Apesar_de evitar dar um não definitivo , Marise deixou claro que deve recusar o convite de Brizola .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">um não definitivo</arg>
+                                
+            
+                <note>"dar um não" = recusar</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2803: Os quatro grandes jornais deram , em a segunda-feira , a mesma manchete para informar como acabou o Grande_Prêmio de o Brasil , que aconteceu domingo passado .</text>
+                                
+                <arg f="" n="0">Os quatro grandes jornais</arg>
+                                
+                <rel f="">deram</rel>
+                                
+                <arg f="tmp" n="m">em a segunda-feira</arg>
+                                
+                <arg f="" n="1">a mesma manchete</arg>
+                                
+                <arg f="pnc" n="m">para informar como acabou o Grande_Prêmio de o Brasil , que aconteceu domingo passado</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2712: O de 91 , tem bolhas finas , abundantes e persistentes , que lhe dão um paladar cremoso marcado como o aroma por um toque atraente de cascas cítricas e framboesa .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <arg f="" n="2">lhe</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">um paladar cremoso marcado como o aroma por um toque atraente de cascas cítricas e framboesa</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2661: Ele está me municiando e me dando o instrumental de que careço para imaginar a solução de os problemas de o Estado .</text>
+                                
+                <arg f="" n="0">Ele</arg>
+                                
+                <arg f="" n="2">me</arg>
+                                
+                <rel f="">dando</rel>
+                                
+                <arg f="" n="1">o instrumental de que careço para imaginar a solução de os problemas de o Estado</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s2594: A o saber que os militares pretendiam a democracia e o fim de a guerra colonial , os portugueses começaram a dar cravos a os soldados , que os colocavam em a ponta de os seus fuzis -- de aí o nome Revolução_dos_Cravos .</text>
+                                
+                <arg f="tmp" n="m">A o saber que os militares pretendiam a democracia e o fim de a guerra colonial</arg>
+                                
+                <arg f="" n="0">os portugueses</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">cravos</arg>
+                                
+                <arg f="" n="2">a os soldados , que os colocavam em a ponta de os seus fuzis -- de aí o nome Revolução_dos_Cravos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2457: Sem mencionar o nome , o próprio FHC deu crédito a Collor :</text>
+                                
+                <arg f="adv" n="m">Sem mencionar o nome</arg>
+                                
+                <arg f="" n="0">o próprio FHC</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">crédito</arg>
+                                
+                <arg f="" n="2">a Collor</arg>
+                                
+            
+                <note>neste caso "dar crédito a" = "acreditar", mas em outros casos poderia ser "emprestar dinheiro"</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s2440: Está visto que nem o conjunto , nem qualquer outra frase de ele , dá a a frase negada por Fernando_Henrique o sentido que ela tem por_si mesma .</text>
+                                
+                <arg f="" n="0">o conjunto , nem qualquer outra frase de ele</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="2">a a frase negada por Fernando_Henrique</arg>
+                                
+                <arg f="" n="1">o sentido que ela tem por_si mesma</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosD.s2412: Agora suponha que a economia toda vire um bando de gente que ganha mesada e de gente que dá mesada .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">mesada</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1738: « Weber deu maior profundidade a a equipe .</text>
+                                
+                <arg f="" n="0">Weber</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">maior profundidade</arg>
+                                
+                <arg f="" n="2">a a equipe</arg>
+                                
+            
+                <note>leve alteração de sentido: "a presença de Weber proporcionou maior profundidade à equipe"</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s1675: « Em o último jogo , nós teremos um prazer , ou de sermos campeões ou de dar o título a o São_Paulo » , garantiu Moacir .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">o título</arg>
+                                
+                <arg f="" n="2">a o São_Paulo</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1578: Essa decisão deverá dar mais_de US$ 12 bilhões a o FSE , só com tributos que pertencem a a União .</text>
+                                
+                <arg f="" n="0">Essa decisão</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">mais_de US$ 12 bilhões</arg>
+                                
+                <arg f="" n="2">a o FSE</arg>
+                                
+                <arg f="mnr" n="m">só com tributos que pertencem a a União</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s1159: Juan_Manuel_Fangio , sobrinho de o argentino pentacampeão de Fórmula_1 , está testando em a Califórnia um novo protótipo que vai dar o_que falar em a Fórmula_Indy .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">o_que falar em a Fórmula_Indy</arg>
+                                
+            
+                <note>dar o que falar = dar assunto para as pessoas comentarem</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1048: Dão cobertor ? »</text>
+                                
+                <rel f="">Dão</rel>
+                                
+                <arg f="" n="1">cobertor</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1046: « Eles dão comida para a gente em esse lugar ?</text>
+                                
+                <arg f="" n="0">Eles</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">comida</arg>
+                                
+                <arg f="" n="2">para a gente</arg>
+                                
+                <arg f="loc" n="m">em esse lugar</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1005: Esta armação dá a a equipe um caráter excessivamente defensivo , o_que desagrada a aqueles que esperam de a seleção brasileira um futebol alegre , sempre visando a o gol .</text>
+                                
+                <arg f="" n="0">Esta armação</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="2">a a equipe</arg>
+                                
+                <arg f="" n="1">um caráter excessivamente defensivo</arg>
+                                
+            
+                <note>leve alteração de sentido: proporcionar</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s936: Daria a mesma nota para ele e para o Rossi .</text>
+                                
+                <rel f="">Daria</rel>
+                                
+                <arg f="" n="1">a mesma nota</arg>
+                                
+                <arg f="" n="2">para ele e para o Rossi</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s842: Vidros e janelas dão transparência a a casa e facilitam a entrada de o ar .</text>
+                                
+                <arg f="" n="0">Vidros e janelas</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">transparência</arg>
+                                
+                <arg f="" n="2">a a casa</arg>
+                                
+            
+                <note>leve alteração de sentido: proporcionar</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s828: O de a advogada Zilda ( não quis dar o sobrenome ) , 49 , veio junto_com uma carta dizendo que seu visto foi recusado .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="2">o sobrenome</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s412: A verdade , porém , não dá cartas nem votos .</text>
+                                
+                <arg f="" n="0">A verdade</arg>
+                                
+                <arg f="dis" n="m">porém</arg>
+                                
+                <arg f="neg" n="m">não</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">cartas nem votos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s301: Por as razões alinhadas , que não refletem apenas conjeturas teóricas , mas a experiência duramente vivida por a nação em as últimas duas décadas , se impõe dar um basta definitivo a todos os remanescentes de indexação formal , sejam eles em as taxas de juros nominais ( TR ) , em o recolhimento de os tributos ( Ufir e correlatos ) e em os salários ( IPC-r ) .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">um basta definitivo</arg>
+                                
+                <arg f="" n="2">a todos os remanescentes de indexação formal , sejam eles em as taxas de juros nominais ( TR ) , em o recolhimento de os tributos ( Ufir e correlatos ) e em os salários ( IPC-r )</arg>
+                                
+            
+                <note>"dar um basta" significa "to stop"</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s238: Apesar_de morarem aqui de o lado em Miami , Teresa e Emerson_Fittipaldi não dão nem tchuns para a Copa .</text>
+                                
+                <arg f="" n="0">Teresa e Emerson_Fittipaldi</arg>
+                                
+                <arg f="neg" n="m">não</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">nem tchuns</arg>
+                                
+                <arg f="" n="2">para a Copa</arg>
+                                
+            
+                <note>"não dar nem tchuns" = "não dar bola" = "não se importar"</note>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="give.01" id="dar.02" name="Verbo Suporte (Arg1 é sempre um nome eventivo)" source="" vncls="13.1-1">
+                        
+            <roles>
+                                
+                <role descr="giver" f="" n="0">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing given" f="" n="1">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="entity given to" f="" n="2">
+                                        
+                    <vnrole vncls="13.1-1" vntheta="recipient"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s4209: As sinalizações que tem dado o presidente eleito , Fernando_Henrique_Cardoso , sobre a reforma patrimonial de o Estado são auspiciosas .</text>
+                                
+                <arg f="" n="1">que</arg>
+                                
+                <rel f="">dado</rel>
+                                
+                <arg f="" n="0">o presidente eleito , Fernando_Henrique_Cardoso ,</arg>
+                                
+                <arg f="" n="4">sobre a reforma patrimonial de o Estado</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s4148: A lei de o Estado de a Califórnia dá a o juiz de cada caso autoridade para impedir a presença de câmaras em o tribunal Se achar que ela prejudica a Justiça .</text>
+                                
+                <arg f="" n="0">A lei de o Estado de a Califórnia</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="2">a o juiz de cada caso</arg>
+                                
+                <arg f="" n="1">autoridade para impedir a presença de câmaras em o tribunal</arg>
+                                
+                <arg f="adv" n="m">Se achar que ela prejudica a Justiça</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s4060: « Ele foi mais direto , mais atacante , deu respostas mais profundas e melhores .</text>
+                                
+                <arg f="" n="0">Ele</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">respostas mais profundas e melhores</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s4051: A falta de um programa poderia dar a impressão de não ter metas .</text>
+                                
+                <arg f="" n="0">A falta de um programa</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">a impressão de não ter metas</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosD.s4049: Mesmo entendendo suas explicações sobre o programa de governo , entendo que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">um meio de cobrar depois</arg>
+                                
+            
+                <note>leve alteração de sentido: proporcionar</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s4032: O candidato tucano a presidente deu essa declaração ontem a a tarde , depois de discursar para cerca_de 550 empresários em a hora de o almoço ( leia texto em esta página ) .</text>
+                                
+                <arg f="" n="0">O candidato tucano a presidente</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">essa declaração</arg>
+                                
+                <arg f="tmp" n="m">ontem a a tarde</arg>
+                                
+                <arg f="tmp" n="m">depois de discursar para cerca_de 550 empresários em a hora de o almoço</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s3919: « Queremos dar um visto por dez anos .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">um visto</arg>
+                                
+                <arg f="prd" n="m">por dez anos</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s3816: Arnold_Schwarzenegger deu entrevistas como ator principal , foi substituído por Bruce_Willis há dois anos , mas o projeto nunca saiu de o papel .</text>
+                                
+                <arg f="" n="0">Arnold_Schwarzenegger</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">entrevistas</arg>
+                                
+                <arg f="prd" n="m">como ator principal</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s3689: Tomado de_surpresa , Santana deu um sorriso amarelo , mas logo recuperou- se :</text>
+                                
+                <arg f="prd" n="m">Tomado de_surpresa</arg>
+                                
+                <arg f="" n="0">Santana</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">um sorriso amarelo</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s3481: A o se oferecer para intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa .</text>
+                                
+                <arg f="" n="0">a Rússia</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="2">a os seus aliados sérvios</arg>
+                                
+                <arg f="" n="1">a possibilidade de uma retirada honrosa</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s3350: « A_Interpretação_dos_Sonhos » , um de os textos fundadores de a psicanálise , apresenta toda uma tropologia de o ato de sonhar e dá a base para uma poética que combina a teoria de a tropologia com a noção de a invenção poética .</text>
+                                
+                <arg f="" n="0">« A_Interpretação_dos_Sonhos » , um de os textos fundadores de a psicanálise ,</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">a base para uma poética que combina a teoria de a tropologia com a noção de a invenção poética</arg>
+                                
+            
+                <note>"dar base para" = embasar; não anotei como CP por ser equivalente a "to give support"</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosE.s3079: O tema de Julia_Child era uma simples quiche , mas era político : mostrar a os paranóicos americanos que o ovo e a manteiga fazem pratos deliciosos e que a patrulha de o colesterol deve dar espaço a o prazer de a comida .</text>
+                                
+                <arg f="" n="0">a patrulha de o colesterol</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">espaço</arg>
+                                
+                <arg f="" n="2">a o prazer de a comida</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosD.s2846: Como a peça trata de religião , de misticismo , achamos que devíamos usar muitos troncos , dar uma verticalidade , o_que tem a ver com a ascensão etc .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">uma verticalidade</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2765: O substitutivo dá a os ministérios de a Fazenda e Justiça poder de pedir intervenção judicial em as empresas acusadas de praticar aumento injustificado de preços .</text>
+                                
+                <arg f="" n="0">O substitutivo</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="2">a os ministérios de a Fazenda e Justiça</arg>
+                                
+                <arg f="" n="1">poder de pedir intervenção judicial em as empresas acusadas de praticar aumento injustificado de preços</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2677: Independente de a idade , tem que dar uma punição séria . »</text>
+                                
+                <arg f="adv" n="m">Independente de a idade</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">uma punição séria</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2148: A operação dará um desconto inicial de US$ 4,3 bilhões sobre o valor de o débito .</text>
+                                
+                <arg f="" n="0">A operação</arg>
+                                
+                <rel f="">dará</rel>
+                                
+                <arg f="" n="1">um desconto inicial de US$ 4,3 bilhões sobre o valor de o débito</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2037: Escolas dão orientação vocacional a preço baixo</text>
+                                
+                <arg f="" n="0">Escolas</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">orientação vocacional</arg>
+                                
+                <arg f="mnr" n="m">a preço baixo</arg>
+                                
+            
+                <note>cuidado para não confundir "a preço baixo" com arg2!</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2004: « Nós não vamos dar corda a o debate rasteiro » , acrescentou o presidente de o PT , que acha improvável o STF permitir a candidatura de José_Sarney por um partido que não seja o PMDB .</text>
+                                
+                <arg f="" n="0">Nós</arg>
+                                
+                <arg f="neg" n="m">não</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">corda</arg>
+                                
+                <arg f="" n="2">a o debate rasteiro</arg>
+                                
+            
+                <note>"dar corda a"  significa "estimular", mas "dar corda em" significa "carregar de energia manualmente" (relógios e brinquedos movidos a corda)</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s1883: Claro , é a única que lhe dá garantia de ir até a Copa de 98 !</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <arg f="" n="2">lhe</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">garantia de ir até a Copa de 98</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s1794: Voltado para usuários leigos e avançados , os 13 capítulos dão dicas para aproveitar melhor os recursos de o sistema operacional de a Microsoft .</text>
+                                
+                <arg f="prd" n="m">Voltado para usuários leigos e avançados</arg>
+                                
+                <arg f="" n="0">os 13 capítulos</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">dicas para aproveitar melhor os recursos de o sistema operacional de a Microsoft</arg>
+                                
+            
+                <note>não confunda o argumento do nome "dica" com o arg2 do verbo "dar"</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s1473: Francisco_Lafayette , administrador de o Banco_Banorte , diz as cadernetas estão com rendimento atraente , mas que os fundos de commodities dão a vantagem adicional de o resgate diário com rentabilidade a_partir_de a carência de 30 dias .</text>
+                                
+                <arg f="" n="0">os fundos de commodities</arg>
+                                
+                <rel f="">dão</rel>
+                                
+                <arg f="" n="1">a vantagem adicional de o resgate diário com rentabilidade a_partir_de a carência de 30 dias</arg>
+                                
+            
+                <note>leve mudança de sentido: proporcionar</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s1433: Em a chegada de o ano em que disputará uma vaga em o Senado por o PP-SP , deu mais_de duas dezenas de entrevistas , posou para fotos , e deixou 1993 em as emissoras de rádio e TV .</text>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">mais_de duas dezenas de entrevistas</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s890: O festival itinerante , que acontecerá em Santos , Rio_de_Janeiro ( em o domingo ) , Capão_da_Canoa ( RS , dia 21 ) e Florianópolis ( dia 23 ) , dá o tom a a primeira etapa de shows de este ano , marcada por o reggae , novas e antigas bandas nacionais e atrações étnicas e/ou regionais</text>
+                                
+                <arg f="" n="0">O festival itinerante , que acontecerá em Santos , Rio_de_Janeiro ( em o domingo ) , Capão_da_Canoa ( RS , dia 21 ) e Florianópolis ( dia 23 ) ,</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">o tom</arg>
+                                
+                <arg f="" n="2">a a primeira etapa de shows de este ano , marcada por o reggae , novas e antigas bandas nacionais e atrações étnicas e/ou regionais</arg>
+                                
+            
+                <note>leve alteração de sentido: proporcionar</note>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s783: A polícia deu ordem para prender mais sete pessoas suspeitas de envolvimento .</text>
+                                
+                <arg f="" n="0">A polícia</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">ordem para prender mais sete pessoas suspeitas de envolvimento</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosD.s758: Cite uma cantora de a bossa_nova ou estrela de a televisão de os anos 60 e há poucas chances de que ele não a tenha namorado sempre dando a impressão de que fazia isto por tarefa .</text>
+                                
+                <rel f="">dando</rel>
+                                
+                <arg f="" n="1">a impressão de que fazia isto por tarefa</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s665: « O Rio sempre foi um lugar que deu exemplo para o Brasil » , disse o corregedor eleitoral , tentando desfazer o caráter de « intervenção branca » atribuído a a sua viagem a o Rio_de_Janeiro .</text>
+                                
+                <arg f="" n="0">que</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">exemplo</arg>
+                                
+                <arg f="" n="2">para o Brasil</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s584: « O editor de a revista me telefonou e deu a idéia .</text>
+                                
+                <arg f="" n="0">O editor de a revista</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">a idéia</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s578: Me deram uma licença de dois anos , acreditavam que o exílio ia me neutralizar .</text>
+                                
+                <arg f="" n="2">Me</arg>
+                                
+                <rel f="">deram</rel>
+                                
+                <arg f="" n="1">uma licença de dois anos , acreditavam que o exílio ia me neutralizar</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s297: O candidato deu rápida entrevista em o saguão de o aeroporto e dirigiu- se a o Hotel_Delmonicos , em a Park_Avenue , em Manhattan , onde a diária é de US$ 195 ( CR$ 253 mil ) em o fim_de_semana e US$ 250 ( CR$ 325 mil ) de segunda a sexta-feira .</text>
+                                
+                <arg f="" n="0">O candidato</arg>
+                                
+                <rel f="">deu</rel>
+                                
+                <arg f="" n="1">rápida entrevista</arg>
+                                
+                <arg f="loc" n="m">em o saguão de o aeroporto</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosB.s171: Sendo assim , não podemos dar nosso apoio aberto » , explicou .</text>
+                                
+                <arg f="dis" n="m">Sendo assim</arg>
+                                
+                <arg f="neg" n="m">não</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">nosso apoio aberto</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="" id="dar.11" name="Verbo suporte + um(a) + particípio passado (inclusive no diminutivo): executar uma ação de forma rápida ou superficial" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="" f="" n="">
+                                        
+                    <vnrole vncls="" vntheta=""/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s2325: E como ninguém é de ferro e Orlando fica perto , duas horas e meia de avião , a turma depois dá uma passadinha para um milk_shake com Mickey e Pateta .</text>
+                                
+                <arg f="" n="0">a turma</arg>
+                                
+                <arg f="tmp" n="m">depois</arg>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="" n="1">uma passadinha para um milk_shake com Mickey e Pateta</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s2038: Quem ainda não escolheu sua carreira ou sonha dar uma guinada em a vida profissional pode recorrer a os serviços de orientação vocacional oferecidos por algumas instituições em São_Paulo .</text>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">uma guinada em a vida profissional</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+        
+        <roleset framnet="result.01" id="dar.03" name="resultar em" source="" vncls="48.1.1">
+                        
+            <roles>
+                                
+                <role descr="Theme, prior condition" f="" n="1">
+                                        
+                    <vnrole vncls="48.1.1" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="Goal, end condition" f="" n="2">
+                                        
+                    <vnrole vncls="48.1.1" vntheta="location"/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s4071: Miranda -- Em_relação_a mim isso não vai dar absolutamente em nada .</text>
+                                
+                <arg f="dis" n="m">Miranda</arg>
+                                
+                <arg f="adv" n="m">Em_relação_a mim</arg>
+                                
+                <arg f="neg" n="m">não</arg>
+                                
+                <rel f="">dar</rel>
+                                
+                <arg f="" n="1">absolutamente em nada</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_certo">
+                
+        <roleset framnet="succeed.01" id="dar.12" name="funcionar; ser bem sucedido" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="entity succeeding" f="" n="0"/>
+                                
+                <role descr="task" f="" n="1"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s2297: O governador acrescentou que pedirá a o Nosso_Senhor_do_Bonfim para que o plano dê certo .</text>
+                                
+                <arg f="" n="1">o plano</arg>
+                                
+                <rel f="">dê</rel>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2236: Os testes de laboratório deram certo , e agora a empresa se prepara para comercializar essa « mini-usina tratadora de esgotos » .</text>
+                                
+                <arg f="" n="1">Os testes de laboratório</arg>
+                                
+                <rel f="">deram</rel>
+                                
+            
+                <note/>
+            </example>
+                        
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s2137: « Se isso der certo , o Lessa joga em o lixo sua credibilidade , mas sem Bulhões ele fica sem apoio em o interior e perde a eleição . »</text>
+                                
+                <arg f="" n="1">isso</arg>
+                                
+                <rel f="">der</rel>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar_errado">
+                
+        <roleset framnet="fail.01" id="dar.21" name="falhar; não funcionar" source="" vncls="74-2">
+                        
+            <roles>
+                                
+                <role descr="assessor of not failing (professor)" f="" n="0">
+                                        
+                    <vnrole vncls="74-2" vntheta="agent"/>
+                                    
+                </role>
+                                
+                <role descr="thing failing" f="" n="1">
+                                        
+                    <vnrole vncls="74-2" vntheta="theme"/>
+                                    
+                </role>
+                                
+                <role descr="task" f="" n="2"/>
+                                
+                <role descr="benefactive" f="" n="3"/>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosA.s385: Lula cresceu e prosperou enquanto tudo dava errado em o país .</text>
+                                
+                <arg f="" n="1">tudo</arg>
+                                
+                <rel f="">dava</rel>
+                                
+                <arg f="loc" n="m">em o país</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+    <predicate lemma="dar-se_mal">
+                
+        <roleset framnet="" id="dar.10" name="ser mal sucedido" source="" vncls="">
+                        
+            <roles>
+                                
+                <role descr="" f="" n="">
+                                        
+                    <vnrole vncls="" vntheta=""/>
+                                    
+                </role>
+                                
+            
+                <note/>
+            </roles>
+                        
+            <example name="" src="corpus Propbank-Br" type="">
+                                
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                                
+                <text>bosC.s2373: « Chega de violência $/ Quero ver é gol de placa $/ Todo_mundo se dá mal $/ Por meia_dúzia de babacas . »</text>
+                                
+                <rel f="">dá</rel>
+                                
+                <arg f="cau" n="m">Por meia_dúzia de babacas</arg>
+                                
+            
+                <note/>
+            </example>
+                        
+        
+            <note/>
+        </roleset>
+                
+    
+        <note/>
+    </predicate>
+        
+
+    <note/>
+</frameset>

@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="reajustar">
+        <roleset framnet="readjust.01" id="reajustar.01"
+            name="alterar; adequar" vncls="">
+            <roles>
+                <role descr="agent, readjuster" n="0"/>
+                <role descr="theme, thing being adjusted" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3850: « De o ponto de vista de proteção a o consumidor , vou reajustar o preço de a tarifa pública em o dia normal como_se ela fosse URV . </text>
+                <arg f="adv" n="m">De o ponto de vista de proteção a o consumidor </arg>
+                <rel f="">reajustar</rel>
+                <arg f="" n="1">o preço de a tarifa pública em o dia normal </arg>
+                <arg f="mnr" n="m">como_se ela fosse URV </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1501: Em esse caso , embora o valor de o aluguel de o imóvel fique fixo por 12 meses , os de a garagem e de o telefone podem ser reajustados até_mesmo mensalmente . </text>
+                <arg f="dis" n="m">Em esse caso </arg>
+                <arg f="adv" n="m">embora o valor de o aluguel de o imóvel fique fixo por 12 meses </arg>
+                <arg f="" n="1">os de a garagem e de o telefone </arg>
+                <rel f="">reajustados</rel>
+                <arg f="tmp" n="m">até_mesmo mensalmente </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

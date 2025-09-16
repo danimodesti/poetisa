@@ -1,0 +1,51 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="devolver">
+        <roleset framnet="return.02" id="devolver.01"
+            name="dar de volta; retornar" vncls="11.1 13.2">
+            <roles>
+                <role descr="giver" n="0">
+                    <vnrole vncls="11.1" vntheta="Agent"/>
+                    <vnrole vncls="13.2" vntheta="Agent"/>
+                </role>
+                <role descr="thing given" n="1">
+                    <vnrole vncls="11.1" vntheta="Theme"/>
+                    <vnrole vncls="13.2" vntheta="Theme"/>
+                </role>
+                <role descr="entity given to" n="2">
+                    <vnrole vncls="11.1" vntheta="Destination"/>
+                    <vnrole vncls="13.2" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s4123: Só isso foi devolvido para a Riachuelo . </text>
+                <arg f="" n="1">Só isso </arg>
+                <rel f="">devolvido</rel>
+                <arg f="" n="2">para a Riachuelo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s3609: Mayhew disse que o IRA poderia demonstrar que realmente não autorizou a operação de Newry devolvendo os US$ 210 mil levados durante o assalto . </text>
+                <rel f="">devolvendo</rel>
+                <arg f="" n="1">os US$ 210 mil levados durante o assalto </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s827: As férias em os EUA podem terminar em o balcão de o consulado , onde o passaporte é devolvido a as 16h . </text>
+                <arg f="" n="1">o passaporte </arg>
+                <rel f="">devolvido</rel>
+                <arg f="tmp" n="m">a as 16h </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

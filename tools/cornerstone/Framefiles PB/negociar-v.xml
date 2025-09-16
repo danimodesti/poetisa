@@ -1,0 +1,239 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="negociar">
+        <roleset framnet="negotiate.01" id="negociar.01"
+            name="tentar entrar em acordo" vncls="36.1">
+            <roles>
+                <role descr="negotiator" n="0">
+                    <vnrole vncls="36.1" vntheta="Actor1"/>
+                </role>
+                <role descr="explicit other party" n="1">
+                    <vnrole vncls="36.1" vntheta="Actor2"/>
+                </role>
+                <role descr="agreement" n="2">
+                    <vnrole vncls="36.1" vntheta="Topic"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4129: O secretário-geral de o Conselho_de_Segurança de a ONU , Boutros_Boutros-Ghali , pediu que as potências que negociam um tratado de paz com as facções em luta em a Bósnia formem uma força-tarefa para agir em a região . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">negociam</rel>
+                <arg f="" n="1">um tratado de paz com as facções em luta em a Bósnia </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3832: A solução foi negociar diretamente com os jogadores . </text>
+                <rel f="">negociar</rel>
+                <arg f="mnr" n="m">diretamente </arg>
+                <arg f="" n="1">com os jogadores </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3812: Ainda em a Inglaterra , Spielberg negocia os direitos de a série de « TV_Doctor_Who » . </text>
+                <arg f="loc" n="m">Ainda em a Inglaterra </arg>
+                <arg f="" n="0">Spielberg </arg>
+                <rel f="">negocia</rel>
+                <arg f="" n="2">os direitos de a série de « TV_Doctor_Who » </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3790: Dallari orientou os produtores a negociarem com a indústria . </text>
+                <rel f="">negociarem</rel>
+                <arg f="" n="1">com a indústria </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2823: Os deputados que negociam o plano de estabilização econômica de o governo criticaram o ministro Fernando_Henrique_Cardoso , que admitiu ontem a possibilidade de disputar a Presidência de a República . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">negociam</rel>
+                <arg f="" n="2">o plano de estabilização econômica de o governo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2173: Diretor de ' Lanternas_Vermelhas ' permanece em a China para negociar com as autoridades a liberação de ' Viver ! ' </text>
+                <rel f="">negociar</rel>
+                <arg f="" n="1">com as autoridades </arg>
+                <arg f="" n="2">a liberação de ' Viver ! ' </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1765: O governo cria a URV e estabelece um prazo de três a quatro meses para que a sociedade negocie conversões voluntárias . </text>
+                <arg f="" n="0">a sociedade </arg>
+                <rel f="">negocie</rel>
+                <arg f="" n="2">conversões voluntárias </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1438: Em a discussão com a bancada , FHC deve tratar de a revisão constitucional e de a delegação que recebeu de o partido para negociar as alianças eleitorais . </text>
+                <rel f="">negociar</rel>
+                <arg f="" n="2">as alianças eleitorais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1312: São três as certezas entre as partes que negociam o aumento de salário para o funcionalismo : a decisão não pode ser adiada , a aparência de equilíbrio fiscal deve ser preservada e Ricupero ficará em o cargo em quaisquer circunstâncias . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">negociam</rel>
+                <arg f="" n="2">o aumento de salário para o funcionalismo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1062: « Queremos também negociar com as indústrias rentabilidade mínima de 15 % » , diz Araújo . </text>
+                <rel f="">negociar</rel>
+                <arg f="" n="1">com as indústrias </arg>
+                <arg f="" n="2">rentabilidade mínima de 15 % </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s905: Segundo ele , os traficantes também teriam interesse em negociar uma redução em suas penas . </text>
+                <rel f="">negociar</rel>
+                <arg f="" n="2">uma redução em suas penas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s854: Christian_Fittipaldi , por_sua_vez , negocia com a Tyrrell . </text>
+                <arg f="" n="0">Christian_Fittipaldi </arg>
+                <arg f="tmp" n="m">por_sua_vez </arg>
+                <rel f="">negocia</rel>
+                <arg f="" n="1">com a Tyrrell </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s799: Essa proposta permitiria a o governo negociar em posição favorável o resgate de os títulos públicos , já_que o programa admite o « não-pagamento parcial de a dívida , assegurada a poupança » . </text>
+                <rel f="">negociar</rel>
+                <arg f="mnr" n="m">em posição favorável </arg>
+                <arg f="" n="2">o resgate de os títulos públicos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s549: Pão-de-açúcar negocia compra de a G.Aronson </text>
+                <arg f="" n="0">Pão-de-açúcar </arg>
+                <rel f="">negocia</rel>
+                <arg f="" n="2">compra de a G.Aronson </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s294: Cerca_de 72 % de os empresários de a construção querem que o próprio setor negocie a conversão de os contratos para a URV , enquanto 28 % desejam que o governo estabeleça as regras . </text>
+                <arg f="" n="0">o próprio setor </arg>
+                <rel f="">negocie</rel>
+                <arg f="" n="2">a conversão de os contratos para a URV </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s127: Primeiro aprova- se o texto enxuto e depois negocia- se a aprovação , sem prazo definido , de as leis complementares e ordinárias . </text>
+                <arg f="tmp" n="m">depois </arg>
+                <rel f="">negocia-</rel>
+                <arg f="" n="0">se </arg>
+                <arg f="" n="2">a aprovação , sem prazo definido , de as leis complementares e ordinárias </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s11: Além_de isso , a co-produção com o canal francês TCF1 para a realização de mais 30 episódios continua sendo negociada . </text>
+                <arg f="dis" n="m">Além_de isso </arg>
+                <arg f="" n="2">a co-produção com o canal francês TCF1 para a realização de mais 30 episódios </arg>
+                <rel f="">negociada</rel>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="trade.01" id="negociar.02"
+            name="fazer negócio; comercializar" vncls="13.1 13.6">
+            <roles>
+                <role descr="agent, entity trading" n="0">
+                    <vnrole vncls="13.1" vntheta="Agent"/>
+                    <vnrole vncls="13.6" vntheta="Agent"/>
+                </role>
+                <role descr="thing being traded (away)" n="1">
+                    <vnrole vncls="13.1" vntheta="Theme"/>
+                    <vnrole vncls="13.6" vntheta="Theme1"/>
+                </role>
+                <role descr="other exchanger" n="2"/>
+                <role
+                    descr="other item in exchange, price, or premium, traded for or at" n="3">
+                    <vnrole vncls="13.6" vntheta="Theme2"/>
+                </role>
+                <role descr="benefactive" n="4">
+                    <vnrole vncls="13.1" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3724: A corretora Antonio_Delapieve e seus dirigentes foram multados por negociar títulos de renda fixa a preços superavaliados . </text>
+                <rel f="">negociar</rel>
+                <arg f="" n="1">títulos de renda fixa a preços superavaliados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2720: Anteontem , o Banerj , que administra a dívida pública estadual , não conseguiu que o Banco_Central negociasse R$ 84 milhões em títulos estaduais , trocando- os por títulos federais . </text>
+                <arg f="" n="0">o Banco_Central </arg>
+                <rel f="">negociasse</rel>
+                <arg f="" n="1">R$ 84 milhões </arg>
+                <arg f="prd" n="m">em títulos estaduais </arg>
+                <arg f="mnr" n="m">trocando- os por títulos federais </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1667: Ontem , em o mercado privado , sem interferência de o Banco_Central , o dólar foi negociado a R$ 0,90 . </text>
+                <arg f="tmp" n="m">Ontem </arg>
+                <arg f="loc" n="m">em o mercado privado </arg>
+                <arg f="mnr" n="m">sem interferência de o Banco_Central </arg>
+                <arg f="" n="1">o dólar </arg>
+                <rel f="">negociado</rel>
+                <arg f="" n="3">a R$ 0,90 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1525: Em o Brasil , coisa esquisita , já se negociou CDB de seis meses uma eternidade , hoje_em_dia . </text>
+                <arg f="loc" n="m">Em o Brasil , coisa esquisita , </arg>
+                <arg f="adv" n="m">já </arg>
+                <rel f="">negociou</rel>
+                <arg f="" n="1">CDB de seis meses uma eternidade , hoje_em_dia </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

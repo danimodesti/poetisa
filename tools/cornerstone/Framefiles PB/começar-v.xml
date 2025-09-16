@@ -1,0 +1,287 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="começar">
+        <roleset framnet="start.01" id="começar.01" name="iniciar" vncls="55.1">
+            <roles>
+                <role descr="Agent" n="0">
+                    <vnrole vncls="55.1" vntheta="Agent"/>
+                </role>
+                <role descr="Theme(-Creation)" n="1">
+                    <vnrole vncls="55.1" vntheta="Theme"/>
+                </role>
+                <role descr="Instrument" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s4174: Mercedes diz que começaria como vereadora : </text>
+                <arg f="" n="0">Mercedes </arg>
+                <rel f="">começaria</rel>
+                <arg f="" n="2">como vereadora </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3891: Nascido em o dia 23 de maio de 1972 , em São_Paulo , Rubens_Gonçalves_Barrichello começou sua carreira automobilística em o kart , em 81 , quando foi vice- campeão júnior de a capital paulista . </text>
+                <arg f="prd" n="m">Nascido em o dia 23 de maio de 1972 , em São_Paulo , </arg>
+                <arg f="" n="0">Rubens_Gonçalves_Barrichello </arg>
+                <rel f="">começou</rel>
+                <arg f="" n="1">sua carreira automobilística </arg>
+                <arg f="loc" n="m">em o kart </arg>
+                <arg f="tmp" n="m">em 81 , quando foi vice- campeão júnior de a capital paulista </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3880: A guerra começou há 13 dias por_causa_de um confronto entre o presidente Ali_Abdulllah_Saleh e seu vice . </text>
+                <arg f="" n="1">A guerra </arg>
+                <rel f="">começou</rel>
+                <arg f="tmp" n="m">há 13 dias </arg>
+                <arg f="cau" n="m">por_causa_de um confronto entre o presidente Ali_Abdulllah_Saleh e seu vice </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3823: O shopping West_Plaza já começou sua promoção de Dia_das_Mães . </text>
+                <arg f="" n="0">O shopping West_Plaza </arg>
+                <arg f="adv" n="m">já </arg>
+                <rel f="">começou</rel>
+                <arg f="" n="1">sua promoção de Dia_das_Mães </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3822: Promoção de o Dia_das_Mães começa com desfiles </text>
+                <arg f="" n="1">Promoção de o Dia_das_Mães </arg>
+                <rel f="">começa</rel>
+                <arg f="" n="2">com desfiles </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s3792: Depois de um tempo , as vozes aumentam e acabo ficando atordoada e não consigo terminar o_que comecei » . </text>
+                <arg f="" n="1">o_que </arg>
+                <rel f="">comecei</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosF.s3791: Esses aspectos podem ser observados em os relatos de as pacientes : « quando tenho que arrumar a casa e não estou com_vontade , escuto vozes que me incentivam a começar a tarefa . </text>
+                <rel f="">começar</rel>
+                <arg f="" n="1">a tarefa </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3495: Com isso , o Cruzeiro deve começar a partida com Michelli , Magno , Derlan , Marcus_Vinícius e Anderson ; Emiliano , Juliano e Anderson_Leão ; Ricardinho , Nílson e Herbert . </text>
+                <arg f="cau" n="m">Com isso </arg>
+                <arg f="" n="0">o Cruzeiro </arg>
+                <rel f="">começar</rel>
+                <arg f="" n="1">a partida </arg>
+                <arg f="" n="2">com Michelli , Magno , Derlan , Marcus_Vinícius e Anderson ; Emiliano , Juliano e Anderson_Leão ; Ricardinho , Nílson e Herbert </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3386: Para mim é muito estimulante oferecer uma idéia espacial para um trabalho que começou a_partir_de uma idéia musical . </text>
+                <arg f="" n="1">que </arg>
+                <rel f="">começou</rel>
+                <arg f="" n="2">a_partir_de uma idéia musical </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s3181: Em Mato_Grosso , a paralisação está prevista para começar hoje . </text>
+                <rel f="">começar</rel>
+                <arg f="tmp" n="m">hoje </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2827: O São_Paulo começou o primeiro tempo apático , mas acordou a os 10 min com uma falta não marcada de o lateral Mac_Allister em Euller , quando este ia entrar em a área . </text>
+                <arg f="" n="0">O São_Paulo </arg>
+                <rel f="">começou</rel>
+                <arg f="" n="1">o primeiro tempo </arg>
+                <arg f="mnr" n="m">apático </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2787: Começaram ontem pela_manhã em Nova_York os desfiles de prêt-à-porter outono-inverno . </text>
+                <rel f="">Começaram</rel>
+                <arg f="tmp" n="m">ontem </arg>
+                <arg f="tmp" n="m">pela_manhã </arg>
+                <arg f="loc" n="m">em Nova_York </arg>
+                <arg f="" n="1">os desfiles de prêt-à-porter outono-inverno </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2519: A secessão está só começando . </text>
+                <arg f="" n="1">A secessão </arg>
+                <arg f="adv" n="m">só </arg>
+                <rel f="">começando</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2347: A primeira etapa de o programa começa hoje e vai até o dia 2 em João_Pessoa ( PB ) . </text>
+                <arg f="" n="1">A primeira etapa de o programa </arg>
+                <rel f="">começa</rel>
+                <arg f="tmp" n="m">hoje </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1783: Esta tarde , por_força_de a suspensão de Axel , já começa melhor em o papel , com Vítor em a lateral e Cafu em o meio . </text>
+                <arg f="tmp" n="m">Esta tarde </arg>
+                <arg f="cau" n="m">por_força_de a suspensão de Axel </arg>
+                <arg f="adv" n="m">já </arg>
+                <rel f="">começa</rel>
+                <arg f="mnr" n="m">melhor </arg>
+                <arg f="loc" n="m">em o papel , com Vítor em a lateral e Cafu em o meio </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s1743: O comerciante Albano_Miguel_Ferreira , 37 , disse que estava em a área de serviço de seu apartamento , em o primeiro andar , e viu o fogo começar em um barracão em os fundos de a loja . </text>
+                <arg f="" n="1">o fogo </arg>
+                <rel f="">começar</rel>
+                <arg f="loc" n="m">em um barracão </arg>
+                <arg f="loc" n="m">em os fundos de a loja </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1458: Assim_como a China , aceleramos a reforma em o campo , começamos por aí . </text>
+                <rel f="">começamos</rel>
+                <arg f="" n="2">por aí </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1343: Começa hoje em SP a feira Cosmética'94 </text>
+                <rel f="">Começa</rel>
+                <arg f="tmp" n="m">hoje </arg>
+                <arg f="loc" n="m">em SP </arg>
+                <arg f="" n="1">a feira Cosmética'94 </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1300: Baile de salão em a TV começa mal </text>
+                <arg f="" n="1">Baile de salão em a TV </arg>
+                <rel f="">começa</rel>
+                <arg f="mnr" n="m">mal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1205: A corrida sucessória começa esta semana com um quadro mais claro e definido do_que o de a semana passada . </text>
+                <arg f="" n="1">A corrida sucessória </arg>
+                <rel f="">começa</rel>
+                <arg f="tmp" n="m">esta semana </arg>
+                <arg f="" n="2">com um quadro mais claro e definido do_que o de a semana passada </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s690: PT , PDT , PC_do_B e os outros « contras » ( partidos contrários a a revisão ) exigiram que as votações de o Congresso revisor começassem por a questão tributária . </text>
+                <arg f="" n="1">as votações de o Congresso revisor </arg>
+                <rel f="">começassem</rel>
+                <arg f="" n="2">por a questão tributária </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s608: Começou a esculhambação ? ! </text>
+                <rel f="">Começou</rel>
+                <arg f="" n="1">a esculhambação </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s457: O corredor começará em a marginal Tietê , em a altura de o Cebolão , passará por o Ceagesp , praça Panamericana , Faria_Lima , Luís_Carlos_Berrini e terminará , por_enquanto , em o shopping Morumbi . </text>
+                <arg f="" n="1">O corredor </arg>
+                <rel f="">começará</rel>
+                <arg f="loc" n="m">em a marginal Tietê , em a altura de o Cebolão </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s446: A ação de a PF começou a as 16h30 de anteontem e só terminou ontem a as 15h30 . </text>
+                <arg f="" n="1">A ação de a PF </arg>
+                <rel f="">começou</rel>
+                <arg f="tmp" n="m">a as 16h30 de anteontem </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s333: As inscrições começam em o próximo dia 12 , em as agências de os Correios . </text>
+                <arg f="" n="1">As inscrições </arg>
+                <rel f="">começam</rel>
+                <arg f="tmp" n="m">em o próximo dia 12 </arg>
+                <arg f="loc" n="m">em as agências de os Correios </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s214: Fiske começou seu trabalho em 20 de janeiro . </text>
+                <arg f="" n="0">Fiske </arg>
+                <rel f="">começou</rel>
+                <arg f="" n="1">seu trabalho </arg>
+                <arg f="tmp" n="m">em 20 de janeiro </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s162: Diniz começou sua carreira automobilística em 1989 , em o Brasileiro_de_Fórmula_Ford , campeonato em que obteve a sexta posição em a classificação final . </text>
+                <arg f="" n="0">Diniz </arg>
+                <rel f="">começou</rel>
+                <arg f="" n="1">sua carreira automobilística </arg>
+                <arg f="tmp" n="m">em 1989 </arg>
+                <arg f="loc" n="m">em o Brasileiro_de_Fórmula_Ford , campeonato em que obteve a sexta posição em a classificação final </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s60: Começou bem antes de o que se previa a batalha por a futura sucessão em a Fifa apenas seis meses depois de o super-acordo que , em as vésperas de a Copa , reconduziu o brasileiro João_Havelange a o sexto mandato consecutivo . </text>
+                <rel f="">Começou</rel>
+                <arg f="tmp" n="m">bem antes de o que se previa </arg>
+                <arg f="" n="1">a batalha por a futura sucessão em a Fifa </arg>
+                <arg f="tmp" n="m">apenas seis meses depois de o super-acordo que , em as vésperas de a Copa , reconduziu o brasileiro João_Havelange a o sexto mandato consecutivo </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

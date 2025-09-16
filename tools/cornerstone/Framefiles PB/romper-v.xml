@@ -1,0 +1,101 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="romper">
+        <roleset framnet="break.14" id="romper.01" name="romper com = abandonar" vncls="23.2">
+            <roles>
+                <role descr="breaker" f="" n="0">
+                    <vnrole vncls="23.2" vntheta="agent"/>
+                </role>
+                <role descr="break from" f="" n="1">
+                    <vnrole vncls="23.2" vntheta="patient"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosB.s3320: De_fato , a maioria de suas histórias acontece em um tempo algo a a frente de o presente , mas Gibson rompe completamente com a idéia fundadora de a FC em o cinema ou em a literatura de « futuro » como evolução .</text>
+                <arg f="" n="0">Gibson</arg>
+                <rel f="">rompe</rel>
+                <arg f="mnr" n="m">completamente</arg>
+                <arg f="" n="1">com a idéia fundadora de a FC em o cinema ou em a literatura de « futuro » como evolução</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="break.01" id="romper.02" name="separar; dividir; causar não ser mais um todo" vncls="23.2 45.1 40.8.3-1">
+            <roles>
+                <role descr="breaker" f="" n="0">
+                    <vnrole vncls="23.2" vntheta="agent"/>
+                    <vnrole vncls="40.8.3-1" vntheta="experiencer"/>
+                    <vnrole vncls="45.1" vntheta="agent"/>
+                </role>
+                <role descr="thing broken" f="" n="1">
+                    <vnrole vncls="23.2" vntheta="patient1"/>
+                    <vnrole vncls="40.8.3-1" vntheta="patient"/>
+                    <vnrole vncls="45.1" vntheta="patient"/>
+                </role>
+                <role descr="instrument" f="" n="2">
+                    <vnrole vncls="45.1" vntheta="instrument"/>
+                </role>
+                <role descr="pieces" f="" n="3">
+                    <vnrole vncls="23.2" vntheta="patient2"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s1434: As chibatadas rompem a pele e as cicatrizes ficam por toda a vida .</text>
+                <arg f="" n="2">As chibatadas</arg>
+                <rel f="">rompem</rel>
+                <arg f="" n="1">a pele</arg>
+                
+            <note>neste exemplo, "hurt.01" traduziria melhor a colocação</note>
+</example>
+            
+        <note/>
+</roleset>
+        
+        <roleset framnet="break.03" id="romper.03" name="por fim a; interromper" vncls="45.1">
+            <roles>
+                <role descr="causer, agent" f="" n="0">
+                    <vnrole vncls="45.1" vntheta="agent"/>
+                </role>
+                <role descr="thing stopping" f="" n="1">
+                    <vnrole vncls="45.1" vntheta="patient"/>
+                </role>
+                
+            <note/>
+</roles>
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s467: Os metalúrgicos de o Estado de São_Paulo de a base de a Força_Sindical ( data-base em novembro ) romperam negociação com os setores de autopeças , forjaria e parafusos e preparam greve .</text>
+                <arg f="" n="0">Os metalúrgicos de o Estado de São_Paulo de a base de a Força_Sindical ( data-base em novembro )</arg>
+                <rel f="">romperam</rel>
+                <arg f="" n="1">negociação com os setores de autopeças , forjaria e parafusos</arg>
+                
+            <note/>
+</example>
+            
+            <example name="" src="corpus Propbank-Br" type="">
+                <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+                <text>bosA.s466: Metalúrgico rompe negociação</text>
+                <arg f="" n="0">Metalúrgico</arg>
+                <rel f="">rompe</rel>
+                <arg f="" n="1">negociação</arg>
+                
+            <note/>
+</example>
+            
+        <note/>
+</roleset>
+        
+    <note/>
+</predicate>
+    
+<note/>
+</frameset>

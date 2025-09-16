@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="ascender">
+        <roleset framnet="ascend.01" id="ascender.01" name="subir" vncls="51.1-1">
+            <roles>
+                <role descr="entity rising" n="0">
+                    <vnrole vncls="51.1-1" vntheta="Theme"/>
+                </role>
+                <role descr="location" n="1">
+                    <vnrole vncls="51.1-1" vntheta="Location"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1227: Em a realidade , ela aumenta à_medida_que as pessoas ascendem a escada socioeconômica » . </text>
+                <arg f="mnr" n="m">à_medida_que </arg>
+                <arg f="" n="0">as pessoas </arg>
+                <rel f="">ascendem</rel>
+                <arg f="" n="1">a escada socioeconômica </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

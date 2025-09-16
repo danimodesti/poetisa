@@ -1,0 +1,60 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="contribuir">
+        <roleset framnet="contribute.01" id="contribuir.01"
+            name="dar contribuição; ajudar com alguma coisa" vncls="13.2">
+            <roles>
+                <role descr="giver" n="0">
+                    <vnrole vncls="13.2" vntheta="Agent"/>
+                </role>
+                <role descr="thing given" n="1">
+                    <vnrole vncls="13.2" vntheta="Theme"/>
+                </role>
+                <role descr="entity given to" n="2">
+                    <vnrole vncls="13.2" vntheta="Recipient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3106: Ou_seja , se tal procedimento não for ocasional e tiver realmente a conivência de as transportadoras aéreas , estas estão expressamente contribuindo para a concorrência desleal e ilícita perante os agentes de viagens além_de não preservar seus clientes , que não são consultados sobre se querem ou não receber tais propostas ou se autorizam a divulgação de seus nomes e endereços . </text>
+                <arg f="dis" n="m">Ou_seja </arg>
+                <arg f="adv" n="m">se tal procedimento não for ocasional e tiver realmente a conivência de as transportadoras aéreas </arg>
+                <arg f="" n="0">estas </arg>
+                <arg f="mnr" n="m">expressamente </arg>
+                <rel f="">contribuindo</rel>
+                <arg f="" n="2">para a concorrência desleal e ilícita perante os agentes de viagens </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2999: Pode se reorientar para uma maior produção industrial e contribuir para a criação de mais emprego e riqueza , consequência natural de o processo . </text>
+                <rel f="">contribuir</rel>
+                <arg f="" n="2">para a criação de mais emprego e riqueza , consequência natural de o processo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1122: Esse quadro de inseguranças e de incertezas que já dura há duas décadas contribui para transformar o integrismo , o racismo , a intolerância política em um formidável desafio a o sistema democrático em este nosso fim de século . </text>
+                <arg f="" n="0">Esse quadro de inseguranças e de incertezas que já dura há duas décadas </arg>
+                <rel f="">contribui</rel>
+                <arg f="" n="2">para transformar o integrismo , o racismo , a intolerância política em um formidável desafio a o sistema democrático em este nosso fim de século </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s63: O Ambulim foi um de os centros que contribuíram para um estudo apresentado em a 5ª Conferência_Internacional_sobre_Transtornos_Alimentares , de 29 de abril a 1º de maio em Nova_York . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">contribuíram</rel>
+                <arg f="" n="2">para um estudo apresentado em a 5ª Conferência_Internacional_sobre_Transtornos_Alimentares , de 29 de abril a 1º de maio em Nova_York </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

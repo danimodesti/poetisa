@@ -1,0 +1,30 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="atear">
+        <roleset framnet="light.01" id="atear.01" name="acender " vncls="45.4">
+            <roles>
+                <role
+                    descr="setter of fire, increaser of illumination, agent" n="0">
+                    <vnrole vncls="45.4" vntheta="Agent"/>
+                </role>
+                <role descr="entity lit" n="1">
+                    <vnrole vncls="45.4" vntheta="Patient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s2978: E , para Bruno_Bettelheim , as pequenas velas e lâmpadas que a iluminam seriam vestígios de as antigas fogueiras que os pagãos de o norte de a Europa ateavam em o alto de as montanhas para antecipar a chegada de o Sol e o fim de o inverno . </text>
+                <arg f="" n="1">que </arg>
+                <arg f="" n="0">os pagãos de o norte de a Europa </arg>
+                <rel f="">ateavam</rel>
+                <arg f="loc" n="m">em o alto de as montanhas </arg>
+                <arg f="pnc" n="m">para antecipar a chegada de o Sol e o fim de o inverno </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="posar">
+        <roleset framnet="pose.01" id="posar.01"
+            name="fazer pose (para fotografia); adotar atitude de" vncls="29.6">
+            <roles>
+                <role descr="player" n="0">
+                    <vnrole vncls="29.6" vntheta="Agent"/>
+                </role>
+                <role descr="role" n="1">
+                    <vnrole vncls="29.6" vntheta="Predicate"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2483: O fato de o presidente ter posado ao_lado_de aquela atriz foi um vexame para toda a nação brasileira . </text>
+                <arg f="" n="0">o presidente </arg>
+                <rel f="">posado</rel>
+                <arg f="" n="1">ao_lado_de aquela atriz </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1919: Ex- presidente não fala a a imprensa , mas posa para fotos </text>
+                <arg f="" n="0">Ex- presidente não fala a a imprensa , </arg>
+                <rel f="">posa</rel>
+                <arg f="" n="2">para fotos </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1433: Em a chegada de o ano em que disputará uma vaga em o Senado por o PP-SP , deu mais_de duas dezenas de entrevistas , posou para fotos , e deixou 1993 em as emissoras de rádio e TV . </text>
+                <rel f="">posou</rel>
+                <arg f="" n="2">para fotos </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

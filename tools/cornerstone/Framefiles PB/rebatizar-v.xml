@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="rebatizar">
+        <roleset framnet="rename.01" id="rebatizar.01"
+            name="mudar o nome" vncls="-">
+            <roles>
+                <role descr="assigner of name, agent" n="0"/>
+                <role descr="entity named" n="1"/>
+                <role descr="new name" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s483: Sem revelar o coração de o plano , Itamar rebatizou o conjunto de medidas elaboradas por a equipe econômica de o ex-ministro_da_Fazenda , Fernando_Henrique_Cardoso , de Plano_Real </text>
+                <arg f="adv" n="m">Sem revelar o coração de o plano </arg>
+                <arg f="" n="0">Itamar </arg>
+                <rel f="">rebatizou</rel>
+                <arg f="" n="1">o conjunto de medidas elaboradas por a equipe econômica de o ex-ministro_da_Fazenda , Fernando_Henrique_Cardoso , de Plano_Real </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

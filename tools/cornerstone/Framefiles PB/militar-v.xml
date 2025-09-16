@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="militar">
+        <roleset framnet="militate.01" id="militar.01" name="lutar" vncls="-">
+            <roles>
+                <role descr="arguer" n="0"/>
+                <role descr="against what" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2310: Entre os exemplares de estes vinhos que chegaram a as nossas praias , todos safra 92 , o « Bourgueil_LÉchellerie » , milita decididamente em a primeira fila . </text>
+                <arg f="loc" n="m">Entre os exemplares de estes vinhos que chegaram a as nossas praias , todos safra 92 , </arg>
+                <arg f="" n="0">o « Bourgueil_LÉchellerie » </arg>
+                <rel f="">milita</rel>
+                <arg f="mnr" n="m">decididamente </arg>
+                <arg f="loc" n="m">em a primeira fila </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

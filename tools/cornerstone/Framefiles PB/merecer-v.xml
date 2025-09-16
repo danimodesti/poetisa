@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="merecer">
+        <roleset framnet="merit.01" id="merecer.01" name="ser digno de" vncls="-">
+            <roles>
+                <role descr="thing worthy" n="0"/>
+                <role descr="thing worthy of" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3024: Merecia coisa melhor . </text>
+                <rel f="">Merecia</rel>
+                <arg f="" n="1">coisa melhor </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2710: Em esta ala merece menção o seu Bruto_Rosé , um espumante elaborado com uva Baga ( 100 % ) que conserva um_pouco de a cor e muito de frutado de esta variedade típica de a região . </text>
+                <arg f="loc" n="m">Em esta ala </arg>
+                <rel f="">merece</rel>
+                <arg f="" n="1">menção </arg>
+                <arg f="" n="0">o seu Bruto_Rosé , um espumante elaborado com uva Baga ( 100 % ) que conserva um_pouco de a cor e muito de frutado de esta variedade típica de a região </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s123: Optar entre um aparelho conjugado e outro simples é outro ponto que merece atenção . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">merece</rel>
+                <arg f="" n="1">atenção </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

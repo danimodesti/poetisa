@@ -1,0 +1,132 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="acrescentar">
+        <roleset framnet="add.02" id="acrescentar.01"
+            name="somar uma coisa a outra" vncls="22.1-2">
+            <roles>
+                <role descr="adder" n="0">
+                    <vnrole vncls="22.1-2" vntheta="Agent"/>
+                </role>
+                <role descr="thing being added" n="1">
+                    <vnrole vncls="22.1-2" vntheta="Patient1"/>
+                </role>
+                <role descr="thing being added to" n="2">
+                    <vnrole vncls="22.1-2" vntheta="Patient2"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2705: Depois de registrado , Queiroz apresentou uma segunda declaração a o TSE ( Tribunal_Superior_Eleitoral ) , acrescentando bens que alegou ter « esquecido » em os primeiros papéis que foram apresentados . </text>
+                <arg f="" n="0">Queiroz </arg>
+                <arg f="" n="2">uma segunda declaração </arg>
+                <rel f="">acrescentando</rel>
+                <arg f="" n="1">bens que alegou ter « esquecido » em os primeiros papéis que foram apresentados </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="add.01" id="acrescentar.02" name="dizer" vncls="25.3">
+            <roles>
+                <role descr="speaker" n="0">
+                    <vnrole vncls="25.3" vntheta="Agent"/>
+                </role>
+                <role descr="utterance" n="1">
+                    <vnrole vncls="25.3" vntheta="Theme"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3009: É como_se estivesse lá » , acrescenta Rodrigo . </text>
+                <arg f="" n="1">É como_se estivesse lá </arg>
+                <rel f="">acrescenta</rel>
+                <arg f="" n="0">Rodrigo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2297: O governador acrescentou que pedirá a o Nosso_Senhor_do_Bonfim para que o plano dê certo . </text>
+                <arg f="" n="0">O governador </arg>
+                <rel f="">acrescentou</rel>
+                <arg f="" n="1">que pedirá a o Nosso_Senhor_do_Bonfim para que o plano dê certo </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s2004: « Nós não vamos dar corda a o debate rasteiro » , acrescentou o presidente de o PT , que acha improvável o STF permitir a candidatura de José_Sarney por um partido que não seja o PMDB . </text>
+                <arg f="" n="1">« Nós não vamos dar corda a o debate rasteiro » </arg>
+                <rel f="">acrescentou</rel>
+                <arg f="" n="0">o presidente de o PT , que acha improvável o STF permitir a candidatura de José_Sarney por um partido que não seja o PMDB </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosF.s1673: Os discursos de a frugalidade , de a austeridade ficaram para as repúblicas gregas e romanas , aquelas que Montesquieu ainda celebrava , em meados de o século 18 , quando dizia que o regime republicano se caracteriza por a disposição de seus cidadãos a renunciar a o bem privado em_favor_de o bem comum e por isso , acrescentava ele , trata- se de regime impossível em a modernidade , em a_qual se busca a vantagem pessoal . </text>
+                <arg f="cau" n="m">por isso </arg>
+                <rel f="">acrescentava</rel>
+                <arg f="" n="0">ele </arg>
+                <arg f="" n="1">trata- se de regime impossível em a modernidade , em a_qual se busca a vantagem pessoal </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1274: Acrescenta que o cinquentenário instituto que , a_exemplo de a Nielsen , tem atuação internacional , se dispõe a oferecer eventuais relatórios diferenciados de o concorrente . </text>
+                <rel f="">Acrescenta</rel>
+                <arg f="" n="1">que o cinquentenário instituto que , a_exemplo de a Nielsen , tem atuação internacional , se dispõe a oferecer eventuais relatórios diferenciados de o concorrente </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s815: « Mas todos serão demitidos » , acrescentou . </text>
+                <arg f="" n="1">Mas todos serão demitidos </arg>
+                <rel f="">acrescentou</rel>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s85: O fã de aquela época vai ser fã sempre » , acrescentou Costenaro . </text>
+                <arg f="" n="1">O fã de aquela época vai ser fã sempre </arg>
+                <rel f="">acrescentou</rel>
+                <arg f="" n="0">Costenaro </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+        <roleset framnet="add.03" id="acrescentar.03"
+            name="provocar acréscimo" vncls="108">
+            <roles>
+                <role
+                    descr="Logical subject, patient, thing rising/gaining/being added to" n="1"/>
+                <role descr="EXT, amount risen" n="2">
+                    <vnrole vncls="108" vntheta="Agent"/>
+                </role>
+                <role descr="end point" n="4">
+                    <vnrole vncls="108" vntheta="Theme"/>
+                </role>
+                <role descr="medium" n="M"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3346: Segundo Galan , os novos produtos e serviços acrescentarão 10 % a o faturamento , que foi de US$ 360 milhões em 93 . </text>
+                <arg f="" n="0">os novos produtos e serviços </arg>
+                <rel f="">acrescentarão</rel>
+                <arg f="" n="1">10 % </arg>
+                <arg f="" n="2">a o faturamento , que foi de US$ 360 milhões em 93 </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

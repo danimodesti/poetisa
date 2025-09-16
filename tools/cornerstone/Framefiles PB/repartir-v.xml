@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="repartir">
+        <roleset framnet="share.01" id="repartir.01"
+            name="compartilhar; dividir" vncls="-">
+            <roles>
+                <role descr="sharer" n="0"/>
+                <role descr="thing shared" n="1"/>
+                <role descr="shared with, if separate from arg0" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s3081: Patricia_Wells ensinou o preparo de codornas marinadas e cuscuz marroquino e incentivava o público a repartir « food_experiences » ( o nome moderno para receber amigos para comer ) como ela mesma faz em sua casa em a Provence ( sul de a França ) , região em moda em os Estados_Unidos . </text>
+                <rel f="">repartir</rel>
+                <arg f="" n="1">food_experiences » ( o nome moderno para receber amigos para comer ) </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosD.s2735: Ele a emprega quando tem que dizer não a uma pessoa sem desagradá- la em o caso , a seus colegas de PFL que querem repartir os cargos com o PSDB antes de o 1º turno . </text>
+                <rel f="">repartir</rel>
+                <arg f="" n="1">os cargos </arg>
+                <arg f="" n="2">com o PSDB </arg>
+                <arg f="tmp" n="m">antes de o 1º turno </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

@@ -1,0 +1,30 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="demandar">
+        <roleset framnet="demand.01" id="demandar.01"
+            name="requerer; exigir" vncls="60-1">
+            <roles>
+                <role descr="asker" n="0">
+                    <vnrole vncls="60-1" vntheta="Agent"/>
+                </role>
+                <role descr="favor" n="1">
+                    <vnrole vncls="60-1" vntheta="Proposition"/>
+                </role>
+                <role descr="hearer" n="2">
+                    <vnrole vncls="60-1" vntheta="Patient"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1066: Em o caso de o autor de « O_Amanuense_Belmiro » ( recomendo a leitura de um de os inaugurais romances urbanos brasileiros ) não havia nada especial a demandar a pergunta feita através de o Alcino . </text>
+                <rel f="">demandar</rel>
+                <arg f="" n="1">a pergunta feita através de o Alcino </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

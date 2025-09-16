@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="notificar">
+        <roleset framnet="notify.01" id="notificar.01" name="comunicar" vncls="37.2 37.9">
+            <roles>
+                <role descr="notifier, teller" n="0">
+                    <vnrole vncls="37.2" vntheta="Agent"/>
+                    <vnrole vncls="37.9" vntheta="Agent"/>
+                </role>
+                <role descr="entity notified, told" n="1">
+                    <vnrole vncls="37.2" vntheta="Recipient"/>
+                    <vnrole vncls="37.9" vntheta="Recipient"/>
+                </role>
+                <role descr="utterance" n="2">
+                    <vnrole vncls="37.2" vntheta="Topic"/>
+                    <vnrole vncls="37.9" vntheta="Topic"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosC.s1484: A assessoria de imprensa de a Secretaria_de_Vias_Públicas disse ontem que a prefeitura só vai se manifestar depois que for notificada por a Justiça . </text>
+                <arg f="" n="1">a prefeitura </arg>
+                <rel f="">notificada</rel>
+                <arg f="" n="0">por a Justiça </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

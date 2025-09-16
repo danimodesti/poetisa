@@ -1,0 +1,71 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="lutar">
+        <roleset framnet="fight.01" id="lutar.01" name="travar luta" vncls="36.3">
+            <roles>
+                <role descr="first fighter" n="0">
+                    <vnrole vncls="36.3" vntheta="Actor1"/>
+                </role>
+                <role descr="second fighter, if separate" n="1">
+                    <vnrole vncls="36.3" vntheta="Actor2"/>
+                </role>
+                <role descr="spoils" n="2"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3550: Lutava contra a bestialidade de as pessoas e sempre mostrou isso de uma forma bizarra » , conta Mano_Bap , 29 , vocalista de a The_Central_Scrutinizer . </text>
+                <rel f="">Lutava</rel>
+                <arg f="" n="1">contra a bestialidade de as pessoas </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s3065: Americanos lutam hoje por o título de os pesados </text>
+                <arg f="" n="0">Americanos </arg>
+                <rel f="">lutam</rel>
+                <arg f="tmp" n="m">hoje </arg>
+                <arg f="" n="2">por o título de os pesados </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s2870: Ou então lutava contra uma depressão repentina , tentava controlar minha raiva , fazia piadas com alguém ou fazia força para não sentir saudades de casa . </text>
+                <rel f="">lutava</rel>
+                <arg f="" n="1">contra uma depressão repentina </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1713: Em 1920 , a sujeição de o sultão Mohamed_6º a o Tratado_de_Sèvres desagradou os nacionalistas liderados por Mustafá_Kemal , militar que lutou em as guerras balcânicas e em a Primeira_Guerra_Mundial . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">lutou</rel>
+                <arg f="loc" n="m">em as guerras balcânicas e em a Primeira_Guerra_Mundial </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s1531: O alemão não teve muita chance de lutar por a pole . </text>
+                <rel f="">lutar</rel>
+                <arg f="" n="2">por a pole </arg>
+                <note/>
+            </example>
+            <note/>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosB.s949: As 15 pessoas são membros de a Peta ( People_for_Ethical_Treatment_of_Animals ) , entidade norte-americana que luta por os direitos de os animais . </text>
+                <arg f="" n="0">que </arg>
+                <rel f="">luta</rel>
+                <arg f="" n="2">por os direitos de os animais </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

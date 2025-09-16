@@ -1,0 +1,30 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="distinguir-se">
+        <roleset framnet="differ.02" id="distinguir.01"
+            name="ser diferente; diferenciar-se" vncls="45.6">
+            <roles>
+                <role descr="things that are different" n="1">
+                    <vnrole vncls="45.6" vntheta="Patient"/>
+                </role>
+                <role descr="EXT or MNR, how different" n="2">
+                    <vnrole vncls="45.6" vntheta="Extent"/>
+                </role>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1032: Segundo Arnaldo_Leite , coordenador de o Programa_de_Capacitação_Gerencial de o Sebrae ( Serviço_Brasileiro_de_Apoio_às_Micro_e_Pequenas_Empresas ) , o programa se distingue de similares de outros Estados por ter aval prévio de o Tribunal_de_Contas . </text>
+                <arg f="dis" n="m">Segundo Arnaldo_Leite , coordenador de o Programa_de_Capacitação_Gerencial de o Sebrae ( Serviço_Brasileiro_de_Apoio_às_Micro_e_Pequenas_Empresas ) </arg>
+                <arg f="" n="1">o programa </arg>
+                <rel f="">distingue</rel>
+                <arg f="" n="2">de similares de outros Estados </arg>
+                <arg f="" n="3">por ter aval prévio de o Tribunal_de_Contas </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>

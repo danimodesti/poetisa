@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "frameset.dtd">
+<frameset>
+    <predicate lemma="supervisionar">
+        <roleset framnet="supervise.01" id="supervisionar.01"
+            name="inspecionar; controlar" vncls="">
+            <roles>
+                <role descr="supervisor" n="0"/>
+                <role descr="thing supervised" n="1"/>
+                <note/>
+            </roles>
+            <example src="corpus Propbank-Br" type="">
+                <inflection aspect="" form="" person="" tense="" voice=""/>
+                <text>bosA.s1862: Minha experiência , em os dois últimos anos , supervisionando programas de qualidade total dentro_de o grupo Rhône-Poulenc tem mostrado isso com frequência . </text>
+                <rel f="">supervisionando</rel>
+                <arg f="" n="1">programas de qualidade total </arg>
+                <arg f="loc" n="m">dentro_de o grupo Rhône-Poulenc </arg>
+                <note/>
+            </example>
+            <note/>
+        </roleset>
+        <note/>
+    </predicate>
+    <note/>
+</frameset>
