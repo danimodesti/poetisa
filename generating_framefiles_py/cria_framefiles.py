@@ -6,9 +6,11 @@ from typing import Union
 from transformers import AutoTokenizer, AutoModel
 from sklearn.metrics.pairwise import cosine_similarity
 
-def parse_conllu(file_path:str) -> pd.DataFrame:
+def parse_conllu(file_path) -> pd.DataFrame:
     """"
     Função para extrair as informações do formato CONLL-U para um dataframe do pandas.
+    Aceita tanto caminho do arquivo (str) quanto objeto de arquivo (Streamlit UploadedFile).
+
     Args:
         file_path (str): o caminho para o arquivo CONLL-U do qual se extrairão os dados.
     Returns:
@@ -16,34 +18,41 @@ def parse_conllu(file_path:str) -> pd.DataFrame:
     """
     sentences = []
     sentence = []
-    
-    with open(file_path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line.startswith("# sent_id"):
-                sent_id = line.split(" = ")[1]
-            elif line.startswith("# text"):
-                text = line.split(" = ")[1]
-            elif line == "":
-                if sentence:
-                    sentences.append({"sent_id": sent_id, "text": text, "tokens": sentence})
-                    sentence = []
-            elif not line.startswith("#"):
-                parts = line.split("\t")
-                if len(parts) >= 10:
-                    token_info = {
-                        "id": parts[0],
-                        "form": parts[1],
-                        "lemma": parts[2],
-                        "upos": parts[3],
-                        "xpos": parts[4],
-                        "feats": parts[5],
-                        "head": parts[6],
-                        "deprel": parts[7],
-                        "deps": parts[8],
-                        "misc": parts[9]
-                    }
-                    sentence.append(token_info)
+
+    # Verifica se é um arquivo em memória (tem método 'read'), como o do Streamlit
+    if hasattr(file_path, "read"):
+        lines = file_path.read().decode("utf-8").splitlines()
+    else:
+        with open(file_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+
+
+    for line in lines:
+        line = line.strip()
+        if line.startswith("# sent_id"):
+            sent_id = line.split(" = ")[1]
+        elif line.startswith("# text"):
+            text = line.split(" = ")[1]
+        elif line == "":
+            if sentence:
+                sentences.append({"sent_id": sent_id, "text": text, "tokens": sentence})
+                sentence = []
+        elif not line.startswith("#"):
+            parts = line.split("\t")
+            if len(parts) >= 10:
+                token_info = {
+                    "id": parts[0],
+                    "form": parts[1],
+                    "lemma": parts[2],
+                    "upos": parts[3],
+                    "xpos": parts[4],
+                    "feats": parts[5],
+                    "head": parts[6],
+                    "deprel": parts[7],
+                    "deps": parts[8],
+                    "misc": parts[9]
+                }
+                sentence.append(token_info)
 
     return pd.DataFrame(sentences)
 
